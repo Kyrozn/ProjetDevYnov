@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c9da629ac99493746bef80aa23765f08
+guid: d9599815dcf80104483631180ea19678
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 871296120488635530
-    second: Monkey D Luffy_0
+      213: 9188476719555302827
+    second: movement_luffy_down-Photoroom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Monkey D Luffy_0
+      name: movement_luffy_down-Photoroom_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 529
-        height: 484
+        y: 65
+        width: 26
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a8ca6eb8437771c00800000000000000
-      internalID: 871296120488635530
+      spriteID: 3dce5a7703ec57e4d8e14e1b2416a46e
+      internalID: -577392868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movement_luffy_down-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7593356ae7e7c214f88ec7c217b0996f
+      internalID: 1524289143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movement_luffy_down-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3163f9f62c764b876608949049c41
+      internalID: -555321050
       vertices: []
       indices: 
       edges: []
@@ -125,7 +169,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 64f3f0b1ce9d6f64bbedb3271d52eb4a
     internalID: 0
     vertices: []
     indices: 
@@ -133,8 +177,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":3.0},"gridSpriteSize":{"x":26.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":1.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":true,"isAlternate":false}'
+    nameFileIdTable:
+      movement_luffy_down-Photoroom_0: -577392868
+      movement_luffy_down-Photoroom_1: 1524289143
+      movement_luffy_down-Photoroom_2: -555321050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

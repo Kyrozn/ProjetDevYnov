@@ -1,16 +1,9 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewSpell", menuName = "Spells/Spell")]
-public class Spell : ScriptableObject
+[CreateAssetMenu(menuName = "Spells/Spell")]
+public abstract class Spell : ScriptableObject
 {
-    public string spellName;
-    public int maxLevel = 3;
-
-    [TextArea] public string description;
-
-    // Amélioration du sort
-    public virtual void Upgrade(SpellInstance instance)
-    {
-        instance.level = Mathf.Min(instance.level + 1, maxLevel);
-    }
+    public float cooldown = 1f;
+    public abstract void Cast(GameObject caster);
 }
+
