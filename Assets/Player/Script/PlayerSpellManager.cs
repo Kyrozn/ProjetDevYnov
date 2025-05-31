@@ -30,9 +30,9 @@ public class PlayerSpellManager : NetworkBehaviour
         if (!isLocalPlayer) return;
 
         // Gestion des entrées (à adapter selon ton mapping)
-        if (Input.GetKeyDown(KeyCode.A)) TryRequestCast(0);
-        if (Input.GetKeyDown(KeyCode.Z)) TryRequestCast(1);
-        if (Input.GetKeyDown(KeyCode.E)) TryRequestCast(2);
+        if (Input.GetButtonDown("Fire1")) TryRequestCast(0);
+        if (Input.GetButtonDown("Fire2")) TryRequestCast(1);
+        if (Input.GetButtonDown("Fire3")) TryRequestCast(2);
     }
 
     void TryRequestCast(int index)

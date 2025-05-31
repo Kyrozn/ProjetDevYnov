@@ -13,10 +13,10 @@ GameObject:
   - component: {fileID: 6419906104634688721}
   - component: {fileID: 759819479683753371}
   - component: {fileID: 6570314923400659039}
-  - component: {fileID: -414654228547699255}
   - component: {fileID: 326059700347785965}
   - component: {fileID: -2717444600741511715}
   - component: {fileID: -7592217967656082177}
+  - component: {fileID: -5811041163828593237}
   m_Layer: 0
   m_Name: Luffy
   m_TagString: Untagged
@@ -154,26 +154,6 @@ MonoBehaviour:
   serverOnly: 0
   visibility: 0
   hasSpawned: 0
---- !u!114 &-414654228547699255
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5932135543104303592}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea44648dbc182f74a8ae96c36d59ed76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  syncDirection: 0
-  syncMode: 0
-  syncInterval: 0
-  equippedSpells:
-  - {fileID: 11400000, guid: 1a8eb9be01be1aa42beaf790ad61ef66, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
 --- !u!50 &326059700347785965
 Rigidbody2D:
   serializedVersion: 5
@@ -253,4 +233,26 @@ MonoBehaviour:
   syncDirection: 0
   syncMode: 0
   syncInterval: 0
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 0
   speed: 5
+--- !u!114 &-5811041163828593237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5932135543104303592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea44648dbc182f74a8ae96c36d59ed76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  syncDirection: 0
+  syncMode: 0
+  syncInterval: 0
+  equippedSpells:
+  - {fileID: 11400000, guid: 1a8eb9be01be1aa42beaf790ad61ef66, type: 2}
+  - {fileID: 11400000, guid: 1a8eb9be01be1aa42beaf790ad61ef66, type: 2}
+  - {fileID: 11400000, guid: 1a8eb9be01be1aa42beaf790ad61ef66, type: 2}
