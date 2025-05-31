@@ -4,7 +4,7 @@ using UnityEngine;
 [RequireComponent(typeof(Animator))]
 public class PlayerController : NetworkBehaviour
 {
-    public LayerMask enemyLayer;
+    [SerializeField] public LayerMask enemyLayer;
     
     [Header("Déplacement")]
     public float speed = 5f;

@@ -1,0 +1,2997 @@
+fileFormatVersion: 2
+guid: 68bfd923fcaadba4ba072d80b6c1c17d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1660099911201276994
+    second: Final Boss-Photoroom_0
+  - first:
+      213: 7700974096118764995
+    second: Final Boss-Photoroom_1
+  - first:
+      213: -2887901868775223568
+    second: Final Boss-Photoroom_2
+  - first:
+      213: -6174675619889201044
+    second: Final Boss-Photoroom_3
+  - first:
+      213: -7080908745178142511
+    second: Final Boss-Photoroom_4
+  - first:
+      213: 5895443043321057630
+    second: Final Boss-Photoroom_5
+  - first:
+      213: -1679207534270584820
+    second: Final Boss-Photoroom_6
+  - first:
+      213: 1201526279202776351
+    second: Final Boss-Photoroom_7
+  - first:
+      213: 4411957495401580383
+    second: Final Boss-Photoroom_8
+  - first:
+      213: 3337793026402981145
+    second: Final Boss-Photoroom_9
+  - first:
+      213: 4370527132324439367
+    second: Final Boss-Photoroom_10
+  - first:
+      213: 470116497476396739
+    second: Final Boss-Photoroom_11
+  - first:
+      213: -6941410163729046649
+    second: Final Boss-Photoroom_12
+  - first:
+      213: -2524265884809674180
+    second: Final Boss-Photoroom_13
+  - first:
+      213: -7067518824701093846
+    second: Final Boss-Photoroom_14
+  - first:
+      213: 1949091150480243901
+    second: Final Boss-Photoroom_15
+  - first:
+      213: -8993588643734867385
+    second: Final Boss-Photoroom_16
+  - first:
+      213: -4044467068855638774
+    second: Final Boss-Photoroom_17
+  - first:
+      213: -295646107623623136
+    second: Final Boss-Photoroom_18
+  - first:
+      213: -6998838177801611062
+    second: Final Boss-Photoroom_19
+  - first:
+      213: -2806830128655746025
+    second: Final Boss-Photoroom_20
+  - first:
+      213: 5315445653260412214
+    second: Final Boss-Photoroom_21
+  - first:
+      213: -6364593924398814006
+    second: Final Boss-Photoroom_22
+  - first:
+      213: 1796418209348059295
+    second: Final Boss-Photoroom_23
+  - first:
+      213: -4780794046126800200
+    second: Final Boss-Photoroom_24
+  - first:
+      213: 3986416960495293764
+    second: Final Boss-Photoroom_25
+  - first:
+      213: -5093297865478409474
+    second: Final Boss-Photoroom_26
+  - first:
+      213: 1365184355844961711
+    second: Final Boss-Photoroom_27
+  - first:
+      213: 4692106830945393349
+    second: Final Boss-Photoroom_28
+  - first:
+      213: 4363203275516125080
+    second: Final Boss-Photoroom_29
+  - first:
+      213: 2568454523020608751
+    second: Final Boss-Photoroom_30
+  - first:
+      213: 426708762606156096
+    second: Final Boss-Photoroom_31
+  - first:
+      213: -7138249211846992931
+    second: Final Boss-Photoroom_32
+  - first:
+      213: 656044219658111239
+    second: Final Boss-Photoroom_33
+  - first:
+      213: 2792687504502518325
+    second: Final Boss-Photoroom_34
+  - first:
+      213: 3797478775570262681
+    second: Final Boss-Photoroom_35
+  - first:
+      213: 2693850477244164387
+    second: Final Boss-Photoroom_36
+  - first:
+      213: 6938623832727198161
+    second: Final Boss-Photoroom_37
+  - first:
+      213: -3630672463481103462
+    second: Final Boss-Photoroom_38
+  - first:
+      213: -1015005853780852513
+    second: Final Boss-Photoroom_39
+  - first:
+      213: -8210468961052735551
+    second: Final Boss-Photoroom_40
+  - first:
+      213: -2679553668351217577
+    second: Final Boss-Photoroom_41
+  - first:
+      213: -2981611687454744383
+    second: Final Boss-Photoroom_42
+  - first:
+      213: 723075031130793810
+    second: Final Boss-Photoroom_43
+  - first:
+      213: 194989466960389719
+    second: Final Boss-Photoroom_44
+  - first:
+      213: -2763073575014452969
+    second: Final Boss-Photoroom_45
+  - first:
+      213: 806229390958706069
+    second: Final Boss-Photoroom_46
+  - first:
+      213: 4775792111659832675
+    second: Final Boss-Photoroom_47
+  - first:
+      213: 8282729565004371287
+    second: Final Boss-Photoroom_48
+  - first:
+      213: 750480878900930463
+    second: Final Boss-Photoroom_49
+  - first:
+      213: -8466926852182088354
+    second: Final Boss-Photoroom_50
+  - first:
+      213: -4429442840253609374
+    second: Final Boss-Photoroom_51
+  - first:
+      213: -6576074690083884506
+    second: Final Boss-Photoroom_52
+  - first:
+      213: 8568305661164947990
+    second: Final Boss-Photoroom_53
+  - first:
+      213: 7767985234991756656
+    second: Final Boss-Photoroom_54
+  - first:
+      213: 8102449160430071758
+    second: Final Boss-Photoroom_55
+  - first:
+      213: -6597093715540848266
+    second: Final Boss-Photoroom_56
+  - first:
+      213: 5184179938706460998
+    second: Final Boss-Photoroom_57
+  - first:
+      213: 3237125075252686157
+    second: Final Boss-Photoroom_58
+  - first:
+      213: 452698147943385975
+    second: Final Boss-Photoroom_59
+  - first:
+      213: 1669209945024721770
+    second: Final Boss-Photoroom_60
+  - first:
+      213: 510940797838147324
+    second: Final Boss-Photoroom_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 411
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0864a7f4a142b8e0800000000000000
+      internalID: -1679207534270584820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 412
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15ad24f8cdaca010800000000000000
+      internalID: 1201526279202776351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 338
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745a763554b37ac30800000000000000
+      internalID: 4370527132324439367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6a123b670368600800000000000000
+      internalID: 470116497476396739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 348
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783e4a6bb382baf90800000000000000
+      internalID: -6941410163729046649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 315
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3248494d8108fcd0800000000000000
+      internalID: -2524265884809674180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 302
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a281e4203112bed90800000000000000
+      internalID: -7067518824701093846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 316
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc7b3b13109c0b10800000000000000
+      internalID: 1949091150480243901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 286
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05281f11aa2fd7c0800000000000000
+      internalID: -4044467068855638774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 247
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026fdd77e67a5ebf0800000000000000
+      internalID: -295646107623623136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 291
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac851bb32c12fde90800000000000000
+      internalID: -6998838177801611062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 251
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c3c948ed22c09d0800000000000000
+      internalID: -2806830128655746025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6352b71c8a144c940800000000000000
+      internalID: 5315445653260412214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 251
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc699cfb8b6ca7a0800000000000000
+      internalID: -6364593924398814006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 254
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f900c34f7d82ee810800000000000000
+      internalID: 1796418209348059295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 380
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b24f40152537adb0800000000000000
+      internalID: -4780794046126800200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4451ae8ca19925730800000000000000
+      internalID: 3986416960495293764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 233
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef277e8a398f059b0800000000000000
+      internalID: -5093297865478409474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 224
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca1faa8d46bd1140800000000000000
+      internalID: 4692106830945393349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 221
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f95f703463d8c30800000000000000
+      internalID: 4363203275516125080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 191
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049bfa9db59fbe500800000000000000
+      internalID: 426708762606156096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 190
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7098badedbcba1900800000000000000
+      internalID: 656044219658111239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 197
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a63f393da53b430800000000000000
+      internalID: 3797478775570262681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 193
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329a7268cba726520800000000000000
+      internalID: 2693850477244164387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 171
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d993cb0d91fa4060800000000000000
+      internalID: 6938623832727198161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 181
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b9a6e61a24d9dc0800000000000000
+      internalID: -3630672463481103462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 170
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd04370cd89f9e1f0800000000000000
+      internalID: -1015005853780852513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 184
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7c4191bfd8e0e80800000000000000
+      internalID: -8210468961052735551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 155
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750b451b22050dad0800000000000000
+      internalID: -2679553668351217577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 169
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c06b1fa7ff2f96d0800000000000000
+      internalID: -2981611687454744383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 123
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2576188e8e0e80a00800000000000000
+      internalID: 723075031130793810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 149
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ed1913edb4b200800000000000000
+      internalID: 194989466960389719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 158
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711bef0193797a9d0800000000000000
+      internalID: -2763073575014452969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 133
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365d8905f95074240800000000000000
+      internalID: 4775792111659832675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 123
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75516b4d7aa22f270800000000000000
+      internalID: 8282729565004371287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 135
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97ec95126e3a6a00800000000000000
+      internalID: 750480878900930463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 109
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a49c974357782c0800000000000000
+      internalID: -4429442840253609374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 121
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622fc1139e61db4a0800000000000000
+      internalID: -6576074690083884506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 99
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a84bc1a9cb8e670800000000000000
+      internalID: 8568305661164947990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 110
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075b9282a6d6dcb60800000000000000
+      internalID: 7767985234991756656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 97
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa812359ea17070800000000000000
+      internalID: 8102449160430071758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 91
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671d937f73a6274a0800000000000000
+      internalID: -6597093715540848266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 12
+        width: 379
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeb564d2f9371700800000000000000
+      internalID: 510940797838147324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 284
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb55764c4b0d7418e1f395afc3197d
+      internalID: 276099142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 220
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b46caba75919e4eb9eb5830d8b43aa
+      internalID: -310354384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 188
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d10500fc54494409317a1dd5e9ca33
+      internalID: -1013071901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 155
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c79940972ed24e98e4625b8aad31a
+      internalID: 944558186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 412
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eda9ddcab8c5e945bf853903b3d7568
+      internalID: 1976462059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 124
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f84a373aac56040a89515571258367
+      internalID: 2135995403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 92
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b1857cbd8b7341b3d7ddc14f764e4
+      internalID: 1953572082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 60
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ce1b57b4737b42bacc1383ee9e86c
+      internalID: -236639432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 410
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92872ee1668f7a41a1202734421673a
+      internalID: -405154772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 379
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e22df945a0c34da65d9d3a7340d3b
+      internalID: -2096737077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 347
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed87935baa0ba46bb61b49122a80ad
+      internalID: 1451534614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 315
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae237a2b7c6de944f86e4300f1ab29b3
+      internalID: -1732003831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 283
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8938b17b17cb69a4a80c8e2d0199d99f
+      internalID: 1575211939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c7dc2933859ac4b8a5fd2192cfc505
+      internalID: -1135290146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 380
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f55165a1e6386a43885bc755e16fb23
+      internalID: 1968314118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 348
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7e7ef95e839647b1a701781aabac1
+      internalID: -330710203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 315
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0482c07863d01bc418378638bc9251ee
+      internalID: -1709259208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 409
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcabd86ba7af14d96aa90b9d9573e1
+      internalID: 1263461195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 377
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a221e4017dc34cbd16f2ef2e81310
+      internalID: 2032808344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 280
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c8dd76f7eddb489d57e4e14151308
+      internalID: 933396624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 412
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ea67b25635f64d9544c0e6aaed340
+      internalID: 113771651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 380
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62491b7f7f653774faee428035d099e3
+      internalID: 1576642865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 348
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfffca88fb7d0454bb737a571ce1b9a6
+      internalID: -2054651970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 316
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d3bf79bc502e34fa594c299cfa852a
+      internalID: 544849885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 284
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5849b0cbeb20cd4b847c06d269cefcc
+      internalID: 1683398450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 252
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e49e4dcc1b036c45be3f35d2c654e44
+      internalID: -587118422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 220
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1965de2232f954b49b2ed2bc721ca7a5
+      internalID: -706505100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 188
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60b906ea8efad4b9124bc2f0da1a2a
+      internalID: 1451046431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 156
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff594d12f4c405c4fa7807d0eec9a4cc
+      internalID: -2092842455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 124
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e01f9d5b57b452459e9eab43cbe848e
+      internalID: -1202237896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 92
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2cf525252c134fa2db98bed3eed95
+      internalID: -886469333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 60
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68915f89f107f45b0b4817f395c365
+      internalID: 1916489005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 411
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21b26d9f5063124e8c6001f8b4be44a
+      internalID: -1371581689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 380
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388448b8d67c09842b5c2935105a9922
+      internalID: -1425030735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 347
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2c035e04f3bb949a68cf40ace37a04
+      internalID: -1989636926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 316
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad76ca4631cea4c94ffcdfa7461f26
+      internalID: 373154153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 318
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d31ac97bf55f24f85e1abf969b45fb
+      internalID: 945044799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 379
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e1cf6dd7d4cf4282145064cfc398f
+      internalID: 1225454445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 355
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcef6f373624d34f966bc2cd7483638
+      internalID: 155871350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 283
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f7608a8354304cac1d5579acfd342
+      internalID: -1435617351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 220
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb392b3c5fd2a5a4ea15ba542f42d6c5
+      internalID: -807415598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 187
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72df81abbf29da94084c04de1631fc79
+      internalID: -1506823583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 156
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48ef6e9a4a4fd4e8d7bc52c08e12a9
+      internalID: 647959471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 387
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d88e4f8128b72848a36dd73abb2e9c3
+      internalID: -1577077778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24717e979a10b0c499edf7c622359609
+      internalID: 1635730900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62078d2e0de78f747b1213de7529cec4
+      internalID: 553251722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a899c23475209a5408ba3aaac4e712fa
+      internalID: 1573452497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f34f0ed449a042955539f3d736c0c
+      internalID: 546453963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357290259a8f653419a8fbf6aad26203
+      internalID: -843752703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99f37bf1654ead4480c7a1d6f5ee2f6
+      internalID: 1878199877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26340280f5ab6bf4e8570fd17fdaea65
+      internalID: -1978607660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eaee37f5acad144aa3db4dc4976696
+      internalID: -600480778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20825805349ea5e45a0a9b5c8dd68c0c
+      internalID: -9690632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 413
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447edcea1953a214d92156ddf9e6d931
+      internalID: 1655907091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 380
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b259bd7765234543b4a300921e2aaac
+      internalID: -759709697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 349
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda8a48c0b801514292b12383778c6c6
+      internalID: -789036722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 317
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f8036b886c50e48969a38921a7abfe
+      internalID: 310021925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 286
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162c813022df784d8de152d3774b4ef
+      internalID: -1246413919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423b077daae90b4794537a94b90686c
+      internalID: 289189610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 245
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a5d7745397974c945a08f45973a21
+      internalID: -2081498859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 245
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edc3582c19789c4297f9d46dd6c94e7
+      internalID: -1308692526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 239
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaf6ed54e77330459589bfb7ad78d92
+      internalID: -1728327482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 237
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d92b9902fefa4d83484f46b40fae2
+      internalID: 778940091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 230
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c1d59f4d783644f857f862e1851f89
+      internalID: 1846427545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 229
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a762739884ec974e8c62ce4f1ce0a9c
+      internalID: -1708475628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 223
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b37ec3d30abe458b261cf514b372e
+      internalID: 361540780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 221
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41aa0c1ba1536448a008e9fefa7aaf5
+      internalID: -1380811042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 215
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfd75a48a0e2348890a448b10fb437
+      internalID: -1629287461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 213
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8a60cee57831840b54c904c5b55dd3
+      internalID: 1281550074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 205
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212b552b96e64c42aea14a062825aa9
+      internalID: 916329975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 206
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7716681ac967a464e8c9d8568c06962e
+      internalID: 1491838889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 200
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef2427fd0b060408c8547938427c8d
+      internalID: 1578371541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c89c0fcaca972419a955347f8a492c
+      internalID: 267249661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 151
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c43e48b00ac74382a18a20b9de57c
+      internalID: -387379114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 146
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a301ae82f1359f47931bf48888fcc46
+      internalID: 1107497833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 128
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9805fb355e700b488b4e872e1d61922
+      internalID: -1596047302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5fabf5aacf083ca4cb8cd50e5d2829f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Final Boss-Photoroom_0: 1976462059
+      Final Boss-Photoroom_1: -405154772
+      Final Boss-Photoroom_100: -1246413919
+      Final Boss-Photoroom_101: 289189610
+      Final Boss-Photoroom_102: -2081498859
+      Final Boss-Photoroom_103: -1308692526
+      Final Boss-Photoroom_104: -1728327482
+      Final Boss-Photoroom_105: 778940091
+      Final Boss-Photoroom_106: 1846427545
+      Final Boss-Photoroom_107: -1708475628
+      Final Boss-Photoroom_108: 361540780
+      Final Boss-Photoroom_109: -1380811042
+      Final Boss-Photoroom_110: -1629287461
+      Final Boss-Photoroom_111: 1281550074
+      Final Boss-Photoroom_112: 916329975
+      Final Boss-Photoroom_113: 1491838889
+      Final Boss-Photoroom_114: 1578371541
+      Final Boss-Photoroom_115: 267249661
+      Final Boss-Photoroom_116: -387379114
+      Final Boss-Photoroom_117: 1107497833
+      Final Boss-Photoroom_118: -1596047302
+      Final Boss-Photoroom_16: -310354384
+      Final Boss-Photoroom_2: -1135290146
+      Final Boss-Photoroom_27: -1577077778
+      Final Boss-Photoroom_3: 1263461195
+      Final Boss-Photoroom_30: 553251722
+      Final Boss-Photoroom_32: 1573452497
+      Final Boss-Photoroom_34: 546453963
+      Final Boss-Photoroom_4: 113771651
+      Final Boss-Photoroom_46: -843752703
+      Final Boss-Photoroom_5: -1371581689
+      Final Boss-Photoroom_50: 1878199877
+      Final Boss-Photoroom_57: -1978607660
+      Final Boss-Photoroom_58: -600480778
+      Final Boss-Photoroom_59: -9690632
+      Final Boss-Photoroom_60: -759709697
+      Final Boss-Photoroom_62: 276099142
+      Final Boss-Photoroom_63: -1013071901
+      Final Boss-Photoroom_64: 944558186
+      Final Boss-Photoroom_65: 2135995403
+      Final Boss-Photoroom_66: 1953572082
+      Final Boss-Photoroom_67: -236639432
+      Final Boss-Photoroom_68: -2096737077
+      Final Boss-Photoroom_69: 1451534614
+      Final Boss-Photoroom_70: -1732003831
+      Final Boss-Photoroom_71: 1575211939
+      Final Boss-Photoroom_72: 1968314118
+      Final Boss-Photoroom_73: -330710203
+      Final Boss-Photoroom_74: -1709259208
+      Final Boss-Photoroom_75: 2032808344
+      Final Boss-Photoroom_76: 933396624
+      Final Boss-Photoroom_77: 1576642865
+      Final Boss-Photoroom_78: -2054651970
+      Final Boss-Photoroom_79: 544849885
+      Final Boss-Photoroom_8: 1635730900
+      Final Boss-Photoroom_80: 1683398450
+      Final Boss-Photoroom_81: -587118422
+      Final Boss-Photoroom_82: -706505100
+      Final Boss-Photoroom_83: 1451046431
+      Final Boss-Photoroom_84: -2092842455
+      Final Boss-Photoroom_85: -1202237896
+      Final Boss-Photoroom_86: -886469333
+      Final Boss-Photoroom_87: 1916489005
+      Final Boss-Photoroom_88: -1425030735
+      Final Boss-Photoroom_89: -1989636926
+      Final Boss-Photoroom_9: 1655907091
+      Final Boss-Photoroom_90: 373154153
+      Final Boss-Photoroom_91: 945044799
+      Final Boss-Photoroom_92: 1225454445
+      Final Boss-Photoroom_93: 155871350
+      Final Boss-Photoroom_94: -1435617351
+      Final Boss-Photoroom_95: -807415598
+      Final Boss-Photoroom_96: -1506823583
+      Final Boss-Photoroom_97: 647959471
+      Final Boss-Photoroom_98: -789036722
+      Final Boss-Photoroom_99: 310021925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

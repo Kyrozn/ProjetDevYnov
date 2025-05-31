@@ -116,7 +116,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0bd734744962edc4a876ae2a838b843c
-      internalID: 20554302
+      internalID: -6910709076969810600
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 94af6577a1f905648ab419c04fd19c40
-      internalID: -1001776453
+      internalID: 7637535626218222440
       vertices: []
       indices: 
       edges: []
@@ -160,7 +160,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 178eeecad1fbfeb489a5dd1c38ca6bee
-      internalID: 2009878875
+      internalID: 1692800021580626598
       vertices: []
       indices: 
       edges: []
@@ -177,13 +177,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":3.0},"gridSpriteSize":{"x":26.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":1.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":true,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      movement_luffy_up-Photoroom_0: 20554302
-      movement_luffy_up-Photoroom_1: -1001776453
-      movement_luffy_up-Photoroom_2: 2009878875
+      movement_luffy_up-Photoroom_0: -6910709076969810600
+      movement_luffy_up-Photoroom_1: 7637535626218222440
+      movement_luffy_up-Photoroom_2: 1692800021580626598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

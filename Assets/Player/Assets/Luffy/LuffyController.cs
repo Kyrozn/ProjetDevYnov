@@ -8,22 +8,28 @@ public class LuffyController : PlayerController
     {
         base.Update(); // Appelle l'Update du parent
     }
-    public void CastGatling(float attackDistance, Vector2 boxSize, float damage)
+    public void CastGatling(float attackDistance, Vector2 boxSize, int damage)
     {
         if (!isLocalPlayer) return;
         CmdCastGatling(attackDistance, boxSize, damage);
     }
 
     [Command]
-    void CmdCastGatling(float attackDistance, Vector2 boxSize, float damage)
+    void CmdCastGatling(float attackDistance, Vector2 boxSize, int damage)
     {
         RpcPlayGatling();
         Vector3 attackCenter = caster.position + caster.right * attackDistance;
+
         Collider2D[] hits = Physics2D.OverlapBoxAll(attackCenter, boxSize, 0f, enemyLayer);
 
         foreach (Collider2D hit in hits)
         {
-            Debug.Log("ntm");
+            Debug.Log("Cible touchée : " + hit.name);
+            // applique dégâts si boss :
+            if (hit.TryGetComponent<BossController>(out var boss))
+            {
+                boss.TakeDamage(damage);
+            }
         }
     }
 
