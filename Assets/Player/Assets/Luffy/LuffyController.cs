@@ -4,6 +4,12 @@ using UnityEngine;
 public class LuffyController : PlayerController
 {
     private Transform caster;
+    private void Awake()
+    {
+        if (caster == null)
+            caster = transform;
+    }
+
     protected override void Update()
     {
         base.Update(); // Appelle l'Update du parent

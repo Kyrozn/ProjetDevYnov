@@ -1,0 +1,2502 @@
+fileFormatVersion: 2
+guid: e00c2e49a12f00146abf3e3ab3c78d64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8158490076653712264
+    second: Roronoa Zoro-Photoroom_0
+  - first:
+      213: -2668531703310967025
+    second: Roronoa Zoro-Photoroom_1
+  - first:
+      213: 12919877680049095
+    second: Roronoa Zoro-Photoroom_2
+  - first:
+      213: -1970619024926377648
+    second: Roronoa Zoro-Photoroom_3
+  - first:
+      213: -8802206789818767386
+    second: Roronoa Zoro-Photoroom_4
+  - first:
+      213: -9026854483377544782
+    second: Roronoa Zoro-Photoroom_5
+  - first:
+      213: -5352450291888524566
+    second: Roronoa Zoro-Photoroom_6
+  - first:
+      213: 8232582802666328863
+    second: Roronoa Zoro-Photoroom_7
+  - first:
+      213: -5754044938596113762
+    second: Roronoa Zoro-Photoroom_8
+  - first:
+      213: 457463881485764859
+    second: Roronoa Zoro-Photoroom_9
+  - first:
+      213: -5449402734853628290
+    second: Roronoa Zoro-Photoroom_10
+  - first:
+      213: 9179137689105923049
+    second: Roronoa Zoro-Photoroom_11
+  - first:
+      213: -2948792105373360583
+    second: Roronoa Zoro-Photoroom_12
+  - first:
+      213: 803178054682139603
+    second: Roronoa Zoro-Photoroom_13
+  - first:
+      213: -8107809641123207861
+    second: Roronoa Zoro-Photoroom_14
+  - first:
+      213: -3187085457908909150
+    second: Roronoa Zoro-Photoroom_15
+  - first:
+      213: -4547392619603204586
+    second: Roronoa Zoro-Photoroom_16
+  - first:
+      213: 7226893657671363271
+    second: Roronoa Zoro-Photoroom_17
+  - first:
+      213: 372843122302867748
+    second: Roronoa Zoro-Photoroom_18
+  - first:
+      213: 8153868578868594120
+    second: Roronoa Zoro-Photoroom_19
+  - first:
+      213: -3653581426503834860
+    second: Roronoa Zoro-Photoroom_20
+  - first:
+      213: 8802042262548628623
+    second: Roronoa Zoro-Photoroom_21
+  - first:
+      213: 1493891637294095900
+    second: Roronoa Zoro-Photoroom_22
+  - first:
+      213: -550469697483659050
+    second: Roronoa Zoro-Photoroom_23
+  - first:
+      213: 24009991436476522
+    second: Roronoa Zoro-Photoroom_24
+  - first:
+      213: -8534663156646539602
+    second: Roronoa Zoro-Photoroom_25
+  - first:
+      213: -5884681591541033378
+    second: Roronoa Zoro-Photoroom_26
+  - first:
+      213: 9178856169147060045
+    second: Roronoa Zoro-Photoroom_27
+  - first:
+      213: 8354904285219730030
+    second: Roronoa Zoro-Photoroom_28
+  - first:
+      213: 5463096870443130182
+    second: Roronoa Zoro-Photoroom_29
+  - first:
+      213: 530454668822345299
+    second: Roronoa Zoro-Photoroom_30
+  - first:
+      213: 200310408106049076
+    second: Roronoa Zoro-Photoroom_31
+  - first:
+      213: 1046708366536653297
+    second: Roronoa Zoro-Photoroom_32
+  - first:
+      213: -3437859711755178891
+    second: Roronoa Zoro-Photoroom_33
+  - first:
+      213: -5140243584115653019
+    second: Roronoa Zoro-Photoroom_34
+  - first:
+      213: -3550704728800172523
+    second: Roronoa Zoro-Photoroom_35
+  - first:
+      213: 1239166287970010937
+    second: Roronoa Zoro-Photoroom_36
+  - first:
+      213: 7160153395987466710
+    second: Roronoa Zoro-Photoroom_37
+  - first:
+      213: -1024479350133791341
+    second: Roronoa Zoro-Photoroom_38
+  - first:
+      213: -4503784427062882415
+    second: Roronoa Zoro-Photoroom_39
+  - first:
+      213: -1923533050955355256
+    second: Roronoa Zoro-Photoroom_40
+  - first:
+      213: -7765740472165955673
+    second: Roronoa Zoro-Photoroom_41
+  - first:
+      213: 7386372009883342111
+    second: Roronoa Zoro-Photoroom_42
+  - first:
+      213: -4060783673365258811
+    second: Roronoa Zoro-Photoroom_43
+  - first:
+      213: -8166250195934799399
+    second: Roronoa Zoro-Photoroom_44
+  - first:
+      213: -1455338723033596254
+    second: Roronoa Zoro-Photoroom_45
+  - first:
+      213: 1873896147273505483
+    second: Roronoa Zoro-Photoroom_46
+  - first:
+      213: -1575243085307647769
+    second: Roronoa Zoro-Photoroom_47
+  - first:
+      213: 3657534346734637138
+    second: Roronoa Zoro-Photoroom_48
+  - first:
+      213: 579592731671397732
+    second: Roronoa Zoro-Photoroom_49
+  - first:
+      213: 547387862844401735
+    second: Roronoa Zoro-Photoroom_50
+  - first:
+      213: 8690246576181511844
+    second: Roronoa Zoro-Photoroom_51
+  - first:
+      213: -7321961886576042111
+    second: Roronoa Zoro-Photoroom_52
+  - first:
+      213: -255711409421668664
+    second: Roronoa Zoro-Photoroom_53
+  - first:
+      213: 5319412853689267632
+    second: Roronoa Zoro-Photoroom_54
+  - first:
+      213: -6530092655860614713
+    second: Roronoa Zoro-Photoroom_55
+  - first:
+      213: -7073960953110949244
+    second: Roronoa Zoro-Photoroom_56
+  - first:
+      213: 9017315437867205032
+    second: Roronoa Zoro-Photoroom_57
+  - first:
+      213: -9213741721910242287
+    second: Roronoa Zoro-Photoroom_58
+  - first:
+      213: -288108331273750947
+    second: Roronoa Zoro-Photoroom_59
+  - first:
+      213: -2654099989955304295
+    second: Roronoa Zoro-Photoroom_60
+  - first:
+      213: -3346895930700609791
+    second: Roronoa Zoro-Photoroom_61
+  - first:
+      213: 823238697295082974
+    second: Roronoa Zoro-Photoroom_62
+  - first:
+      213: 5209521378123573611
+    second: Roronoa Zoro-Photoroom_63
+  - first:
+      213: 5333080995235092243
+    second: Roronoa Zoro-Photoroom_64
+  - first:
+      213: 8602512526010123766
+    second: Roronoa Zoro-Photoroom_65
+  - first:
+      213: 8711935820160462802
+    second: Roronoa Zoro-Photoroom_66
+  - first:
+      213: 3805482966705790345
+    second: Roronoa Zoro-Photoroom_67
+  - first:
+      213: 8976627271543596207
+    second: Roronoa Zoro-Photoroom_68
+  - first:
+      213: 3842505117520164715
+    second: Roronoa Zoro-Photoroom_69
+  - first:
+      213: -5083941076235265936
+    second: Roronoa Zoro-Photoroom_70
+  - first:
+      213: -9207222668418146565
+    second: Roronoa Zoro-Photoroom_71
+  - first:
+      213: 4126743288351280830
+    second: Roronoa Zoro-Photoroom_72
+  - first:
+      213: -821760484468059961
+    second: Roronoa Zoro-Photoroom_73
+  - first:
+      213: 8651553831045117681
+    second: Roronoa Zoro-Photoroom_74
+  - first:
+      213: 8199228658943260547
+    second: Roronoa Zoro-Photoroom_75
+  - first:
+      213: -5550246166326349760
+    second: Roronoa Zoro-Photoroom_76
+  - first:
+      213: 2114019025490141539
+    second: Roronoa Zoro-Photoroom_77
+  - first:
+      213: -2380866976756295862
+    second: Roronoa Zoro-Photoroom_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 413
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb29af6f86ed2000800000000000000
+      internalID: 12919877680049095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 406
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7225d8f8748d580800000000000000
+      internalID: -8802206789818767386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 412
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a3277cab2ab280800000000000000
+      internalID: -9026854483377544782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 401
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae27c0a61d648b5b0800000000000000
+      internalID: -5352450291888524566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 410
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f139ae0e072004270800000000000000
+      internalID: 8232582802666328863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 422
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c789f9fc395600800000000000000
+      internalID: 457463881485764859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ed107b515df54b0800000000000000
+      internalID: -5449402734853628290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 418
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebfe875819d26f70800000000000000
+      internalID: 9179137689105923049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9eba1439c317d0800000000000000
+      internalID: -2948792105373360583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 411
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbd7b07f26752b00800000000000000
+      internalID: 803178054682139603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 412
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b452d52a6164b7f80800000000000000
+      internalID: -8107809641123207861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 409
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abb68479a235c3d0800000000000000
+      internalID: -3187085457908909150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 395
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca660fed751b4460800000000000000
+      internalID: 7226893657671363271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 402
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4295fc528da9c2500800000000000000
+      internalID: 372843122302867748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 345
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c58eac754c582170800000000000000
+      internalID: 8153868578868594120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 372
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4132643dc0fdb4dc0800000000000000
+      internalID: -3653581426503834860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 374
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cf257dc2272a70800000000000000
+      internalID: 8802042262548628623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 350
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e57d5778e5bb410800000000000000
+      internalID: 1493891637294095900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 376
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60a1a2c5fc455000800000000000000
+      internalID: 24009991436476522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 374
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae087ed319ce8980800000000000000
+      internalID: -8534663156646539602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 374
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569ae75549655ea0800000000000000
+      internalID: -5884681591541033378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 338
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6239e46e2592f370800000000000000
+      internalID: 8354904285219730030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 337
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d9f40b8a1d0db40800000000000000
+      internalID: 5463096870443130182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 343
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e79ff3145a7c200800000000000000
+      internalID: 200310408106049076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 347
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9b8d2b6b7a68e00800000000000000
+      internalID: 1046708366536653297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ca4358ec44a40d0800000000000000
+      internalID: -3437859711755178891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 300
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5664ec5c1bf2aa8b0800000000000000
+      internalID: -5140243584115653019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 331
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e0919cdc59bec0800000000000000
+      internalID: -3550704728800172523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 334
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937871c6c27623110800000000000000
+      internalID: 1239166287970010937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 324
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9c329d399fd5360800000000000000
+      internalID: 7160153395987466710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 313
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956d8f757158c1f0800000000000000
+      internalID: -1024479350133791341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 313
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f0bf7fce75f71c0800000000000000
+      internalID: -4503784427062882415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 288
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b2518a1ec3e45e0800000000000000
+      internalID: -1923533050955355256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 319
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151cf3553aa18660800000000000000
+      internalID: 7386372009883342111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 315
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd9b5793c235a7c0800000000000000
+      internalID: -4060783673365258811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 312
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d99754a6b6abae80800000000000000
+      internalID: -8166250195934799399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae36b164299dcbe0800000000000000
+      internalID: -1455338723033596254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 267
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcad53c1e9a610a10800000000000000
+      internalID: 1873896147273505483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 287
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25098e22c1c22c230800000000000000
+      internalID: 3657534346734637138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 292
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650ca5c4802b0800800000000000000
+      internalID: 579592731671397732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 256
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748633f6c56b89700800000000000000
+      internalID: 547387862844401735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 258
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a68ad7d735f99870800000000000000
+      internalID: 8690246576181511844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 217
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c97a01d3537065a0800000000000000
+      internalID: -6530092655860614713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 186
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a188bd6d90f32d70800000000000000
+      internalID: 9017315437867205032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114185d68b6322080800000000000000
+      internalID: -9213741721910242287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 168
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f899cffe600cf0800000000000000
+      internalID: -288108331273750947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 173
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994a8540f1eba2bd0800000000000000
+      internalID: -2654099989955304295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 123
+        width: 20
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107c36632ef6d81d0800000000000000
+      internalID: -3346895930700609791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 123
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5f0a5cb3bbc6b00800000000000000
+      internalID: 823238697295082974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 147
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ebd89710fb4840800000000000000
+      internalID: 5209521378123573611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 136
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317df57c8e8e20a40800000000000000
+      internalID: 5333080995235092243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 141
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f58ea87093426770800000000000000
+      internalID: 8602512526010123766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 90
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d5c4d889acfc430800000000000000
+      internalID: 3805482966705790345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4a07971f2639c70800000000000000
+      internalID: 8976627271543596207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 109
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe1309d3cf593080800000000000000
+      internalID: -9207222668418146565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 57
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c014d871358894f0800000000000000
+      internalID: -821760484468059961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 88
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f63d961f5e701870800000000000000
+      internalID: 8651553831045117681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 50
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040f428a48099f2b0800000000000000
+      internalID: -5550246166326349760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 55
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361e1c66a11865d10800000000000000
+      internalID: 2114019025490141539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 384
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a479bf8591675fed0800000000000000
+      internalID: -2380866976756295862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 409
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db236f954ebe1408f873150c37d6b0
+      internalID: -93846435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 377
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d3d46c6fd805459c6ff7361e467bd
+      internalID: 356979418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87422ecc26c57174683a94170630fa72
+      internalID: 2103969860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 313
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546c44db406b804b9dacb334d96565a
+      internalID: 1012100115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 281
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61288379d33a834b9c8c136d46d4ded
+      internalID: -1824117377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 249
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e543a0682a1723b44b5f0f586359eea4
+      internalID: 546389782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 217
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f39bb1a5210ea4d9922c4a41a37c1f
+      internalID: -866668131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 185
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486eb2cedf33c4c418e483c8a9b77875
+      internalID: -1711102786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 153
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ffee85682c574393c31385434f3d3
+      internalID: 1635773880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 121
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b7c0dd592bd84bba5c992500e2997
+      internalID: -1362817772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 89
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d1a8fd09088a47a801fb884ec3d3f
+      internalID: 2128540929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 57
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b4fb06d960f194db1bec9eda6a51c4
+      internalID: -1613299615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ea1397af001449814ae1cbb0b63ef
+      internalID: -1632551013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 376
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa34f44cbc70be429d6e64b1fe9557f
+      internalID: -206526475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 344
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f0a9e7cd6fd5498f3f4c9e25688e6
+      internalID: -459985696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 312
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d15a88d3efd6849986f0f1857cc63e
+      internalID: 538130554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 189
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2823f413023171f46847e26ba9a3ebea
+      internalID: 158483710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 212
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968137aeb2ea76d48a0d1fad3ae20802
+      internalID: 776388437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 382
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f6415e223b5f459b2ffb5cb32bdb8
+      internalID: 430841247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 232
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc6be544e6aa04ca4c74eb58653d0f
+      internalID: -310520766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 200
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e3e5f5846348f429785a628768915d
+      internalID: 928497720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 270
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746d680bab358574f8090c69c3cef0b6
+      internalID: -1001468794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 238
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3bbe9cd7864c64b80d3b4186a02c48
+      internalID: -2035091673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 206
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3307e8809d774b9736898fd5c6124
+      internalID: 1267498377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 358
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853d7bbc3fc1a51438575b0e0975a878
+      internalID: -1732848116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 321
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e85e6831448e844a28a3d6f688bbe7
+      internalID: 1614225833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 245
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c0cda99a8bc04396782ce5abb96b5
+      internalID: 1301929158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 213
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b225d8b490287442939fe9488515d51
+      internalID: -1847277845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 181
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a0ae3d949c9fa46bc6f5e6fcb0d335
+      internalID: -2051559079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 149
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd43a02e2feba44ead76c330c6a1f7f
+      internalID: 967061729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 293
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd9b398124ac1a42b6e6df360093f2c
+      internalID: -463909989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 260
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42272b2b56fe947992e9e14cce7a65
+      internalID: -739575740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 228
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b1b65be3427e42bf4e71d9c66b241
+      internalID: -104467485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 197
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b6f601c04af704ba4b42b158b169a8
+      internalID: 1558832455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 69
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272ac9fa1b77e6f4e8a4beb61930ae1d
+      internalID: 2008426348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roronoa Zoro-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 291
+        width: 2
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a1eb4689f82a42bd9bec1b83768dd
+      internalID: 1581461067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fff5c472fb41ea44ba312fe78ce8af80
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Roronoa Zoro-Photoroom_0: -93846435
+      Roronoa Zoro-Photoroom_1: 1012100115
+      Roronoa Zoro-Photoroom_23: 356979418
+      Roronoa Zoro-Photoroom_27: 2103969860
+      Roronoa Zoro-Photoroom_3: 158483710
+      Roronoa Zoro-Photoroom_41: -1824117377
+      Roronoa Zoro-Photoroom_47: 430841247
+      Roronoa Zoro-Photoroom_52: 546389782
+      Roronoa Zoro-Photoroom_53: -866668131
+      Roronoa Zoro-Photoroom_54: -1711102786
+      Roronoa Zoro-Photoroom_56: 1635773880
+      Roronoa Zoro-Photoroom_66: 1581461067
+      Roronoa Zoro-Photoroom_69: 776388437
+      Roronoa Zoro-Photoroom_70: -1362817772
+      Roronoa Zoro-Photoroom_75: 2008426348
+      Roronoa Zoro-Photoroom_79: 2128540929
+      Roronoa Zoro-Photoroom_80: -1613299615
+      Roronoa Zoro-Photoroom_81: -1632551013
+      Roronoa Zoro-Photoroom_82: -206526475
+      Roronoa Zoro-Photoroom_83: -459985696
+      Roronoa Zoro-Photoroom_84: 538130554
+      Roronoa Zoro-Photoroom_85: -310520766
+      Roronoa Zoro-Photoroom_86: 928497720
+      Roronoa Zoro-Photoroom_87: -1001468794
+      Roronoa Zoro-Photoroom_88: -2035091673
+      Roronoa Zoro-Photoroom_89: 1267498377
+      Roronoa Zoro-Photoroom_90: -1732848116
+      Roronoa Zoro-Photoroom_91: 1614225833
+      Roronoa Zoro-Photoroom_92: 1301929158
+      Roronoa Zoro-Photoroom_93: -1847277845
+      Roronoa Zoro-Photoroom_94: -2051559079
+      Roronoa Zoro-Photoroom_95: 967061729
+      Roronoa Zoro-Photoroom_96: -463909989
+      Roronoa Zoro-Photoroom_97: -739575740
+      Roronoa Zoro-Photoroom_98: -104467485
+      Roronoa Zoro-Photoroom_99: 1558832455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

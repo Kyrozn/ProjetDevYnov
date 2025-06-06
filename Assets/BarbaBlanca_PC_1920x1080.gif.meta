@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bc10b20906e27d4449c329289b471c3c
+guid: 445eca9df9b5dad47b7449a7e24c9b41
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6485409164457214026
-    second: Roronoa Zoro_0
+      213: 7572036550378034653
+    second: BarbaBlanca_PC_1920x1080_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Roronoa Zoro_0
+      name: BarbaBlanca_PC_1920x1080_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 406
-        height: 446
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a40098e164dc00a50800000000000000
-      internalID: 6485409164457214026
+      spriteID: dd59e8bcf17451960800000000000000
+      internalID: 7572036550378034653
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Roronoa Zoro_0: 6485409164457214026
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
