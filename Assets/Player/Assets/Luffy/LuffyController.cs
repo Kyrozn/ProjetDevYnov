@@ -25,7 +25,7 @@ public class LuffyController : PlayerController
         foreach (Collider2D hit in hits)
         {
             Debug.Log("Cible touchée : " + hit.name);
-            // applique dégâts si boss :
+            // applique dégâts si boss
             if (hit.TryGetComponent<BossController>(out var boss))
             {
                 boss.TakeDamage(damage);
