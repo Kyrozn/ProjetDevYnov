@@ -1,0 +1,4017 @@
+fileFormatVersion: 2
+guid: 5527df414a840ee43b308348f1bc5c93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 909404755942455931
+    second: Monkey D Luffy-Photoroom_0
+  - first:
+      213: 131508583847935907
+    second: Monkey D Luffy-Photoroom_1
+  - first:
+      213: 54943024451628533
+    second: Monkey D Luffy-Photoroom_2
+  - first:
+      213: 7262418088992141422
+    second: Monkey D Luffy-Photoroom_3
+  - first:
+      213: -6737522366379527614
+    second: Monkey D Luffy-Photoroom_4
+  - first:
+      213: 6964863030707784637
+    second: Monkey D Luffy-Photoroom_5
+  - first:
+      213: -1785182037797314686
+    second: Monkey D Luffy-Photoroom_6
+  - first:
+      213: 1248177384828077650
+    second: Monkey D Luffy-Photoroom_7
+  - first:
+      213: -5804538718415820886
+    second: Monkey D Luffy-Photoroom_8
+  - first:
+      213: 6268095732042271171
+    second: Monkey D Luffy-Photoroom_9
+  - first:
+      213: -7038453382669161359
+    second: Monkey D Luffy-Photoroom_10
+  - first:
+      213: 5069746974543888193
+    second: Monkey D Luffy-Photoroom_11
+  - first:
+      213: -5550863518922418306
+    second: Monkey D Luffy-Photoroom_12
+  - first:
+      213: -1394010078570316462
+    second: Monkey D Luffy-Photoroom_13
+  - first:
+      213: -2875621187046918280
+    second: Monkey D Luffy-Photoroom_14
+  - first:
+      213: 6225555395386274270
+    second: Monkey D Luffy-Photoroom_15
+  - first:
+      213: -8941677643078893537
+    second: Monkey D Luffy-Photoroom_16
+  - first:
+      213: -1688528206625011764
+    second: Monkey D Luffy-Photoroom_17
+  - first:
+      213: -6192410885402761755
+    second: Monkey D Luffy-Photoroom_18
+  - first:
+      213: -4257665169650230099
+    second: Monkey D Luffy-Photoroom_19
+  - first:
+      213: -2568704924231279039
+    second: Monkey D Luffy-Photoroom_20
+  - first:
+      213: 5620393264313295596
+    second: Monkey D Luffy-Photoroom_21
+  - first:
+      213: 4859416723313655383
+    second: Monkey D Luffy-Photoroom_22
+  - first:
+      213: -2142522262476050865
+    second: Monkey D Luffy-Photoroom_23
+  - first:
+      213: 6908227275444827240
+    second: Monkey D Luffy-Photoroom_24
+  - first:
+      213: 5126567985132886938
+    second: Monkey D Luffy-Photoroom_25
+  - first:
+      213: -1667395940186323118
+    second: Monkey D Luffy-Photoroom_26
+  - first:
+      213: -33348433287046904
+    second: Monkey D Luffy-Photoroom_27
+  - first:
+      213: 5975499324207697756
+    second: Monkey D Luffy-Photoroom_28
+  - first:
+      213: 222913558692294802
+    second: Monkey D Luffy-Photoroom_29
+  - first:
+      213: 8339078271485123741
+    second: Monkey D Luffy-Photoroom_30
+  - first:
+      213: 6767569129746571257
+    second: Monkey D Luffy-Photoroom_31
+  - first:
+      213: -4757832291018855551
+    second: Monkey D Luffy-Photoroom_32
+  - first:
+      213: 5240623348055581989
+    second: Monkey D Luffy-Photoroom_33
+  - first:
+      213: -773082668830718079
+    second: Monkey D Luffy-Photoroom_34
+  - first:
+      213: -4464509746421357353
+    second: Monkey D Luffy-Photoroom_35
+  - first:
+      213: 2118513096658535269
+    second: Monkey D Luffy-Photoroom_36
+  - first:
+      213: -1910884577255245779
+    second: Monkey D Luffy-Photoroom_37
+  - first:
+      213: 4462190115223280637
+    second: Monkey D Luffy-Photoroom_38
+  - first:
+      213: -3280119359490836880
+    second: Monkey D Luffy-Photoroom_39
+  - first:
+      213: 50082195103774170
+    second: Monkey D Luffy-Photoroom_40
+  - first:
+      213: 5822307336589433089
+    second: Monkey D Luffy-Photoroom_41
+  - first:
+      213: 9187960618847183147
+    second: Monkey D Luffy-Photoroom_42
+  - first:
+      213: -4468909001111573597
+    second: Monkey D Luffy-Photoroom_43
+  - first:
+      213: -352965202442896173
+    second: Monkey D Luffy-Photoroom_44
+  - first:
+      213: -4422153210081353392
+    second: Monkey D Luffy-Photoroom_45
+  - first:
+      213: -9166612159411465311
+    second: Monkey D Luffy-Photoroom_46
+  - first:
+      213: 7650017662286322415
+    second: Monkey D Luffy-Photoroom_47
+  - first:
+      213: 4955013057592361271
+    second: Monkey D Luffy-Photoroom_48
+  - first:
+      213: -1209343230924135441
+    second: Monkey D Luffy-Photoroom_49
+  - first:
+      213: -6146734288856859985
+    second: Monkey D Luffy-Photoroom_50
+  - first:
+      213: -5213980608179235815
+    second: Monkey D Luffy-Photoroom_51
+  - first:
+      213: 443159191004402177
+    second: Monkey D Luffy-Photoroom_52
+  - first:
+      213: -4669898775768761197
+    second: Monkey D Luffy-Photoroom_53
+  - first:
+      213: 7530778232793579122
+    second: Monkey D Luffy-Photoroom_54
+  - first:
+      213: 7124924428435399974
+    second: Monkey D Luffy-Photoroom_55
+  - first:
+      213: 6123761304475187484
+    second: Monkey D Luffy-Photoroom_56
+  - first:
+      213: -5651528296170913291
+    second: Monkey D Luffy-Photoroom_57
+  - first:
+      213: 4537606710201452116
+    second: Monkey D Luffy-Photoroom_58
+  - first:
+      213: 8383372747608686589
+    second: Monkey D Luffy-Photoroom_59
+  - first:
+      213: 7875742046111537677
+    second: Monkey D Luffy-Photoroom_60
+  - first:
+      213: -7750578341153159017
+    second: Monkey D Luffy-Photoroom_61
+  - first:
+      213: 6480175701964469530
+    second: Monkey D Luffy-Photoroom_62
+  - first:
+      213: -1571795707840270227
+    second: Monkey D Luffy-Photoroom_63
+  - first:
+      213: 1695660760071467319
+    second: Monkey D Luffy-Photoroom_64
+  - first:
+      213: 1680731872672940083
+    second: Monkey D Luffy-Photoroom_65
+  - first:
+      213: 73515108751691146
+    second: Monkey D Luffy-Photoroom_66
+  - first:
+      213: 6611094390319131420
+    second: Monkey D Luffy-Photoroom_67
+  - first:
+      213: -4259921415972898309
+    second: Monkey D Luffy-Photoroom_68
+  - first:
+      213: 8433056366763512669
+    second: Monkey D Luffy-Photoroom_69
+  - first:
+      213: -5706360827284412357
+    second: Monkey D Luffy-Photoroom_70
+  - first:
+      213: 6972854675444620383
+    second: Monkey D Luffy-Photoroom_71
+  - first:
+      213: 2709404542774366507
+    second: Monkey D Luffy-Photoroom_72
+  - first:
+      213: -4865782269904677494
+    second: Monkey D Luffy-Photoroom_73
+  - first:
+      213: 3524923292283220493
+    second: Monkey D Luffy-Photoroom_74
+  - first:
+      213: -4012635475194104860
+    second: Monkey D Luffy-Photoroom_75
+  - first:
+      213: -3719902889192065871
+    second: Monkey D Luffy-Photoroom_76
+  - first:
+      213: -7388006045881046878
+    second: Monkey D Luffy-Photoroom_77
+  - first:
+      213: 6783930039568511913
+    second: Monkey D Luffy-Photoroom_78
+  - first:
+      213: -149882175276394722
+    second: Monkey D Luffy-Photoroom_79
+  - first:
+      213: -2124239243893110290
+    second: Monkey D Luffy-Photoroom_80
+  - first:
+      213: -8259863078866938654
+    second: Monkey D Luffy-Photoroom_81
+  - first:
+      213: -2064165590122999690
+    second: Monkey D Luffy-Photoroom_82
+  - first:
+      213: 707957250054948565
+    second: Monkey D Luffy-Photoroom_83
+  - first:
+      213: -3866888207232423417
+    second: Monkey D Luffy-Photoroom_84
+  - first:
+      213: 2219569751935636444
+    second: Monkey D Luffy-Photoroom_85
+  - first:
+      213: -2047970212585109718
+    second: Monkey D Luffy-Photoroom_86
+  - first:
+      213: 6716655365787404795
+    second: Monkey D Luffy-Photoroom_87
+  - first:
+      213: -4111244045846892516
+    second: Monkey D Luffy-Photoroom_88
+  - first:
+      213: -3967454298650176703
+    second: Monkey D Luffy-Photoroom_89
+  - first:
+      213: -4574039423244930101
+    second: Monkey D Luffy-Photoroom_90
+  - first:
+      213: -756725682849738480
+    second: Monkey D Luffy-Photoroom_91
+  - first:
+      213: -4176005164269451633
+    second: Monkey D Luffy-Photoroom_92
+  - first:
+      213: 7089630647390799014
+    second: Monkey D Luffy-Photoroom_93
+  - first:
+      213: -6026548258270191742
+    second: Monkey D Luffy-Photoroom_94
+  - first:
+      213: 1434931664317621547
+    second: Monkey D Luffy-Photoroom_95
+  - first:
+      213: 5117480618165159128
+    second: Monkey D Luffy-Photoroom_96
+  - first:
+      213: -5036718612269636023
+    second: Monkey D Luffy-Photoroom_97
+  - first:
+      213: -4238688404745481872
+    second: Monkey D Luffy-Photoroom_98
+  - first:
+      213: -4092013278229077682
+    second: Monkey D Luffy-Photoroom_99
+  - first:
+      213: -1377982722936564055
+    second: Monkey D Luffy-Photoroom_100
+  - first:
+      213: -165484017670262513
+    second: Monkey D Luffy-Photoroom_101
+  - first:
+      213: 7145204536891395833
+    second: Monkey D Luffy-Photoroom_102
+  - first:
+      213: 8757345636747935468
+    second: Monkey D Luffy-Photoroom_103
+  - first:
+      213: 6024697695964889585
+    second: Monkey D Luffy-Photoroom_104
+  - first:
+      213: 7464807439686056386
+    second: Monkey D Luffy-Photoroom_105
+  - first:
+      213: 3816724853220594215
+    second: Monkey D Luffy-Photoroom_106
+  - first:
+      213: 3201419470254996103
+    second: Monkey D Luffy-Photoroom_107
+  - first:
+      213: 7643263619522885853
+    second: Monkey D Luffy-Photoroom_108
+  - first:
+      213: 3535798290697509022
+    second: Monkey D Luffy-Photoroom_109
+  - first:
+      213: -4076320369963389024
+    second: Monkey D Luffy-Photoroom_110
+  - first:
+      213: 641289290657855129
+    second: Monkey D Luffy-Photoroom_111
+  - first:
+      213: 4563773104385929711
+    second: Monkey D Luffy-Photoroom_112
+  - first:
+      213: -3528952731860288764
+    second: Monkey D Luffy-Photoroom_113
+  - first:
+      213: -287598955184641058
+    second: Monkey D Luffy-Photoroom_114
+  - first:
+      213: -1991698774759590192
+    second: Monkey D Luffy-Photoroom_115
+  - first:
+      213: 3392287510475579934
+    second: Monkey D Luffy-Photoroom_116
+  - first:
+      213: -6402556952309833662
+    second: Monkey D Luffy-Photoroom_117
+  - first:
+      213: -2192727279339063150
+    second: Monkey D Luffy-Photoroom_118
+  - first:
+      213: -8147741841575168881
+    second: Monkey D Luffy-Photoroom_119
+  - first:
+      213: -5368095301892539832
+    second: Monkey D Luffy-Photoroom_120
+  - first:
+      213: -8794068957165470197
+    second: Monkey D Luffy-Photoroom_121
+  - first:
+      213: 8052957268739163605
+    second: Monkey D Luffy-Photoroom_122
+  - first:
+      213: 5416638554269880562
+    second: Monkey D Luffy-Photoroom_123
+  - first:
+      213: -7063106625960360782
+    second: Monkey D Luffy-Photoroom_124
+  - first:
+      213: 6553402623885023248
+    second: Monkey D Luffy-Photoroom_125
+  - first:
+      213: -7637693773533826809
+    second: Monkey D Luffy-Photoroom_126
+  - first:
+      213: -7857132354140436376
+    second: Monkey D Luffy-Photoroom_127
+  - first:
+      213: 8414449992438437127
+    second: Monkey D Luffy-Photoroom_128
+  - first:
+      213: -4892683244976114464
+    second: Monkey D Luffy-Photoroom_129
+  - first:
+      213: 926035792319201313
+    second: Monkey D Luffy-Photoroom_130
+  - first:
+      213: 7091438928825484098
+    second: Monkey D Luffy-Photoroom_131
+  - first:
+      213: -5490417860386801633
+    second: Monkey D Luffy-Photoroom_132
+  - first:
+      213: 1355343071079914452
+    second: Monkey D Luffy-Photoroom_133
+  - first:
+      213: 3431696242610577730
+    second: Monkey D Luffy-Photoroom_134
+  - first:
+      213: 1820794038394410582
+    second: Monkey D Luffy-Photoroom_135
+  - first:
+      213: 2757719654186708635
+    second: Monkey D Luffy-Photoroom_136
+  - first:
+      213: 2135666604337010719
+    second: Monkey D Luffy-Photoroom_137
+  - first:
+      213: 4675824272386940073
+    second: Monkey D Luffy-Photoroom_138
+  - first:
+      213: 1652201573095170194
+    second: Monkey D Luffy-Photoroom_139
+  - first:
+      213: 3211877639967504713
+    second: Monkey D Luffy-Photoroom_140
+  - first:
+      213: 3565522354021590705
+    second: Monkey D Luffy-Photoroom_141
+  - first:
+      213: 6555326481970183844
+    second: Monkey D Luffy-Photoroom_142
+  - first:
+      213: 7885358878556930112
+    second: Monkey D Luffy-Photoroom_143
+  - first:
+      213: 1350095144091361348
+    second: Monkey D Luffy-Photoroom_144
+  - first:
+      213: 2243252758361753081
+    second: Monkey D Luffy-Photoroom_145
+  - first:
+      213: -5222424277015453630
+    second: Monkey D Luffy-Photoroom_146
+  - first:
+      213: 5623599934667510869
+    second: Monkey D Luffy-Photoroom_147
+  - first:
+      213: 1953926800479907801
+    second: Monkey D Luffy-Photoroom_148
+  - first:
+      213: 4313765008876343743
+    second: Monkey D Luffy-Photoroom_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 20
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 353, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a300baecade9c00800000000000000
+      internalID: 909404755942455931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 446
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afbb293c5633d100800000000000000
+      internalID: 131508583847935907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 429
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd235fb36233c000800000000000000
+      internalID: 54943024451628533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 427
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e607fb426ca49c460800000000000000
+      internalID: 7262418088992141422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 429
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242f2bdca138f72a0800000000000000
+      internalID: -6737522366379527614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 442
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb8696660a28a060800000000000000
+      internalID: 6964863030707784637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 320
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fdea91562c937e0800000000000000
+      internalID: -1785182037797314686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 449
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2568a57e7ba625110800000000000000
+      internalID: 1248177384828077650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 444
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7e2d31ac2227fa0800000000000000
+      internalID: -5804538718415820886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 412
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c98586cbdfbcf650800000000000000
+      internalID: 6268095732042271171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 449
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cabd590f3625e90800000000000000
+      internalID: -7038453382669161359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 447
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fbcce330c5b5640800000000000000
+      internalID: 5069746974543888193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 223
+        width: 36
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7754fd0a0f57f2b0800000000000000
+      internalID: -5550863518922418306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 450
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d7085283b77ace0800000000000000
+      internalID: -1394010078570316462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 418
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773b7d14cdb718d0800000000000000
+      internalID: -2875621187046918280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 432
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f38fc5ad956650800000000000000
+      internalID: 6225555395386274270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 417
+        width: 20
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f100b340f87c8e380800000000000000
+      internalID: -8941677643078893537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 381
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc783e2da842198e0800000000000000
+      internalID: -1688528206625011764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 410
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e56e48cb13201aa0800000000000000
+      internalID: -6192410885402761755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 412
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd176161cb9e4c0800000000000000
+      internalID: -4257665169650230099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 422
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ed5622b702a5cd0800000000000000
+      internalID: -2568704924231279039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 413
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2646155e5affd40800000000000000
+      internalID: 5620393264313295596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 415
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ef3b873cd107340800000000000000
+      internalID: 4859416723313655383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eafb59a5b3442e0800000000000000
+      internalID: -2142522262476050865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 398
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864bd8c0b14fedf50800000000000000
+      internalID: 6908227275444827240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 365
+        width: 14
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b5cb6bb6a352740800000000000000
+      internalID: 5126567985132886938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 366
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25704450a383cd8e0800000000000000
+      internalID: -1667395940186323118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 403
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8091c10d6c5898ff0800000000000000
+      internalID: -33348433287046904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 378
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8cfec9fc3de250800000000000000
+      internalID: 5975499324207697756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 380
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290f87953b2f71300800000000000000
+      internalID: 222913558692294802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 380
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c9c0e618b5ab370800000000000000
+      internalID: 8339078271485123741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 399
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff9173744c3bed50800000000000000
+      internalID: 6767569129746571257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 385
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b20f84db8c8fdb0800000000000000
+      internalID: -4757832291018855551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 383
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a8764b2f6ab840800000000000000
+      internalID: 5240623348055581989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 386
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187855e98657545f0800000000000000
+      internalID: -773082668830718079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 401
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d429442a00ea02c0800000000000000
+      internalID: -4464509746421357353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 394
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5634852ef68766d10800000000000000
+      internalID: 2118513096658535269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 382
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28bdede99c2b75e0800000000000000
+      internalID: -1910884577255245779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 385
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb9422a442eced30800000000000000
+      internalID: 4462190115223280637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 33
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076baa442dcaa72d0800000000000000
+      internalID: -3280119359490836880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 346
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad57bb8bd7de1b000800000000000000
+      internalID: 50082195103774170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 365
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109509abcadfcc050800000000000000
+      internalID: 5822307336589433089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 353
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b212aa0c081328f70800000000000000
+      internalID: 9187960618847183147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 348
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abe237d0fe3bf1c0800000000000000
+      internalID: -4468909001111573597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 320
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc315ab4040a1bf0800000000000000
+      internalID: -352965202442896173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 334
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0516fb2c51b51a2c0800000000000000
+      internalID: -4422153210081353392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 351
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3d08ccec6a9c080800000000000000
+      internalID: -9166612159411465311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 354
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea5a0648825a2a60800000000000000
+      internalID: 7650017662286322415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 367
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73107338f1eb3c440800000000000000
+      internalID: 4955013057592361271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 369
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe36e352dbc873fe0800000000000000
+      internalID: -1209343230924135441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 353
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa39f72bb962baa0800000000000000
+      internalID: -6146734288856859985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 228
+        width: 32
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91493bff24834a7b0800000000000000
+      internalID: -5213980608179235815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 340
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10254ceafea662600800000000000000
+      internalID: 443159191004402177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 353
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c754d3ecf213fb0800000000000000
+      internalID: -4669898775768761197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 335
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eb7e727e2b28860800000000000000
+      internalID: 7530778232793579122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 148
+        width: 20
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6252568a401d0e260800000000000000
+      internalID: 7124924428435399974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 282
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19b68a1678fbf450800000000000000
+      internalID: 6123761304475187484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 161
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f10aac25fcb191b0800000000000000
+      internalID: -5651528296170913291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 315
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4568cfbf241d8fe30800000000000000
+      internalID: 4537606710201452116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 310
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfff7e0d819b75470800000000000000
+      internalID: 8383372747608686589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 311
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a1619d9a14c4d60800000000000000
+      internalID: 7875742046111537677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 319
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798cab3201a607490800000000000000
+      internalID: -7750578341153159017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 287
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15b5bda7753ee950800000000000000
+      internalID: 6480175701964469530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 278
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6072b6a12cdf2ae0800000000000000
+      internalID: -1571795707840270227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 318
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731f0af2a72388710800000000000000
+      internalID: 1695660760071467319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 272
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3300959bbb8235710800000000000000
+      internalID: 1680731872672940083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 285
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dc4c61a9d250100800000000000000
+      internalID: 73515108751691146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 284
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bac8722535fbb50800000000000000
+      internalID: 6611094390319131420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 278
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf93bddca08b1e4c0800000000000000
+      internalID: -4259921415972898309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 275
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5319c7d51c380570800000000000000
+      internalID: 8433056366763512669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b382289af0feec0b0800000000000000
+      internalID: -5706360827284412357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 263
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c5c40326e84c060800000000000000
+      internalID: 6972854675444620383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 238
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2155ec931db99520800000000000000
+      internalID: 2709404542774366507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 221
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8510f73ec4497cb0800000000000000
+      internalID: -4865782269904677494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 268
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02ba09fe0b0be030800000000000000
+      internalID: 3524923292283220493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 274
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3bcef8b414058c0800000000000000
+      internalID: -4012635475194104860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 244
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4f1caf700406cc0800000000000000
+      internalID: -3719902889192065871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 249
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a862d405a7887990800000000000000
+      internalID: -7388006045881046878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 246
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3359d9d6c552e50800000000000000
+      internalID: 6783930039568511913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 140
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17dc78a4f28bedf0800000000000000
+      internalID: -149882175276394722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 94
+        width: 30
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee98ec199af2582e0800000000000000
+      internalID: -2124239243893110290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 233
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e495cada421f5d80800000000000000
+      internalID: -8259863078866938654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 214
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670522b055c9a53e0800000000000000
+      internalID: -2064165590122999690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 228
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d600b53e5b23d900800000000000000
+      internalID: 707957250054948565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 198
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa3c5c9ad065ac0800000000000000
+      internalID: -3866888207232423417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 164
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3535afdee7dce10800000000000000
+      internalID: 2219569751935636444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 212
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27884831f52493e0800000000000000
+      internalID: -2047970212585109718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 156
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9ca74087a563d50800000000000000
+      internalID: 6716655365787404795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 213
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c103b56925de1f6c0800000000000000
+      internalID: -4111244045846892516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 216
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431c5af555c0f8c0800000000000000
+      internalID: -3967454298650176703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 200
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc37adcf06fb580c0800000000000000
+      internalID: -4574039423244930101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 187
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011935130029f75f0800000000000000
+      internalID: -756725682849738480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 201
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c583bd69db06c0800000000000000
+      internalID: -4176005164269451633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a48376e28d636260800000000000000
+      internalID: 7089630647390799014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 185
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f5e040a466d5ca0800000000000000
+      internalID: -6026548258270191742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 199
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ac900fb6e9e310800000000000000
+      internalID: 1434931664317621547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 182
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d44ea63281f40740800000000000000
+      internalID: 5117480618165159128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 174
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946e11a9b1bf91ab0800000000000000
+      internalID: -5036718612269636023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 181
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07114997a572d25c0800000000000000
+      internalID: -4238688404745481872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 164
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4169f69a9f3637c0800000000000000
+      internalID: -4092013278229077682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 183
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a69dbca30c60ece0800000000000000
+      internalID: -1377982722936564055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 69
+        width: 19
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0172c6a92514bdf0800000000000000
+      internalID: -165484017670262513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 151
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fecbec5badd82360800000000000000
+      internalID: 7145204536891395833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 135
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee7dad4577588970800000000000000
+      internalID: 8757345636747935468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 141
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f10a1f52a60c9350800000000000000
+      internalID: 6024697695964889585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c93e2fe0d2589760800000000000000
+      internalID: 7464807439686056386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 158
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225e99380bb7f430800000000000000
+      internalID: 3816724853220594215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 150
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a719ddb0abd6c20800000000000000
+      internalID: 3201419470254996103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 150
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8f35624c3521a60800000000000000
+      internalID: 7643263619522885853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 135
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98557adfcda11130800000000000000
+      internalID: 3535798290697509022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 142
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afa4a588300e67c0800000000000000
+      internalID: -4076320369963389024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 146
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9967cef463156e800800000000000000
+      internalID: 641289290657855129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 130
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b7626577c55f30800000000000000
+      internalID: 4563773104385929711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 124
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb2540034a60fc0800000000000000
+      internalID: -3528952731860288764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 68
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb2276264e320cf0800000000000000
+      internalID: -287598955184641058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 133
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6bfde44801c54e0800000000000000
+      internalID: -1991698774759590192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 125
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1224e58483d31f20800000000000000
+      internalID: 3392287510475579934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 126
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2406d53cf5c8527a0800000000000000
+      internalID: -6402556952309833662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298bfa1382ed191e0800000000000000
+      internalID: -2192727279339063150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 130
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f843353b6f76dee80800000000000000
+      internalID: -8147741841575168881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 111
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a704aa3c1b085b0800000000000000
+      internalID: -5368095301892539832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ebcdd50e035f580800000000000000
+      internalID: -8794068957165470197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 83
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5099238f9d1cf60800000000000000
+      internalID: 8052957268739163605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f011f70114cb2b40800000000000000
+      internalID: 5416638554269880562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 116
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4cce412fdcafd90800000000000000
+      internalID: -7063106625960360782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 98
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01897ca07fc52fa50800000000000000
+      internalID: 6553402623885023248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 92
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701bd4daaf5710690800000000000000
+      internalID: -7637693773533826809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8680b36b0cbd5f290800000000000000
+      internalID: -7857132354140436376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 90
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705d49bbfa126c470800000000000000
+      internalID: 8414449992438437127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 87
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e471b0e282b91cb0800000000000000
+      internalID: -4892683244976114464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 82
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120cb7295a0f9dc00800000000000000
+      internalID: 926035792319201313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 78
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243050b322ad96260800000000000000
+      internalID: 7091438928825484098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_132
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 60
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183f23ab0e1ec3b0800000000000000
+      internalID: -5490417860386801633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db518c97552fc210800000000000000
+      internalID: 1355343071079914452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 60
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241a8ddfc85df9f20800000000000000
+      internalID: 3431696242610577730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_135
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 57
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656d5abe782c44910800000000000000
+      internalID: 1820794038394410582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 62
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e69e91a63654620800000000000000
+      internalID: 2757719654186708635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 67
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f181c2e167963ad10800000000000000
+      internalID: 2135666604337010719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_138
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acd5c3f66dd3e040800000000000000
+      internalID: 4675824272386940073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_139
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 51
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290eda5b39ccde610800000000000000
+      internalID: 1652201573095170194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 61
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949784042b1e29c20800000000000000
+      internalID: 3211877639967504713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6eb26a0b74b7130800000000000000
+      internalID: 3565522354021590705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 39
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae3b8824b239fa50800000000000000
+      internalID: 6555326481970183844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 39
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040cbd22f1c6e6d60800000000000000
+      internalID: 7885358878556930112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ab8461608cb210800000000000000
+      internalID: 1350095144091361348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 39
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5419b9f72a12f10800000000000000
+      internalID: 2243252758361753081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_146
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2402e162ac83687b0800000000000000
+      internalID: -5222424277015453630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_147
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 39
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55454c0785a0b0e40800000000000000
+      internalID: 5623599934667510869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_148
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 38
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df68bb921ebd1b10800000000000000
+      internalID: 1953926800479907801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey D Luffy-Photoroom_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 385
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb195969b629ddb30800000000000000
+      internalID: 4313765008876343743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 19a4357d873a5624fb7063027119237d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monkey D Luffy-Photoroom_0: 909404755942455931
+      Monkey D Luffy-Photoroom_1: 131508583847935907
+      Monkey D Luffy-Photoroom_10: -7038453382669161359
+      Monkey D Luffy-Photoroom_100: -1377982722936564055
+      Monkey D Luffy-Photoroom_101: -165484017670262513
+      Monkey D Luffy-Photoroom_102: 7145204536891395833
+      Monkey D Luffy-Photoroom_103: 8757345636747935468
+      Monkey D Luffy-Photoroom_104: 6024697695964889585
+      Monkey D Luffy-Photoroom_105: 7464807439686056386
+      Monkey D Luffy-Photoroom_106: 3816724853220594215
+      Monkey D Luffy-Photoroom_107: 3201419470254996103
+      Monkey D Luffy-Photoroom_108: 7643263619522885853
+      Monkey D Luffy-Photoroom_109: 3535798290697509022
+      Monkey D Luffy-Photoroom_11: 5069746974543888193
+      Monkey D Luffy-Photoroom_110: -4076320369963389024
+      Monkey D Luffy-Photoroom_111: 641289290657855129
+      Monkey D Luffy-Photoroom_112: 4563773104385929711
+      Monkey D Luffy-Photoroom_113: -3528952731860288764
+      Monkey D Luffy-Photoroom_114: -287598955184641058
+      Monkey D Luffy-Photoroom_115: -1991698774759590192
+      Monkey D Luffy-Photoroom_116: 3392287510475579934
+      Monkey D Luffy-Photoroom_117: -6402556952309833662
+      Monkey D Luffy-Photoroom_118: -2192727279339063150
+      Monkey D Luffy-Photoroom_119: -8147741841575168881
+      Monkey D Luffy-Photoroom_12: -5550863518922418306
+      Monkey D Luffy-Photoroom_120: -5368095301892539832
+      Monkey D Luffy-Photoroom_121: -8794068957165470197
+      Monkey D Luffy-Photoroom_122: 8052957268739163605
+      Monkey D Luffy-Photoroom_123: 5416638554269880562
+      Monkey D Luffy-Photoroom_124: -7063106625960360782
+      Monkey D Luffy-Photoroom_125: 6553402623885023248
+      Monkey D Luffy-Photoroom_126: -7637693773533826809
+      Monkey D Luffy-Photoroom_127: -7857132354140436376
+      Monkey D Luffy-Photoroom_128: 8414449992438437127
+      Monkey D Luffy-Photoroom_129: -4892683244976114464
+      Monkey D Luffy-Photoroom_13: -1394010078570316462
+      Monkey D Luffy-Photoroom_130: 926035792319201313
+      Monkey D Luffy-Photoroom_131: 7091438928825484098
+      Monkey D Luffy-Photoroom_132: -5490417860386801633
+      Monkey D Luffy-Photoroom_133: 1355343071079914452
+      Monkey D Luffy-Photoroom_134: 3431696242610577730
+      Monkey D Luffy-Photoroom_135: 1820794038394410582
+      Monkey D Luffy-Photoroom_136: 2757719654186708635
+      Monkey D Luffy-Photoroom_137: 2135666604337010719
+      Monkey D Luffy-Photoroom_138: 4675824272386940073
+      Monkey D Luffy-Photoroom_139: 1652201573095170194
+      Monkey D Luffy-Photoroom_14: -2875621187046918280
+      Monkey D Luffy-Photoroom_140: 3211877639967504713
+      Monkey D Luffy-Photoroom_141: 3565522354021590705
+      Monkey D Luffy-Photoroom_142: 6555326481970183844
+      Monkey D Luffy-Photoroom_143: 7885358878556930112
+      Monkey D Luffy-Photoroom_144: 1350095144091361348
+      Monkey D Luffy-Photoroom_145: 2243252758361753081
+      Monkey D Luffy-Photoroom_146: -5222424277015453630
+      Monkey D Luffy-Photoroom_147: 5623599934667510869
+      Monkey D Luffy-Photoroom_148: 1953926800479907801
+      Monkey D Luffy-Photoroom_149: 4313765008876343743
+      Monkey D Luffy-Photoroom_15: 6225555395386274270
+      Monkey D Luffy-Photoroom_16: -8941677643078893537
+      Monkey D Luffy-Photoroom_17: -1688528206625011764
+      Monkey D Luffy-Photoroom_18: -6192410885402761755
+      Monkey D Luffy-Photoroom_19: -4257665169650230099
+      Monkey D Luffy-Photoroom_2: 54943024451628533
+      Monkey D Luffy-Photoroom_20: -2568704924231279039
+      Monkey D Luffy-Photoroom_21: 5620393264313295596
+      Monkey D Luffy-Photoroom_22: 4859416723313655383
+      Monkey D Luffy-Photoroom_23: -2142522262476050865
+      Monkey D Luffy-Photoroom_24: 6908227275444827240
+      Monkey D Luffy-Photoroom_25: 5126567985132886938
+      Monkey D Luffy-Photoroom_26: -1667395940186323118
+      Monkey D Luffy-Photoroom_27: -33348433287046904
+      Monkey D Luffy-Photoroom_28: 5975499324207697756
+      Monkey D Luffy-Photoroom_29: 222913558692294802
+      Monkey D Luffy-Photoroom_3: 7262418088992141422
+      Monkey D Luffy-Photoroom_30: 8339078271485123741
+      Monkey D Luffy-Photoroom_31: 6767569129746571257
+      Monkey D Luffy-Photoroom_32: -4757832291018855551
+      Monkey D Luffy-Photoroom_33: 5240623348055581989
+      Monkey D Luffy-Photoroom_34: -773082668830718079
+      Monkey D Luffy-Photoroom_35: -4464509746421357353
+      Monkey D Luffy-Photoroom_36: 2118513096658535269
+      Monkey D Luffy-Photoroom_37: -1910884577255245779
+      Monkey D Luffy-Photoroom_38: 4462190115223280637
+      Monkey D Luffy-Photoroom_39: -3280119359490836880
+      Monkey D Luffy-Photoroom_4: -6737522366379527614
+      Monkey D Luffy-Photoroom_40: 50082195103774170
+      Monkey D Luffy-Photoroom_41: 5822307336589433089
+      Monkey D Luffy-Photoroom_42: 9187960618847183147
+      Monkey D Luffy-Photoroom_43: -4468909001111573597
+      Monkey D Luffy-Photoroom_44: -352965202442896173
+      Monkey D Luffy-Photoroom_45: -4422153210081353392
+      Monkey D Luffy-Photoroom_46: -9166612159411465311
+      Monkey D Luffy-Photoroom_47: 7650017662286322415
+      Monkey D Luffy-Photoroom_48: 4955013057592361271
+      Monkey D Luffy-Photoroom_49: -1209343230924135441
+      Monkey D Luffy-Photoroom_5: 6964863030707784637
+      Monkey D Luffy-Photoroom_50: -6146734288856859985
+      Monkey D Luffy-Photoroom_51: -5213980608179235815
+      Monkey D Luffy-Photoroom_52: 443159191004402177
+      Monkey D Luffy-Photoroom_53: -4669898775768761197
+      Monkey D Luffy-Photoroom_54: 7530778232793579122
+      Monkey D Luffy-Photoroom_55: 7124924428435399974
+      Monkey D Luffy-Photoroom_56: 6123761304475187484
+      Monkey D Luffy-Photoroom_57: -5651528296170913291
+      Monkey D Luffy-Photoroom_58: 4537606710201452116
+      Monkey D Luffy-Photoroom_59: 8383372747608686589
+      Monkey D Luffy-Photoroom_6: -1785182037797314686
+      Monkey D Luffy-Photoroom_60: 7875742046111537677
+      Monkey D Luffy-Photoroom_61: -7750578341153159017
+      Monkey D Luffy-Photoroom_62: 6480175701964469530
+      Monkey D Luffy-Photoroom_63: -1571795707840270227
+      Monkey D Luffy-Photoroom_64: 1695660760071467319
+      Monkey D Luffy-Photoroom_65: 1680731872672940083
+      Monkey D Luffy-Photoroom_66: 73515108751691146
+      Monkey D Luffy-Photoroom_67: 6611094390319131420
+      Monkey D Luffy-Photoroom_68: -4259921415972898309
+      Monkey D Luffy-Photoroom_69: 8433056366763512669
+      Monkey D Luffy-Photoroom_7: 1248177384828077650
+      Monkey D Luffy-Photoroom_70: -5706360827284412357
+      Monkey D Luffy-Photoroom_71: 6972854675444620383
+      Monkey D Luffy-Photoroom_72: 2709404542774366507
+      Monkey D Luffy-Photoroom_73: -4865782269904677494
+      Monkey D Luffy-Photoroom_74: 3524923292283220493
+      Monkey D Luffy-Photoroom_75: -4012635475194104860
+      Monkey D Luffy-Photoroom_76: -3719902889192065871
+      Monkey D Luffy-Photoroom_77: -7388006045881046878
+      Monkey D Luffy-Photoroom_78: 6783930039568511913
+      Monkey D Luffy-Photoroom_79: -149882175276394722
+      Monkey D Luffy-Photoroom_8: -5804538718415820886
+      Monkey D Luffy-Photoroom_80: -2124239243893110290
+      Monkey D Luffy-Photoroom_81: -8259863078866938654
+      Monkey D Luffy-Photoroom_82: -2064165590122999690
+      Monkey D Luffy-Photoroom_83: 707957250054948565
+      Monkey D Luffy-Photoroom_84: -3866888207232423417
+      Monkey D Luffy-Photoroom_85: 2219569751935636444
+      Monkey D Luffy-Photoroom_86: -2047970212585109718
+      Monkey D Luffy-Photoroom_87: 6716655365787404795
+      Monkey D Luffy-Photoroom_88: -4111244045846892516
+      Monkey D Luffy-Photoroom_89: -3967454298650176703
+      Monkey D Luffy-Photoroom_9: 6268095732042271171
+      Monkey D Luffy-Photoroom_90: -4574039423244930101
+      Monkey D Luffy-Photoroom_91: -756725682849738480
+      Monkey D Luffy-Photoroom_92: -4176005164269451633
+      Monkey D Luffy-Photoroom_93: 7089630647390799014
+      Monkey D Luffy-Photoroom_94: -6026548258270191742
+      Monkey D Luffy-Photoroom_95: 1434931664317621547
+      Monkey D Luffy-Photoroom_96: 5117480618165159128
+      Monkey D Luffy-Photoroom_97: -5036718612269636023
+      Monkey D Luffy-Photoroom_98: -4238688404745481872
+      Monkey D Luffy-Photoroom_99: -4092013278229077682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

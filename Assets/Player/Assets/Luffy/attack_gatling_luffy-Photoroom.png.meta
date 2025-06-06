@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: af272448604eb2b459e5ecea67c7f7ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8963451074996565357
+    second: attack_gatling_luffy-Photoroom_0
+  - first:
+      213: -5475669878054888400
+    second: attack_gatling_luffy-Photoroom_1
+  - first:
+      213: 6848981962094525086
+    second: attack_gatling_luffy-Photoroom_2
+  - first:
+      213: 8570100557350204795
+    second: attack_gatling_luffy-Photoroom_3
+  - first:
+      213: 8455662320673185402
+    second: attack_gatling_luffy-Photoroom_4
+  - first:
+      213: -1326258782126919936
+    second: attack_gatling_luffy-Photoroom_5
+  - first:
+      213: -5210938835862606802
+    second: attack_gatling_luffy-Photoroom_6
+  - first:
+      213: -7316875935595933969
+    second: attack_gatling_luffy-Photoroom_7
+  - first:
+      213: 5125092819921438344
+    second: attack_gatling_luffy-Photoroom_8
+  - first:
+      213: 5690725019965063947
+    second: attack_gatling_luffy-Photoroom_9
+  - first:
+      213: -5182361017149308074
+    second: attack_gatling_luffy-Photoroom_10
+  - first:
+      213: -9053385816449026631
+    second: attack_gatling_luffy-Photoroom_11
+  - first:
+      213: -6106866125594241120
+    second: attack_gatling_luffy-Photoroom_12
+  - first:
+      213: 1197217228947225277
+    second: attack_gatling_luffy-Photoroom_13
+  - first:
+      213: 8819351987667273486
+    second: attack_gatling_luffy-Photoroom_14
+  - first:
+      213: -6943920262833204662
+    second: attack_gatling_luffy-Photoroom_15
+  - first:
+      213: -548630687854782115
+    second: attack_gatling_luffy-Photoroom_16
+  - first:
+      213: -6303927916031043685
+    second: attack_gatling_luffy-Photoroom_17
+  - first:
+      213: 3528962030740952671
+    second: attack_gatling_luffy-Photoroom_18
+  - first:
+      213: 3922568489336324689
+    second: attack_gatling_luffy-Photoroom_19
+  - first:
+      213: 8263892325752900256
+    second: attack_gatling_luffy-Photoroom_20
+  - first:
+      213: -3197102592210671017
+    second: attack_gatling_luffy-Photoroom_21
+  - first:
+      213: -7094410599619418980
+    second: attack_gatling_luffy-Photoroom_22
+  - first:
+      213: -5242307376307988634
+    second: attack_gatling_luffy-Photoroom_23
+  - first:
+      213: 1135588005448342984
+    second: attack_gatling_luffy-Photoroom_24
+  - first:
+      213: -7030463684766559120
+    second: attack_gatling_luffy-Photoroom_25
+  - first:
+      213: 9206072849558880789
+    second: attack_gatling_luffy-Photoroom_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a8c39dcbc6b9380800000000000000
+      internalID: -8963451074996565357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 398
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c5b3bd1438204b0800000000000000
+      internalID: -5475669878054888400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 366
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab3bb9ec87c0f50800000000000000
+      internalID: 6848981962094525086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 334
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b757c32fc0d1fe670800000000000000
+      internalID: 8570100557350204795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 313
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e5164a41c885570800000000000000
+      internalID: 8455662320673185402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 301
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f251b1aae289de0800000000000000
+      internalID: -1326258782126919936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 288
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c2f1eccb60fa7b0800000000000000
+      internalID: -5210938835862606802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 238
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee43316a1c357a90800000000000000
+      internalID: -7316875935595933969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 263
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886825c04ccff1740800000000000000
+      internalID: 5125092819921438344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 233
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b030271414489fe40800000000000000
+      internalID: 5690725019965063947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653cbfabc1e8418b0800000000000000
+      internalID: -5182361017149308074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 216
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5fefb1199eb5280800000000000000
+      internalID: -9053385816449026631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 222
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7d6154d9d004ba0800000000000000
+      internalID: -6106866125594241120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 197
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba70620abe5d9010800000000000000
+      internalID: 1197217228947225277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 181
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e070b06e7e1a46a70800000000000000
+      internalID: 8819351987667273486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 149
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a429039bf4d32af90800000000000000
+      internalID: -6943920262833204662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 159
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d599981db4fd268f0800000000000000
+      internalID: -548630687854782115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 145
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971d43c5f2f388a0800000000000000
+      internalID: -6303927916031043685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 122
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d72c054469f030800000000000000
+      internalID: 3528962030740952671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15248062243cf6630800000000000000
+      internalID: 3922568489336324689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 106
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa049a494e3fa270800000000000000
+      internalID: 8263892325752900256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 94
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a6dc0a12c91a3d0800000000000000
+      internalID: -3197102592210671017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 78
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c942beeb5279b8d90800000000000000
+      internalID: -7094410599619418980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66790c757359f37b0800000000000000
+      internalID: -5242307376307988634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 64
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd51fb364b62cf00800000000000000
+      internalID: 1135588005448342984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07494371786ce6e90800000000000000
+      internalID: -7030463684766559120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51243561b7a82cf70800000000000000
+      internalID: 9206072849558880789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20ac6385b02aca4e8f55f2359244208
+      internalID: 1922911749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 334
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030e6cfa30edead41a095718d9ef55ee
+      internalID: -1985399325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 302
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32ab12c4733664dac51928494cd94a
+      internalID: 1030528732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 302
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110cd0dfb40818445a3397fb9fb6e6e9
+      internalID: -1631643898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 270
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41c5ec0ce55fca4b80e704fc5b4a8a2
+      internalID: 519062489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 270
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aa74a7ed353744297565476eb34f49
+      internalID: -1326534896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 238
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcfc939f124eba47a936d10dd2f1c5d
+      internalID: 1960978531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a19f3d4609cd42bb7edbfb377a55a
+      internalID: 1816161826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 206
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5a5fd893ccfd48956e54e4beb5958
+      internalID: 311615088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 174
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b4355f54a6ebc4eac987c8a5133a73
+      internalID: 284402179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 174
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6545896a04d9074eb57569b2d0b2ee3
+      internalID: -961876744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 142
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b85863a8f56e4441af12f4251ed0cde
+      internalID: -1178022632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 142
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb46083c41958b45967118ced0922b8
+      internalID: -1177252397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd4b0e36ad352f4b88a0f8686d3334d
+      internalID: 1717273320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 110
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c355de41ef37fe489a6eca0675deda0
+      internalID: 1657225671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 78
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3570e30796eb0eb43ad8376b398af801
+      internalID: 843739058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 46
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e19ce06b5cf6a48bddcfefc979d127
+      internalID: -1699124594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35317d52807a215438a3be2599afe118
+      internalID: 457625705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_gatling_luffy-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 14
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525ba9654950f8147b0b5e5305436623
+      internalID: -1973913890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a06bf1b68801f245b0a279570f7641f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":3.0},"gridSpriteSize":{"x":34.0,"y":32.0},"gridSpriteOffset":{"x":1.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"autoSlicingMethod":1,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":true,"isAlternate":false}'
+    nameFileIdTable:
+      attack_gatling_luffy-Photoroom_27: 1922911749
+      attack_gatling_luffy-Photoroom_28: -1985399325
+      attack_gatling_luffy-Photoroom_29: 1030528732
+      attack_gatling_luffy-Photoroom_30: -1631643898
+      attack_gatling_luffy-Photoroom_31: 519062489
+      attack_gatling_luffy-Photoroom_32: -1326534896
+      attack_gatling_luffy-Photoroom_33: 1960978531
+      attack_gatling_luffy-Photoroom_34: 1816161826
+      attack_gatling_luffy-Photoroom_35: 311615088
+      attack_gatling_luffy-Photoroom_36: 284402179
+      attack_gatling_luffy-Photoroom_37: -961876744
+      attack_gatling_luffy-Photoroom_38: -1178022632
+      attack_gatling_luffy-Photoroom_39: -1177252397
+      attack_gatling_luffy-Photoroom_40: 1717273320
+      attack_gatling_luffy-Photoroom_41: 1657225671
+      attack_gatling_luffy-Photoroom_42: 843739058
+      attack_gatling_luffy-Photoroom_43: -1699124594
+      attack_gatling_luffy-Photoroom_44: 457625705
+      attack_gatling_luffy-Photoroom_45: -1973913890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
