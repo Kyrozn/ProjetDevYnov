@@ -12,13 +12,45 @@ public class BossController : NetworkBehaviour
 
     private Animator animator;
 
+    [Header("Combat Settings")]
+    public float meleeRange = 2f;
+    public float rangedRange = 6f;
+    public float attackCooldown = 2f;
+    public GameObject magicProjectilePrefab;
+    public Transform firePoint;
+
+    private Transform target;
+    private float lastAttackTime;
+    [SyncVar] public bool isAttacking = false;
+
+
     void Start()
     {
         animator = GetComponent<Animator>();
 
-        if (isServer) // initialiser uniquement sur le serveur
+        if (isServer)
         {
             currentHealth = maxHealth;
+            target = GameObject.FindWithTag("Player")?.transform;
+        }
+    }
+
+    void Update()
+    {
+        if (!isServer || target == null || currentHealth <= 0) return;
+
+        float distance = Vector2.Distance(transform.position, target.position);
+
+        if (Time.time - lastAttackTime >= attackCooldown)
+        {
+            if (distance <= meleeRange)
+            {
+                MeleeAttack();
+            }
+            else if (distance <= rangedRange)
+            {
+                RangedAttack();
+            }
         }
     }
 
@@ -39,20 +71,68 @@ public class BossController : NetworkBehaviour
     [Server]
     void Die()
     {
-        // Désactiver IA, collisions, etc.
         RpcPlayDeathAnimation();
-        Destroy(gameObject, 2f); // délai pour laisser l’anim jouer
+        Destroy(gameObject, 2f);
     }
 
     void OnHealthChanged(int oldHealth, int newHealth)
     {
-        // Affichage d'une barre de vie par exemple ?
         Debug.Log($"Boss HP: {newHealth}/{maxHealth}");
     }
 
     [ClientRpc]
     void RpcPlayDeathAnimation()
     {
-        animator.SetTrigger("Die"); // à définir dans Animator
+        animator.SetTrigger("Die");
     }
+
+    [Server]
+    void MeleeAttack()
+    {
+        lastAttackTime = Time.time;
+        animator.SetTrigger("Claw");
+
+        if (target != null)
+        {
+            target.GetComponent<PlayerStats>()?.TakeDamage(20);
+        }
+        Invoke(nameof(StopAttacking), 0.5f);
+    }
+
+    [Server]
+    void RangedAttack()
+{
+    lastAttackTime = Time.time;
+    isAttacking = true;
+
+    animator.SetTrigger("Cast");
+
+    if (magicProjectilePrefab && firePoint)
+    {
+        GameObject proj = Instantiate(magicProjectilePrefab, firePoint.position, Quaternion.identity);
+        Vector2 direction = (target.position - firePoint.position).normalized;
+        proj.GetComponent<Rigidbody2D>().linearVelocity = direction * 5f;
+
+        NetworkServer.Spawn(proj);
+    }
+
+    Invoke(nameof(StopAttacking), 0.5f);
+}
+
+[Server]
+void StopAttacking()
+{
+    isAttacking = false;
+}
+    // public override void OnStartServer()
+    // {
+    //     base.OnStartServer();
+    //     currentHealth = maxHealth;
+    // }
+
+    // public override void OnStopServer()
+    // {
+    //     base.OnStopServer();
+    //     Destroy(gameObject);
+    // }
 }

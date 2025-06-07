@@ -35,9 +35,14 @@ public class Enemy : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (target)
+        if (target && !GetComponent<BossController>().isAttacking)
         {
             rb.linearVelocity = new Vector2(moveDirection.x, moveDirection.y) * moveSpeed;
         }
+        else
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
+
     }
 }
