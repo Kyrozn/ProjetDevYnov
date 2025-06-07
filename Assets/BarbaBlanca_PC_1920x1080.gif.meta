@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BarbaBlanca_PC_1920x1080_0: 7572036550378034653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

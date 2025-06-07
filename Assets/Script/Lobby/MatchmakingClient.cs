@@ -7,16 +7,27 @@ using UnityEngine;
 using Mirror;
 using UnityEngine.UI;
 using Mirror.Examples.BilliardsPredicted;
+using Mirror.Examples.Basic;
+
 
 public class WebSocketClient : MonoBehaviour
 {
     private readonly ClientWebSocket ws = new();
-    private readonly Uri serverUri = new("ws://localhost:8090");    
+    private readonly Uri serverUri = new("ws://172.20.10.3:8090");    
     public LobbyUI uiInteract;
+    public loader loader;
     private async void Start()
     {
-        PlayerPrefs.SetString("id", "123e4567-e89b-12d3-a456-426614174000");
-        await ConnectToServer();
+
+        if (!PlayerPrefs.HasKey("id"))
+        {
+            await ws.ConnectAsync(serverUri, CancellationToken.None);
+        }
+        else
+        {
+            await ConnectToServer();
+        }
+        
         _ = ReceiveMessages(); // Start receiving without awaiting it
     }
 
@@ -98,7 +109,8 @@ public class WebSocketClient : MonoBehaviour
     public async void SendJoinLobby() => await SendMessage("JoinLobby " + uiInteract.joinLobbyButton
                                                             .transform.Find("Input").GetComponentInChildren<InputField>().text);
                                                             
-
+    public async void SendConnection() => await SendMessage("Connection " + loader.FormConnect.transform.Find("InputUsername").GetComponentInChildren<InputField>().text + " " +
+                                            loader.FormConnect.transform.Find("InputPassword").GetComponentInChildren<InputField>().text);
     public async void SendEnterMatchmaking() => await SendMessage("EnterMatchmaking");
 
     private new async Task SendMessage(string msg)
