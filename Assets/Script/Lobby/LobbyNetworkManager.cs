@@ -3,11 +3,23 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 
+
+
+/*
+
+Dans la scène du lobby, lorsque le joueur clique sur son perso :
+
+CustomNetworkManager.singleton.SetPlayerCharacter(NetworkClient.connection, index);
+Et dans l’inspecteur Unity : renseigne tous les prefabs joueurs dans playerPrefabs (dans l’ordre : Guerrier = 0, Mage = 1, etc.).
+
+*/
 public class CustomNetworkManager : NetworkManager
 {
     public static new CustomNetworkManager singleton;
 
     public List<LobbyPlayer> lobbyPlayers = new();
+    public List<GameObject> playerPrefabs; // Liste des prefabs de personnages
+    private readonly Dictionary<NetworkConnectionToClient, int> selectedCharacters = new();
 
     public override void Awake()
     {
@@ -15,9 +27,20 @@ public class CustomNetworkManager : NetworkManager
         singleton = this;
     }
 
+    public void SetPlayerCharacter(NetworkConnectionToClient conn, int characterIndex)
+    {
+        selectedCharacters[conn] = characterIndex;
+    }
+
     public override void OnServerAddPlayer(NetworkConnectionToClient conn)
     {
-        GameObject player = Instantiate(playerPrefab);
+        int index = 0;
+        if (selectedCharacters.TryGetValue(conn, out int selectedIndex))
+        {
+            index = selectedIndex;
+        }
+
+        GameObject player = Instantiate(playerPrefabs[index], GetStartPosition().position, Quaternion.identity);
         NetworkServer.AddPlayerForConnection(conn, player);
 
         LobbyPlayer lobbyPlayer = player.GetComponent<LobbyPlayer>();
