@@ -1,244 +1,208 @@
 fileFormatVersion: 2
-guid: e00c2e49a12f00146abf3e3ab3c78d64
+guid: 8b2ec14379c37c2428c61543485cc5a5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8158490076653712264
-    second: Roronoa Zoro-Photoroom_0
+      213: -3129647116685351939
+    second: Sanji-tiles_0
   - first:
-      213: -2668531703310967025
-    second: Roronoa Zoro-Photoroom_1
+      213: 4932408807648871754
+    second: Sanji-tiles_1
   - first:
-      213: 12919877680049095
-    second: Roronoa Zoro-Photoroom_2
+      213: -2857450957446988699
+    second: Sanji-tiles_2
   - first:
-      213: -1970619024926377648
-    second: Roronoa Zoro-Photoroom_3
+      213: -5097717060334130553
+    second: Sanji-tiles_3
   - first:
-      213: -8802206789818767386
-    second: Roronoa Zoro-Photoroom_4
+      213: -4554217496826857897
+    second: Sanji-tiles_4
   - first:
-      213: -9026854483377544782
-    second: Roronoa Zoro-Photoroom_5
+      213: 8409182501220669177
+    second: Sanji-tiles_5
   - first:
-      213: -5352450291888524566
-    second: Roronoa Zoro-Photoroom_6
+      213: 4747523784127435139
+    second: Sanji-tiles_6
   - first:
-      213: 8232582802666328863
-    second: Roronoa Zoro-Photoroom_7
+      213: 3362042085827993642
+    second: Sanji-tiles_7
   - first:
-      213: -5754044938596113762
-    second: Roronoa Zoro-Photoroom_8
+      213: 6516986146243320612
+    second: Sanji-tiles_8
   - first:
-      213: 457463881485764859
-    second: Roronoa Zoro-Photoroom_9
+      213: -615053445829981259
+    second: Sanji-tiles_9
   - first:
-      213: -5449402734853628290
-    second: Roronoa Zoro-Photoroom_10
+      213: 8051879640309714364
+    second: Sanji-tiles_10
   - first:
-      213: 9179137689105923049
-    second: Roronoa Zoro-Photoroom_11
+      213: 3501819616327628263
+    second: Sanji-tiles_11
   - first:
-      213: -2948792105373360583
-    second: Roronoa Zoro-Photoroom_12
+      213: 56153769561077401
+    second: Sanji-tiles_12
   - first:
-      213: 803178054682139603
-    second: Roronoa Zoro-Photoroom_13
+      213: -1001168760786837215
+    second: Sanji-tiles_13
   - first:
-      213: -8107809641123207861
-    second: Roronoa Zoro-Photoroom_14
+      213: -1705031003709983214
+    second: Sanji-tiles_14
   - first:
-      213: -3187085457908909150
-    second: Roronoa Zoro-Photoroom_15
+      213: 3450385577160771587
+    second: Sanji-tiles_15
   - first:
-      213: -4547392619603204586
-    second: Roronoa Zoro-Photoroom_16
+      213: 118300962906818571
+    second: Sanji-tiles_16
   - first:
-      213: 7226893657671363271
-    second: Roronoa Zoro-Photoroom_17
+      213: -575276696122660696
+    second: Sanji-tiles_17
   - first:
-      213: 372843122302867748
-    second: Roronoa Zoro-Photoroom_18
+      213: 5382203857063047416
+    second: Sanji-tiles_18
   - first:
-      213: 8153868578868594120
-    second: Roronoa Zoro-Photoroom_19
+      213: -1551121358423740853
+    second: Sanji-tiles_19
   - first:
-      213: -3653581426503834860
-    second: Roronoa Zoro-Photoroom_20
+      213: -9174184674497758025
+    second: Sanji-tiles_20
   - first:
-      213: 8802042262548628623
-    second: Roronoa Zoro-Photoroom_21
+      213: -2702100966506170606
+    second: Sanji-tiles_21
   - first:
-      213: 1493891637294095900
-    second: Roronoa Zoro-Photoroom_22
+      213: 8478499305195242619
+    second: Sanji-tiles_22
   - first:
-      213: -550469697483659050
-    second: Roronoa Zoro-Photoroom_23
+      213: -4269704860768575562
+    second: Sanji-tiles_23
   - first:
-      213: 24009991436476522
-    second: Roronoa Zoro-Photoroom_24
+      213: -7516409480448626342
+    second: Sanji-tiles_24
   - first:
-      213: -8534663156646539602
-    second: Roronoa Zoro-Photoroom_25
+      213: 1879894011196855943
+    second: Sanji-tiles_25
   - first:
-      213: -5884681591541033378
-    second: Roronoa Zoro-Photoroom_26
+      213: -4137841197660140940
+    second: Sanji-tiles_26
   - first:
-      213: 9178856169147060045
-    second: Roronoa Zoro-Photoroom_27
+      213: -151472814596573528
+    second: Sanji-tiles_27
   - first:
-      213: 8354904285219730030
-    second: Roronoa Zoro-Photoroom_28
+      213: -8016747069016497608
+    second: Sanji-tiles_28
   - first:
-      213: 5463096870443130182
-    second: Roronoa Zoro-Photoroom_29
+      213: 9104503277363006426
+    second: Sanji-tiles_29
   - first:
-      213: 530454668822345299
-    second: Roronoa Zoro-Photoroom_30
+      213: -8030231955131092980
+    second: Sanji-tiles_30
   - first:
-      213: 200310408106049076
-    second: Roronoa Zoro-Photoroom_31
+      213: 3611341767502261339
+    second: Sanji-tiles_31
   - first:
-      213: 1046708366536653297
-    second: Roronoa Zoro-Photoroom_32
+      213: 728997144073994509
+    second: Sanji-tiles_32
   - first:
-      213: -3437859711755178891
-    second: Roronoa Zoro-Photoroom_33
+      213: 8829510621133940029
+    second: Sanji-tiles_33
   - first:
-      213: -5140243584115653019
-    second: Roronoa Zoro-Photoroom_34
+      213: -357755534292399220
+    second: Sanji-tiles_34
   - first:
-      213: -3550704728800172523
-    second: Roronoa Zoro-Photoroom_35
+      213: -7779279349344728098
+    second: Sanji-tiles_35
   - first:
-      213: 1239166287970010937
-    second: Roronoa Zoro-Photoroom_36
+      213: 8745165044573424848
+    second: Sanji-tiles_36
   - first:
-      213: 7160153395987466710
-    second: Roronoa Zoro-Photoroom_37
+      213: -3598547349041759768
+    second: Sanji-tiles_37
   - first:
-      213: -1024479350133791341
-    second: Roronoa Zoro-Photoroom_38
+      213: -8155816854275144284
+    second: Sanji-tiles_38
   - first:
-      213: -4503784427062882415
-    second: Roronoa Zoro-Photoroom_39
+      213: 2815880658981629391
+    second: Sanji-tiles_39
   - first:
-      213: -1923533050955355256
-    second: Roronoa Zoro-Photoroom_40
+      213: 8217394954445642912
+    second: Sanji-tiles_40
   - first:
-      213: -7765740472165955673
-    second: Roronoa Zoro-Photoroom_41
+      213: -6422274763305810445
+    second: Sanji-tiles_41
   - first:
-      213: 7386372009883342111
-    second: Roronoa Zoro-Photoroom_42
+      213: 4213920091347466961
+    second: Sanji-tiles_42
   - first:
-      213: -4060783673365258811
-    second: Roronoa Zoro-Photoroom_43
+      213: -4270910826492491822
+    second: Sanji-tiles_43
   - first:
-      213: -8166250195934799399
-    second: Roronoa Zoro-Photoroom_44
+      213: -2330893478950254304
+    second: Sanji-tiles_44
   - first:
-      213: -1455338723033596254
-    second: Roronoa Zoro-Photoroom_45
+      213: -8242884367007176831
+    second: Sanji-tiles_45
   - first:
-      213: 1873896147273505483
-    second: Roronoa Zoro-Photoroom_46
+      213: 8400918782844102497
+    second: Sanji-tiles_46
   - first:
-      213: -1575243085307647769
-    second: Roronoa Zoro-Photoroom_47
+      213: -1600712624880259986
+    second: Sanji-tiles_47
   - first:
-      213: 3657534346734637138
-    second: Roronoa Zoro-Photoroom_48
+      213: 667458609454181256
+    second: Sanji-tiles_48
   - first:
-      213: 579592731671397732
-    second: Roronoa Zoro-Photoroom_49
+      213: 5349628782874792261
+    second: Sanji-tiles_49
   - first:
-      213: 547387862844401735
-    second: Roronoa Zoro-Photoroom_50
+      213: -408481711912432207
+    second: Sanji-tiles_50
   - first:
-      213: 8690246576181511844
-    second: Roronoa Zoro-Photoroom_51
+      213: -5086436660930828744
+    second: Sanji-tiles_51
   - first:
-      213: -7321961886576042111
-    second: Roronoa Zoro-Photoroom_52
+      213: 9106916174162374275
+    second: Sanji-tiles_52
   - first:
-      213: -255711409421668664
-    second: Roronoa Zoro-Photoroom_53
+      213: -7200494388175340859
+    second: Sanji-tiles_53
   - first:
-      213: 5319412853689267632
-    second: Roronoa Zoro-Photoroom_54
+      213: 2182343634013744850
+    second: Sanji-tiles_54
   - first:
-      213: -6530092655860614713
-    second: Roronoa Zoro-Photoroom_55
+      213: -5426886390733246162
+    second: Sanji-tiles_55
   - first:
-      213: -7073960953110949244
-    second: Roronoa Zoro-Photoroom_56
+      213: -3221345146095348625
+    second: Sanji-tiles_56
   - first:
-      213: 9017315437867205032
-    second: Roronoa Zoro-Photoroom_57
+      213: 4331715863413729833
+    second: Sanji-tiles_57
   - first:
-      213: -9213741721910242287
-    second: Roronoa Zoro-Photoroom_58
+      213: -5760731624125512325
+    second: Sanji-tiles_58
   - first:
-      213: -288108331273750947
-    second: Roronoa Zoro-Photoroom_59
+      213: 784838740092988886
+    second: Sanji-tiles_59
   - first:
-      213: -2654099989955304295
-    second: Roronoa Zoro-Photoroom_60
+      213: 4099315317686559636
+    second: Sanji-tiles_60
   - first:
-      213: -3346895930700609791
-    second: Roronoa Zoro-Photoroom_61
+      213: -1904879126740370644
+    second: Sanji-tiles_61
   - first:
-      213: 823238697295082974
-    second: Roronoa Zoro-Photoroom_62
+      213: -8273046936329661586
+    second: Sanji-tiles_62
   - first:
-      213: 5209521378123573611
-    second: Roronoa Zoro-Photoroom_63
+      213: -8770836650198336609
+    second: Sanji-tiles_63
   - first:
-      213: 5333080995235092243
-    second: Roronoa Zoro-Photoroom_64
+      213: -2385221259350791538
+    second: Sanji-tiles_64
   - first:
-      213: 8602512526010123766
-    second: Roronoa Zoro-Photoroom_65
+      213: 9104539067214658279
+    second: Sanji-tiles_65
   - first:
-      213: 8711935820160462802
-    second: Roronoa Zoro-Photoroom_66
-  - first:
-      213: 3805482966705790345
-    second: Roronoa Zoro-Photoroom_67
-  - first:
-      213: 8976627271543596207
-    second: Roronoa Zoro-Photoroom_68
-  - first:
-      213: 3842505117520164715
-    second: Roronoa Zoro-Photoroom_69
-  - first:
-      213: -5083941076235265936
-    second: Roronoa Zoro-Photoroom_70
-  - first:
-      213: -9207222668418146565
-    second: Roronoa Zoro-Photoroom_71
-  - first:
-      213: 4126743288351280830
-    second: Roronoa Zoro-Photoroom_72
-  - first:
-      213: -821760484468059961
-    second: Roronoa Zoro-Photoroom_73
-  - first:
-      213: 8651553831045117681
-    second: Roronoa Zoro-Photoroom_74
-  - first:
-      213: 8199228658943260547
-    second: Roronoa Zoro-Photoroom_75
-  - first:
-      213: -5550246166326349760
-    second: Roronoa Zoro-Photoroom_76
-  - first:
-      213: 2114019025490141539
-    second: Roronoa Zoro-Photoroom_77
-  - first:
-      213: -2380866976756295862
-    second: Roronoa Zoro-Photoroom_78
+      213: -122722536683046965
+    second: Sanji-tiles_66
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -334,914 +298,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_2
+      name: Sanji-tiles_0
       rect:
         serializedVersion: 2
-        x: 84
-        y: 413
-        width: 22
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7cb29af6f86ed2000800000000000000
-      internalID: 12919877680049095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_4
-      rect:
-        serializedVersion: 2
-        x: 123
-        y: 406
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e7225d8f8748d580800000000000000
-      internalID: -8802206789818767386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_5
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 412
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b1a3277cab2ab280800000000000000
-      internalID: -9026854483377544782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_6
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 401
-        width: 19
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae27c0a61d648b5b0800000000000000
-      internalID: -5352450291888524566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_7
-      rect:
-        serializedVersion: 2
-        x: 266
+        x: 6
         y: 410
-        width: 56
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f139ae0e072004270800000000000000
-      internalID: 8232582802666328863
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_9
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 422
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf8c789f9fc395600800000000000000
-      internalID: 457463881485764859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_10
-      rect:
-        serializedVersion: 2
-        x: 354
-        y: 424
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7ed107b515df54b0800000000000000
-      internalID: -5449402734853628290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_11
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 418
-        width: 36
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ebfe875819d26f70800000000000000
-      internalID: 9179137689105923049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_12
-      rect:
-        serializedVersion: 2
-        x: 353
-        y: 408
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93e9eba1439c317d0800000000000000
-      internalID: -2948792105373360583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_13
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 411
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3dbd7b07f26752b00800000000000000
-      internalID: 803178054682139603
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_14
-      rect:
-        serializedVersion: 2
-        x: 382
-        y: 412
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b452d52a6164b7f80800000000000000
-      internalID: -8107809641123207861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_15
-      rect:
-        serializedVersion: 2
-        x: 395
-        y: 409
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2abb68479a235c3d0800000000000000
-      internalID: -3187085457908909150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_17
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 395
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ca660fed751b4460800000000000000
-      internalID: 7226893657671363271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_18
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 402
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4295fc528da9c2500800000000000000
-      internalID: 372843122302867748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_19
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 345
         width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c58eac754c582170800000000000000
-      internalID: 8153868578868594120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_20
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 372
-        width: 22
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4132643dc0fdb4dc0800000000000000
-      internalID: -3653581426503834860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_21
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 374
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f84cf257dc2272a70800000000000000
-      internalID: 8802042262548628623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_22
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 350
-        width: 29
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1e57d5778e5bb410800000000000000
-      internalID: 1493891637294095900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_24
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 376
-        width: 51
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a60a1a2c5fc455000800000000000000
-      internalID: 24009991436476522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_25
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 374
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eae087ed319ce8980800000000000000
-      internalID: -8534663156646539602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_26
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 374
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e569ae75549655ea0800000000000000
-      internalID: -5884681591541033378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_28
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 338
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6239e46e2592f370800000000000000
-      internalID: 8354904285219730030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_29
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 337
-        width: 59
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64d9f40b8a1d0db40800000000000000
-      internalID: 5463096870443130182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_31
-      rect:
-        serializedVersion: 2
-        x: 378
-        y: 343
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43e79ff3145a7c200800000000000000
-      internalID: 200310408106049076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_32
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 347
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f9b8d2b6b7a68e00800000000000000
-      internalID: 1046708366536653297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_33
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 301
-        width: 26
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57ca4358ec44a40d0800000000000000
-      internalID: -3437859711755178891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_34
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 300
-        width: 27
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5664ec5c1bf2aa8b0800000000000000
-      internalID: -5140243584115653019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_35
-      rect:
-        serializedVersion: 2
-        x: 365
-        y: 331
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 516e0919cdc59bec0800000000000000
-      internalID: -3550704728800172523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_36
-      rect:
-        serializedVersion: 2
-        x: 388
-        y: 334
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 937871c6c27623110800000000000000
-      internalID: 1239166287970010937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_37
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 324
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d9c329d399fd5360800000000000000
-      internalID: 7160153395987466710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_38
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 313
-        width: 17
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3956d8f757158c1f0800000000000000
-      internalID: -1024479350133791341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_39
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 313
-        width: 21
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19f0bf7fce75f71c0800000000000000
-      internalID: -4503784427062882415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_40
-      rect:
-        serializedVersion: 2
-        x: 223
-        y: 288
-        width: 30
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88b2518a1ec3e45e0800000000000000
-      internalID: -1923533050955355256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_42
-      rect:
-        serializedVersion: 2
-        x: 362
-        y: 319
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f151cf3553aa18660800000000000000
-      internalID: 7386372009883342111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_43
-      rect:
-        serializedVersion: 2
-        x: 378
-        y: 315
-        width: 9
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5cd9b5793c235a7c0800000000000000
-      internalID: -4060783673365258811
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_44
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 312
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d99754a6b6abae80800000000000000
-      internalID: -8166250195934799399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_45
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 291
-        width: 36
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ae36b164299dcbe0800000000000000
-      internalID: -1455338723033596254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_46
-      rect:
-        serializedVersion: 2
-        x: 123
-        y: 267
-        width: 27
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bcad53c1e9a610a10800000000000000
-      internalID: 1873896147273505483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_48
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 287
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25098e22c1c22c230800000000000000
-      internalID: 3657534346734637138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_49
-      rect:
-        serializedVersion: 2
-        x: 374
-        y: 292
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4650ca5c4802b0800800000000000000
-      internalID: 579592731671397732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_50
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 256
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 748633f6c56b89700800000000000000
-      internalID: 547387862844401735
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_51
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 258
-        width: 42
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1251,20 +313,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a68ad7d735f99870800000000000000
-      internalID: 8690246576181511844
+      spriteID: df3e4a967824194d0800000000000000
+      internalID: -3129647116685351939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_55
+      name: Sanji-tiles_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 217
-        width: 30
-        height: 31
+        x: 41
+        y: 415
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1273,18 +335,194 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c97a01d3537065a0800000000000000
-      internalID: -6530092655860614713
+      spriteID: a454be27daf637440800000000000000
+      internalID: 4932408807648871754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_57
+      name: Sanji-tiles_2
       rect:
         serializedVersion: 2
-        x: 35
-        y: 186
+        x: 81
+        y: 407
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cb54e5e7b4858d0800000000000000
+      internalID: -2857450957446988699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 412
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae55da7554149b0800000000000000
+      internalID: -5097717060334130553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 407
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75634cfd05b2cc0c0800000000000000
+      internalID: -4554217496826857897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 407
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f650bc5eea63b470800000000000000
+      internalID: 8409182501220669177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 407
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38152ab6ab792e140800000000000000
+      internalID: 4747523784127435139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 408
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20e0b5d67f58ae20800000000000000
+      internalID: 3362042085827993642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 409
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b99fc1f5cf07a50800000000000000
+      internalID: 6516986146243320612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 393
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8c635624e677f0800000000000000
+      internalID: -615053445829981259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 377
         width: 34
         height: 27
       alignment: 0
@@ -1295,20 +533,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a188bd6d90f32d70800000000000000
-      internalID: 9017315437867205032
+      spriteID: cbd4cd64fd50ebf60800000000000000
+      internalID: 8051879640309714364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_58
+      name: Sanji-tiles_11
       rect:
         serializedVersion: 2
-        x: 35
-        y: 154
-        width: 30
-        height: 30
+        x: 222
+        y: 377
+        width: 34
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1317,85 +555,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 114185d68b6322080800000000000000
-      internalID: -9213741721910242287
+      spriteID: 7e5f3ba3366f89030800000000000000
+      internalID: 3501819616327628263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_59
+      name: Sanji-tiles_12
       rect:
         serializedVersion: 2
-        x: 119
-        y: 168
-        width: 43
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d56f899cffe600cf0800000000000000
-      internalID: -288108331273750947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_60
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 173
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 994a8540f1eba2bd0800000000000000
-      internalID: -2654099989955304295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_61
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 123
-        width: 20
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 107c36632ef6d81d0800000000000000
-      internalID: -3346895930700609791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_62
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 123
-        width: 38
+        x: 324
+        y: 382
+        width: 16
         height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1405,19 +577,261 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed5f0a5cb3bbc6b00800000000000000
-      internalID: 823238697295082974
+      spriteID: 996bc7f4e8f77c000800000000000000
+      internalID: 56153769561077401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_63
+      name: Sanji-tiles_13
       rect:
         serializedVersion: 2
-        x: 80
-        y: 147
+        x: 397
+        y: 380
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121251501522b12f0800000000000000
+      internalID: -1001168760786837215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b6d4f5538658e0800000000000000
+      internalID: -1705031003709983214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 326
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3088cc8c66b32ef20800000000000000
+      internalID: 3450385577160771587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 343
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08c5a6591a44a100800000000000000
+      internalID: 118300962906818571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 345
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a86c0094e43408f0800000000000000
+      internalID: -575276696122660696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 350
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0faf054ed61ba40800000000000000
+      internalID: 5382203857063047416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 347
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea1abb75f497ae0800000000000000
+      internalID: -1551121358423740853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 343
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc7abc35afbea080800000000000000
+      internalID: -9174184674497758025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
         width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f820cc75308ad0800000000000000
+      internalID: -2702100966506170606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 300
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b740f82723ea9a570800000000000000
+      internalID: 8478499305195242619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 317
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf512e0d06feb4c0800000000000000
+      internalID: -4269704860768575562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 313
+        width: 20
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1427,20 +841,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b69ebd89710fb4840800000000000000
-      internalID: 5209521378123573611
+      spriteID: a513b73b66950b790800000000000000
+      internalID: -7516409480448626342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_64
+      name: Sanji-tiles_25
       rect:
         serializedVersion: 2
-        x: 124
-        y: 136
-        width: 35
-        height: 31
+        x: 379
+        y: 311
+        width: 25
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1449,195 +863,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 317df57c8e8e20a40800000000000000
-      internalID: 5333080995235092243
+      spriteID: 786d5c0a4a9b61a10800000000000000
+      internalID: 1879894011196855943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_65
+      name: Sanji-tiles_26
       rect:
         serializedVersion: 2
-        x: 159
-        y: 141
-        width: 43
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f58ea87093426770800000000000000
-      internalID: 8602512526010123766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_67
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 90
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98d5c4d889acfc430800000000000000
-      internalID: 3805482966705790345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_68
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 114
-        width: 37
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa4a07971f2639c70800000000000000
-      internalID: 8976627271543596207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_71
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 109
-        width: 27
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfe1309d3cf593080800000000000000
-      internalID: -9207222668418146565
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_73
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 57
-        width: 30
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c014d871358894f0800000000000000
-      internalID: -821760484468059961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_74
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 88
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f63d961f5e701870800000000000000
-      internalID: 8651553831045117681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_76
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 50
-        width: 21
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 040f428a48099f2b0800000000000000
-      internalID: -5550246166326349760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_77
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 55
-        width: 54
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 361e1c66a11865d10800000000000000
-      internalID: 2114019025490141539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_78
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 5
-        width: 384
+        x: 84
+        y: 268
+        width: 25
         height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1647,19 +885,85 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a479bf8591675fed0800000000000000
-      internalID: -2380866976756295862
+      spriteID: 47a8d7c9a5f6396c0800000000000000
+      internalID: -4137841197660140940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_0
+      name: Sanji-tiles_27
       rect:
         serializedVersion: 2
-        x: 6
-        y: 409
-        width: 20
+        x: 224
+        y: 280
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6b7d4174cd5edf0800000000000000
+      internalID: -151472814596573528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 254
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8322e19e30bceb090800000000000000
+      internalID: -8016747069016497608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb0a973e71b95e70800000000000000
+      internalID: 9104503277363006426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 281
+        width: 11
         height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1667,21 +971,43 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c3db236f954ebe1408f873150c37d6b0
-      internalID: -93846435
+      spriteID: c00bb623592ee8090800000000000000
+      internalID: -8030231955131092980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_23
+      name: Sanji-tiles_31
       rect:
         serializedVersion: 2
-        x: 6
-        y: 377
-        width: 20
+        x: 139
+        y: 279
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ce08e24301e1230800000000000000
+      internalID: 3611341767502261339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 250
+        width: 18
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1689,329 +1015,263 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5e9d3d46c6fd805459c6ff7361e467bd
-      internalID: 356979418
+      spriteID: d010ec64a0bed1a00800000000000000
+      internalID: 728997144073994509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_27
+      name: Sanji-tiles_33
       rect:
         serializedVersion: 2
-        x: 6
-        y: 345
-        width: 20
-        height: 31
+        x: 383
+        y: 280
+        width: 24
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 87422ecc26c57174683a94170630fa72
-      internalID: 2103969860
+      spriteID: d352a311129b88a70800000000000000
+      internalID: 8829510621133940029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_1
+      name: Sanji-tiles_34
       rect:
         serializedVersion: 2
-        x: 6
-        y: 313
-        width: 20
-        height: 32
+        x: 82
+        y: 234
+        width: 31
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f546c44db406b804b9dacb334d96565a
-      internalID: 1012100115
+      spriteID: c8b421eac3ff80bf0800000000000000
+      internalID: -357755534292399220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_41
+      name: Sanji-tiles_35
       rect:
         serializedVersion: 2
-        x: 6
-        y: 281
-        width: 20
-        height: 31
+        x: 133
+        y: 239
+        width: 25
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c61288379d33a834b9c8c136d46d4ded
-      internalID: -1824117377
+      spriteID: edb86cde5a27a0490800000000000000
+      internalID: -7779279349344728098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_52
+      name: Sanji-tiles_36
       rect:
         serializedVersion: 2
-        x: 6
-        y: 249
-        width: 20
-        height: 31
+        x: 177
+        y: 231
+        width: 26
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e543a0682a1723b44b5f0f586359eea4
-      internalID: 546389782
+      spriteID: 0dc46ff26411d5970800000000000000
+      internalID: 8745165044573424848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_53
+      name: Sanji-tiles_37
       rect:
         serializedVersion: 2
-        x: 6
-        y: 217
-        width: 20
-        height: 32
+        x: 219
+        y: 233
+        width: 25
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 29f39bb1a5210ea4d9922c4a41a37c1f
-      internalID: -866668131
+      spriteID: 8e931f080446f0ec0800000000000000
+      internalID: -3598547349041759768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_54
+      name: Sanji-tiles_38
       rect:
         serializedVersion: 2
-        x: 6
-        y: 185
-        width: 20
-        height: 31
+        x: 342
+        y: 239
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 486eb2cedf33c4c418e483c8a9b77875
-      internalID: -1711102786
+      spriteID: 4a549cb48c7b0de80800000000000000
+      internalID: -8155816854275144284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_56
+      name: Sanji-tiles_39
       rect:
         serializedVersion: 2
-        x: 6
-        y: 153
-        width: 20
-        height: 31
+        x: 378
+        y: 248
+        width: 29
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bc3ffee85682c574393c31385434f3d3
-      internalID: 1635773880
+      spriteID: fcd2e784a84041720800000000000000
+      internalID: 2815880658981629391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_70
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 121
-        width: 20
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e5b7c0dd592bd84bba5c992500e2997
-      internalID: -1362817772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_79
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 89
-        width: 20
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b74d1a8fd09088a47a801fb884ec3d3f
-      internalID: 2128540929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_80
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 57
-        width: 20
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87b4fb06d960f194db1bec9eda6a51c4
-      internalID: -1613299615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_81
+      name: Sanji-tiles_40
       rect:
         serializedVersion: 2
         x: 35
-        y: 408
-        width: 30
-        height: 32
+        y: 206
+        width: 33
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2d4ea1397af001449814ae1cbb0b63ef
-      internalID: -1632551013
+      spriteID: 0acd1d66c2d0a0270800000000000000
+      internalID: 8217394954445642912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_82
+      name: Sanji-tiles_41
       rect:
         serializedVersion: 2
-        x: 35
-        y: 376
-        width: 30
-        height: 31
+        x: 330
+        y: 239
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: aaa34f44cbc70be429d6e64b1fe9557f
-      internalID: -206526475
+      spriteID: 3f58333212f7fd6a0800000000000000
+      internalID: -6422274763305810445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_83
+      name: Sanji-tiles_42
       rect:
         serializedVersion: 2
-        x: 35
-        y: 344
-        width: 30
-        height: 30
+        x: 136
+        y: 198
+        width: 26
+        height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cf7f0a9e7cd6fd5498f3f4c9e25688e6
-      internalID: -459985696
+      spriteID: 1dab5ac2ff9da7a30800000000000000
+      internalID: 4213920091347466961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_84
+      name: Sanji-tiles_43
       rect:
         serializedVersion: 2
-        x: 35
-        y: 312
-        width: 30
-        height: 31
+        x: 225
+        y: 193
+        width: 33
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a8d15a88d3efd6849986f0f1857cc63e
-      internalID: 538130554
+      spriteID: 2d78b874b3daab4c0800000000000000
+      internalID: -4270910826492491822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_3
+      name: Sanji-tiles_44
       rect:
         serializedVersion: 2
-        x: 77
-        y: 189
-        width: 38
+        x: 294
+        y: 213
+        width: 11
         height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2019,396 +1279,1034 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2823f413023171f46847e26ba9a3ebea
-      internalID: 158483710
+      spriteID: 02945e10bb007afd0800000000000000
+      internalID: -2330893478950254304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_69
+      name: Sanji-tiles_45
       rect:
         serializedVersion: 2
-        x: 84
-        y: 212
+        x: 336
+        y: 200
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187aae347546b9d80800000000000000
+      internalID: -8242884367007176831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 187
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167645e7f1f069470800000000000000
+      internalID: 8400918782844102497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 154
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c678e395029c9e0800000000000000
+      internalID: -1600712624880259986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 178
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88beac6a11a434900800000000000000
+      internalID: 667458609454181256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 184
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5411573d803bd3a40800000000000000
+      internalID: 5349628782874792261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 164
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd47381c08c45af0800000000000000
+      internalID: -408481711912432207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 131
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836a1b45ec85969b0800000000000000
+      internalID: -5086436660930828744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 145
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e25388204426e70800000000000000
+      internalID: 9106916174162374275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 133
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca7d99f084b21c90800000000000000
+      internalID: -7200494388175340859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_54
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 148
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de693bf8fd394e10800000000000000
+      internalID: 2182343634013744850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_55
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2171fb9493dfa4b0800000000000000
+      internalID: -5426886390733246162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 109
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64de0438ab7b43d0800000000000000
+      internalID: -3221345146095348625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a23ba90a85d1c30800000000000000
+      internalID: 4331715863413729833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c3a90c15cd00b0800000000000000
+      internalID: -5760731624125512325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_59
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 115
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd25350dae44ea00800000000000000
+      internalID: 784838740092988886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 117
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4936605ff81b3e830800000000000000
+      internalID: 4099315317686559636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_61
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b7596d6828095e0800000000000000
+      internalID: -1904879126740370644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 88
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63dfe5d4ab303d80800000000000000
+      internalID: -8273046936329661586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 96
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b73f9598ab74680800000000000000
+      internalID: -8770836650198336609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_64
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 78
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8aafade6edf5eed0800000000000000
+      internalID: -2385221259350791538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 69
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eafef03b02d95e70800000000000000
+      internalID: 9104539067214658279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 389
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7721bc0800c4ef0800000000000000
+      internalID: -122722536683046965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 378
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9bd3ad6fa55f428a694df74cfa425
+      internalID: -956618528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 346
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ca2991ad5a19e4da84f3b68b656072
+      internalID: 944517427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 314
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ad1a5571ebe3f4abd477178a475915
+      internalID: 522035949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 282
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d89545c2b011140824d374493e86e0
+      internalID: -263878211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 250
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e803209f83a245afa2d3e22360e8f
+      internalID: -392650768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 218
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc21d2a962e74489f4ca0db28787da
+      internalID: 384674978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_73
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 186
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa851890965cc49ad0a0c8fe4a068b
+      internalID: -1709781130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 154
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b224cf9f344434f4da0829047af88f8c
+      internalID: -192016070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 122
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2d119dd1eefd4469ce1ab16cfe7528
+      internalID: 1906314072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 90
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac9e9a400d1d8a4d926ca571306b045
+      internalID: -821140095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 58
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840948b35a750f54ab991bca61a9c473
+      internalID: -302874911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a672fd80efcc34182a383c4a768404
+      internalID: 1780530770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa369c7dab970546960266709bf0277
+      internalID: -1883900463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd530f8f0818f94a9d25f33e95da06d
+      internalID: -1441724466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 174
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c31a53c0bb4c4ba43f94da633f391
+      internalID: -2038188908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 142
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04ed917663b06c40883f7044f379086
+      internalID: 798467876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 375
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca00a9acf46f5a43a478bb56a2a92c3
+      internalID: 1885712837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 343
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2f54eda3fd7534e80e81557a5890bf
+      internalID: -994350043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 311
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087ff00e9a15953488ae8aa3c5d3366b
+      internalID: 726646949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 202
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a69c3384d964f4e8b69a92ea8cf27d
+      internalID: 726480531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 170
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f6471307b13c49abb76ab9c4d9b4a
+      internalID: -1529049481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 372
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a2f6293b19b3649943e14e7ab25459
+      internalID: 1028120366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 313
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856af36e56926e74a861e81a7d4051b7
+      internalID: 746980224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 267
         width: 24
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 968137aeb2ea76d48a0d1fad3ae20802
-      internalID: 776388437
+      spriteID: d5ef8b28574bad04f87c558ec756de02
+      internalID: -1811018293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_47
+      name: Sanji-tiles_91
       rect:
         serializedVersion: 2
-        x: 170
-        y: 382
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c70f6415e223b5f459b2ffb5cb32bdb8
-      internalID: 430841247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_85
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 232
-        width: 36
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4bc6be544e6aa04ca4c74eb58653d0f
-      internalID: -310520766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_86
-      rect:
-        serializedVersion: 2
-        x: 118
-        y: 200
-        width: 44
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9e3e5f5846348f429785a628768915d
-      internalID: 928497720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_87
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 270
-        width: 40
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 746d680bab358574f8090c69c3cef0b6
-      internalID: -1001468794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_88
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 238
-        width: 37
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f3bbe9cd7864c64b80d3b4186a02c48
-      internalID: -2035091673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_89
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 206
-        width: 43
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58d3307e8809d774b9736898fd5c6124
-      internalID: 1267498377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_90
-      rect:
-        serializedVersion: 2
-        x: 223
-        y: 358
-        width: 27
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 853d7bbc3fc1a51438575b0e0975a878
-      internalID: -1732848116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_91
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 321
+        x: 180
+        y: 199
         width: 28
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57e85e6831448e844a28a3d6f688bbe7
-      internalID: 1614225833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_92
-      rect:
-        serializedVersion: 2
-        x: 223
-        y: 245
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9c5c0cda99a8bc04396782ce5abb96b5
-      internalID: 1301929158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_93
-      rect:
-        serializedVersion: 2
-        x: 223
-        y: 213
-        width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b225d8b490287442939fe9488515d51
-      internalID: -1847277845
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_94
-      rect:
-        serializedVersion: 2
-        x: 223
-        y: 181
-        width: 30
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57a0ae3d949c9fa46bc6f5e6fcb0d335
-      internalID: -2051559079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_95
-      rect:
-        serializedVersion: 2
-        x: 223
-        y: 149
-        width: 30
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dbd43a02e2feba44ead76c330c6a1f7f
-      internalID: 967061729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_96
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 293
-        width: 30
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cd9b398124ac1a42b6e6df360093f2c
-      internalID: -463909989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_97
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 260
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c42272b2b56fe947992e9e14cce7a65
-      internalID: -739575740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_98
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 228
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 772b1b65be3427e42bf4e71d9c66b241
-      internalID: -104467485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_99
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 197
-        width: 29
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8b6f601c04af704ba4b42b158b169a8
-      internalID: 1558832455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_75
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 69
-        width: 20
-        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2417,20 +2315,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 272ac9fa1b77e6f4e8a4beb61930ae1d
-      internalID: 2008426348
+      spriteID: 0cd9a6925791a36489f190a522d30b40
+      internalID: -1172661577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Roronoa Zoro-Photoroom_66
+      name: Sanji-tiles_92
       rect:
         serializedVersion: 2
-        x: 260
-        y: 291
-        width: 2
-        height: 42
+        x: 178
+        y: 122
+        width: 26
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2439,8 +2337,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c20a1eb4689f82a42bd9bec1b83768dd
-      internalID: 1581461067
+      spriteID: 35ebce847e220b040a29defc2afaaea2
+      internalID: -1930468014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji-tiles_93
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 375
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47690eee7c34f41b281b08c8f3b019
+      internalID: 1956625283
       vertices: []
       indices: 
       edges: []
@@ -2449,7 +2369,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: fff5c472fb41ea44ba312fe78ce8af80
+    spriteID: fabd6296abea8bf469a76cc21f652399
     internalID: 0
     vertices: []
     indices: 
@@ -2459,42 +2379,100 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Roronoa Zoro-Photoroom_0: -93846435
-      Roronoa Zoro-Photoroom_1: 1012100115
-      Roronoa Zoro-Photoroom_23: 356979418
-      Roronoa Zoro-Photoroom_27: 2103969860
-      Roronoa Zoro-Photoroom_3: 158483710
-      Roronoa Zoro-Photoroom_41: -1824117377
-      Roronoa Zoro-Photoroom_47: 430841247
-      Roronoa Zoro-Photoroom_52: 546389782
-      Roronoa Zoro-Photoroom_53: -866668131
-      Roronoa Zoro-Photoroom_54: -1711102786
-      Roronoa Zoro-Photoroom_56: 1635773880
-      Roronoa Zoro-Photoroom_66: 1581461067
-      Roronoa Zoro-Photoroom_69: 776388437
-      Roronoa Zoro-Photoroom_70: -1362817772
-      Roronoa Zoro-Photoroom_75: 2008426348
-      Roronoa Zoro-Photoroom_79: 2128540929
-      Roronoa Zoro-Photoroom_80: -1613299615
-      Roronoa Zoro-Photoroom_81: -1632551013
-      Roronoa Zoro-Photoroom_82: -206526475
-      Roronoa Zoro-Photoroom_83: -459985696
-      Roronoa Zoro-Photoroom_84: 538130554
-      Roronoa Zoro-Photoroom_85: -310520766
-      Roronoa Zoro-Photoroom_86: 928497720
-      Roronoa Zoro-Photoroom_87: -1001468794
-      Roronoa Zoro-Photoroom_88: -2035091673
-      Roronoa Zoro-Photoroom_89: 1267498377
-      Roronoa Zoro-Photoroom_90: -1732848116
-      Roronoa Zoro-Photoroom_91: 1614225833
-      Roronoa Zoro-Photoroom_92: 1301929158
-      Roronoa Zoro-Photoroom_93: -1847277845
-      Roronoa Zoro-Photoroom_94: -2051559079
-      Roronoa Zoro-Photoroom_95: 967061729
-      Roronoa Zoro-Photoroom_96: -463909989
-      Roronoa Zoro-Photoroom_97: -739575740
-      Roronoa Zoro-Photoroom_98: -104467485
-      Roronoa Zoro-Photoroom_99: 1558832455
+      Sanji-tiles_0: -3129647116685351939
+      Sanji-tiles_1: 4932408807648871754
+      Sanji-tiles_10: 8051879640309714364
+      Sanji-tiles_11: 3501819616327628263
+      Sanji-tiles_12: 56153769561077401
+      Sanji-tiles_13: -1001168760786837215
+      Sanji-tiles_14: -1705031003709983214
+      Sanji-tiles_15: 3450385577160771587
+      Sanji-tiles_16: 118300962906818571
+      Sanji-tiles_17: -575276696122660696
+      Sanji-tiles_18: 5382203857063047416
+      Sanji-tiles_19: -1551121358423740853
+      Sanji-tiles_2: -2857450957446988699
+      Sanji-tiles_20: -9174184674497758025
+      Sanji-tiles_21: -2702100966506170606
+      Sanji-tiles_22: 8478499305195242619
+      Sanji-tiles_23: -4269704860768575562
+      Sanji-tiles_24: -7516409480448626342
+      Sanji-tiles_25: 1879894011196855943
+      Sanji-tiles_26: -4137841197660140940
+      Sanji-tiles_27: -151472814596573528
+      Sanji-tiles_28: -8016747069016497608
+      Sanji-tiles_29: 9104503277363006426
+      Sanji-tiles_3: -5097717060334130553
+      Sanji-tiles_30: -8030231955131092980
+      Sanji-tiles_31: 3611341767502261339
+      Sanji-tiles_32: 728997144073994509
+      Sanji-tiles_33: 8829510621133940029
+      Sanji-tiles_34: -357755534292399220
+      Sanji-tiles_35: -7779279349344728098
+      Sanji-tiles_36: 8745165044573424848
+      Sanji-tiles_37: -3598547349041759768
+      Sanji-tiles_38: -8155816854275144284
+      Sanji-tiles_39: 2815880658981629391
+      Sanji-tiles_4: -4554217496826857897
+      Sanji-tiles_40: 8217394954445642912
+      Sanji-tiles_41: -6422274763305810445
+      Sanji-tiles_42: 4213920091347466961
+      Sanji-tiles_43: -4270910826492491822
+      Sanji-tiles_44: -2330893478950254304
+      Sanji-tiles_45: -8242884367007176831
+      Sanji-tiles_46: 8400918782844102497
+      Sanji-tiles_47: -1600712624880259986
+      Sanji-tiles_48: 667458609454181256
+      Sanji-tiles_49: 5349628782874792261
+      Sanji-tiles_5: 8409182501220669177
+      Sanji-tiles_50: -408481711912432207
+      Sanji-tiles_51: -5086436660930828744
+      Sanji-tiles_52: 9106916174162374275
+      Sanji-tiles_53: -7200494388175340859
+      Sanji-tiles_54: 2182343634013744850
+      Sanji-tiles_55: -5426886390733246162
+      Sanji-tiles_56: -3221345146095348625
+      Sanji-tiles_57: 4331715863413729833
+      Sanji-tiles_58: -5760731624125512325
+      Sanji-tiles_59: 784838740092988886
+      Sanji-tiles_6: 4747523784127435139
+      Sanji-tiles_60: 4099315317686559636
+      Sanji-tiles_61: -1904879126740370644
+      Sanji-tiles_62: -8273046936329661586
+      Sanji-tiles_63: -8770836650198336609
+      Sanji-tiles_64: -2385221259350791538
+      Sanji-tiles_65: 9104539067214658279
+      Sanji-tiles_66: -122722536683046965
+      Sanji-tiles_67: -956618528
+      Sanji-tiles_68: 944517427
+      Sanji-tiles_69: 522035949
+      Sanji-tiles_7: 3362042085827993642
+      Sanji-tiles_70: -263878211
+      Sanji-tiles_71: -392650768
+      Sanji-tiles_72: 384674978
+      Sanji-tiles_73: -1709781130
+      Sanji-tiles_74: -192016070
+      Sanji-tiles_75: 1906314072
+      Sanji-tiles_76: -821140095
+      Sanji-tiles_77: -302874911
+      Sanji-tiles_78: 1780530770
+      Sanji-tiles_79: -1883900463
+      Sanji-tiles_8: 6516986146243320612
+      Sanji-tiles_80: -1441724466
+      Sanji-tiles_81: -2038188908
+      Sanji-tiles_82: 798467876
+      Sanji-tiles_83: 1885712837
+      Sanji-tiles_84: -994350043
+      Sanji-tiles_85: 726646949
+      Sanji-tiles_86: 726480531
+      Sanji-tiles_87: -1529049481
+      Sanji-tiles_88: 1028120366
+      Sanji-tiles_89: 746980224
+      Sanji-tiles_9: -615053445829981259
+      Sanji-tiles_90: -1811018293
+      Sanji-tiles_91: -1172661577
+      Sanji-tiles_92: -1930468014
+      Sanji-tiles_93: 1956625283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
