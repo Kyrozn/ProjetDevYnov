@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 6570314923400659039}
   - component: {fileID: 326059700347785965}
   - component: {fileID: -2717444600741511715}
+  - component: {fileID: -5820798634831653999}
+  - component: {fileID: 3102955104073902436}
   m_Layer: 0
   m_Name: FinalBoss
   m_TagString: Untagged
@@ -194,3 +196,39 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.15, y: 0.33}
   m_Direction: 0
+--- !u!114 &-5820798634831653999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5932135543104303592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58e5e23b1fd3b4594161473a391e1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  syncDirection: 0
+  syncMode: 0
+  syncInterval: 0
+  maxHealth: 500
+  currentHealth: 0
+  meleeRange: 2
+  rangedRange: 6
+  attackCooldown: 2
+  magicProjectilePrefab: {fileID: 0}
+  firePoint: {fileID: 0}
+  isAttacking: 0
+--- !u!114 &3102955104073902436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5932135543104303592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f976547d623d80143adb272939796263, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 2

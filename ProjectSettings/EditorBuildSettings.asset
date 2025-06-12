@@ -11,5 +11,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoadingScreen.unity
     guid: 49d5dedc350d98c4488eb0a8033c02ad
+  - enabled: 1
+    path: Assets/Scenes/Lobby/Lobby.unity
+    guid: e51a725efb3a0cb4a99ff62e67c158a6
+  - enabled: 1
+    path: Assets/Scenes/MatchmakingLoading.unity
+    guid: 830175511d43585439ee3fe4736c9d47
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 836fab0c51ab010499b582ad4e9a88e6
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

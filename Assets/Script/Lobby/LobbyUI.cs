@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 using Edgegap;
+using Mirror;
 
 public class LobbyUI : MonoBehaviour
 {
@@ -11,10 +12,14 @@ public class LobbyUI : MonoBehaviour
     public Transform playerListRoot;
     public GameObject playerItemPrefab;
     public Button startGameButton;
+    public Button EnterMatchmaking;
     public GameObject joinLobbyButton;
+    public GameObject createLobbyButton;
     public GameObject leaveLobbyButton;
     public GameObject CodeDisplayer;
     public GameObject LobbyChoice;
+    public GameObject ErrorDisplayer;
+    public static string characterChoice;
 
     void Awake()
     {
@@ -32,6 +37,11 @@ public class LobbyUI : MonoBehaviour
             startGameButton.onClick.AddListener(OnStartGameClicked);
 
         LobbyChoice.SetActive(false);
+        WebSocketClient webSocketClient = GameObject.Find("WebSocketManager").GetComponent<WebSocketClient>();
+        joinLobbyButton.GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendJoinLobby());
+        createLobbyButton.GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendCreateLobby());
+        startGameButton.onClick.AddListener(() => webSocketClient.SendStartGame());
+        EnterMatchmaking.onClick.AddListener(() => webSocketClient.SendEnterMatchmaking());
     }
 
     void OnStartGameClicked()
@@ -87,5 +97,24 @@ public class LobbyUI : MonoBehaviour
     public void DisplayLobbyChoice()
     {
         LobbyChoice.SetActive(!LobbyChoice.activeSelf);
+    }
+    public void ChangeCharacter(Sprite newCharacterSprite)
+    {
+        if (playerItemPrefab != null)
+        {
+            Image img = playerItemPrefab.GetComponent<Image>();
+            if (img != null && newCharacterSprite != null)
+            {
+                img.sprite = newCharacterSprite;
+            }
+        }
+    }
+    public void ChangeCharacterStock(int index)
+    {
+        if (playerItemPrefab != null)
+        {
+            PlayerPrefs.SetInt("indexChar", index);
+            PlayerPrefs.Save();
+        }
     }
 }

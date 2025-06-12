@@ -8,14 +8,17 @@ using Mirror;
 using UnityEngine.UI;
 using Mirror.Examples.BilliardsPredicted;
 using Mirror.Examples.Basic;
+using System.Collections;
+using System.Linq;
+using UnityEngine.Video;
 
 
 public class WebSocketClient : MonoBehaviour
 {
     private readonly ClientWebSocket ws = new();
-    private readonly Uri serverUri = new("ws://172.20.10.3:8090");    
+    private readonly Uri serverUri = new("ws://localhost:8090");
     public LobbyUI uiInteract;
-    public loader loader;
+    public Loader loader;
     private async void Start()
     {
 
@@ -64,55 +67,65 @@ public class WebSocketClient : MonoBehaviour
 
     private void HandleServerMessage(string message)
     {
-        if (message.StartsWith("LobbyCreated"))
-        {
-            string[] parts = message.Split(' ');
-            if (parts.Length >= 2)
+            if (message.StartsWith("LobbyCreated"))
             {
-                string LobbyId = parts[1];
-                uiInteract.CodeDisplayer.GetComponent<Text>().text = "Code: " + LobbyId;
-                uiInteract.DisplayLobbyChoice();
+                string[] parts = message.Split(' ');
+                if (parts.Length >= 3)
+                {
+                    string LobbyId = parts[1];
+                    uiInteract.CodeDisplayer.GetComponent<Text>().text = "Code: " + LobbyId;
+                    uiInteract.startGameButton.gameObject.SetActive(true);
+                    uiInteract.EnterMatchmaking.gameObject.SetActive(false);
+                    uiInteract.DisplayLobbyChoice();
+                    PlayerPrefs.SetInt("port", int.Parse(parts[2]));
+                    PlayerPrefs.Save();
+                }
             }
-        }
+            else if (message.StartsWith("GetAccount"))
+            {
+                string[] parts = message.Split(' ');
+                if (parts.Length >= 4)
+                {
+                    string token = parts[1];
+                    string username = parts[2];
+                    string difficulties = parts[3];
+                    PlayerPrefs.SetString("id", token);
+                    PlayerPrefs.SetString("username", username);
+                    PlayerPrefs.SetString("difficulties", difficulties);
+                    PlayerPrefs.Save();
+                    UnityEngine.SceneManagement.SceneManager.LoadScene("Lobby");
+                }
+            }
+            else if (message.StartsWith("MatchmakingStart"))
+            {
+                UnityEngine.SceneManagement.SceneManager.LoadScene("MatchmakingLoading");
+            }
+            else if (message.StartsWith("Error"))
+            {
+                uiInteract.ErrorDisplayer.SetActive(true);
+                string[] words = message.Split(' ');
+                string result = string.Join(" ", words.Skip(1));
+                uiInteract.ErrorDisplayer.GetComponent<Text>().text = result; StartCoroutine(DelayedAction());
 
-        // Exemple : "MatchFound 127.0.0.1:7777"
-        if (message.StartsWith("MatchFound"))
-        {
-            string[] parts = message.Split(' ');
-            if (parts.Length >= 2)
-            {
-                string address = parts[1];
-                Debug.Log("🎮 Connexion à la partie sur : " + address);
-
-                CustomNetworkManager.singleton.networkAddress = address;
-                CustomNetworkManager.singleton.StartClient();
+                IEnumerator DelayedAction()
+                {
+                    yield return new WaitForSeconds(3f);
+                    uiInteract.ErrorDisplayer.SetActive(false);
+                }
             }
-        }
-        if (message.StartsWith("GetAccount"))
-        {
-            string[] parts = message.Split(' ');
-            if (parts.Length >= 4)
-            {
-                string token = parts[1];
-                string username = parts[2];
-                string difficulties = parts[3];
-                PlayerPrefs.SetString("id", token);
-                PlayerPrefs.SetString("username", username);
-                PlayerPrefs.SetString("difficulties", difficulties);
-                PlayerPrefs.Save();
-            }
-        }
     }
 
     public async void SendCreateLobby() => await SendMessage("CreateLobby " + PlayerPrefs.GetString("id"));
 
     public async void SendJoinLobby() => await SendMessage("JoinLobby " + uiInteract.joinLobbyButton
                                                             .transform.Find("Input").GetComponentInChildren<InputField>().text);
-                                                            
+                                                    
     public async void SendConnection() => await SendMessage("Connection " + loader.FormConnect.transform.Find("InputUsername").GetComponentInChildren<InputField>().text + " " +
                                             loader.FormConnect.transform.Find("InputPassword").GetComponentInChildren<InputField>().text);
-    public async void SendEnterMatchmaking() => await SendMessage("EnterMatchmaking");
-
+    public async void SendEnterMatchmaking() => await SendMessage("EnterMatchmaking " + LobbyUI.characterChoice);
+    public async void SendStartGame() => await SendMessage("StartGame");
+    public async void SendChangeCharacter(string characterChoiced) => await SendMessage("ChangeCharacter " + characterChoiced);
+    public async void SendLeftMatchmaking() => await SendMessage("LeftMatchmaking");
     private new async Task SendMessage(string msg)
     {
         if (ws.State != WebSocketState.Open)
@@ -134,4 +147,5 @@ public class WebSocketClient : MonoBehaviour
             Debug.Log("🔌 WebSocket fermé proprement");
         }
     }
+
 }

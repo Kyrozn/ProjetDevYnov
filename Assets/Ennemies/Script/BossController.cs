@@ -1,5 +1,7 @@
 using UnityEngine;
 using Mirror;
+using System.Collections;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Animator))]
 public class BossController : NetworkBehaviour
@@ -21,37 +23,80 @@ public class BossController : NetworkBehaviour
 
     private Transform target;
     private float lastAttackTime;
-    [SyncVar] public bool isAttacking = false;
+
+    [SyncVar]
+    public bool isAttacking = false;
+    [Header("Movement Settings")]
+    public float moveSpeed = 2f;
 
 
-    void Start()
+    void Awake()
     {
         animator = GetComponent<Animator>();
+    }
 
-        if (isServer)
+    public override void OnStartServer()
+    {
+        base.OnStartServer();
+        currentHealth = maxHealth;
+        StartCoroutine(TargetingAndCombatRoutine());
+    }
+
+    private IEnumerator TargetingAndCombatRoutine()
+    {
+        while (currentHealth > 0)
         {
-            currentHealth = maxHealth;
-            target = GameObject.FindWithTag("Player")?.transform;
+            FindClosestPlayer();
+
+            if (target != null)
+            {
+                float distance = Vector2.Distance(transform.position, target.position);
+
+                // Déplacement vers le joueur si hors de portée
+                if (distance > meleeRange && distance <= 10f) // 10 = distance d'aggro
+                {
+                    Vector2 dir = (target.position - transform.position).normalized;
+                    transform.position += (Vector3)(dir * moveSpeed * Time.deltaTime);
+                    animator.SetBool("isMoving", true);
+                }
+                else
+                {
+                    animator.SetBool("isMoving", false);
+                }
+
+                // Attaques
+                if (Time.time - lastAttackTime >= attackCooldown)
+                {
+                    if (distance <= meleeRange)
+                        MeleeAttack();
+                    else if (distance <= rangedRange)
+                        RangedAttack();
+                }
+            }
+
+            yield return null;
         }
     }
 
-    void Update()
+
+    [Server]
+    void FindClosestPlayer()
     {
-        if (!isServer || target == null || currentHealth <= 0) return;
+        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
+        float minDistance = Mathf.Infinity;
+        Transform closest = null;
 
-        float distance = Vector2.Distance(transform.position, target.position);
-
-        if (Time.time - lastAttackTime >= attackCooldown)
+        foreach (GameObject p in players)
         {
-            if (distance <= meleeRange)
+            float dist = Vector2.Distance(transform.position, p.transform.position);
+            if (dist < minDistance)
             {
-                MeleeAttack();
-            }
-            else if (distance <= rangedRange)
-            {
-                RangedAttack();
+                minDistance = dist;
+                closest = p.transform;
             }
         }
+
+        target = closest;
     }
 
     [Server]
@@ -60,24 +105,18 @@ public class BossController : NetworkBehaviour
         if (currentHealth <= 0) return;
 
         currentHealth -= amount;
-        Debug.Log(currentHealth);
+        Debug.Log($"Boss took damage. Current HP: {currentHealth}");
 
         if (currentHealth <= 0)
-        {
             Die();
-        }
     }
 
     [Server]
     void Die()
     {
         RpcPlayDeathAnimation();
-        Destroy(gameObject, 2f);
-    }
-
-    void OnHealthChanged(int oldHealth, int newHealth)
-    {
-        Debug.Log($"Boss HP: {newHealth}/{maxHealth}");
+        RpcChangeToWinScreen();
+        StartCoroutine(DelayedDestroy(2f));
     }
 
     [ClientRpc]
@@ -86,53 +125,63 @@ public class BossController : NetworkBehaviour
         animator.SetTrigger("Die");
     }
 
+    [ClientRpc]
+    void RpcChangeToWinScreen()
+    {
+        SceneManager.LoadScene("Win");
+    }
+
+    [Server]
+    IEnumerator DelayedDestroy(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        NetworkServer.Destroy(gameObject);
+    }
+
+    void OnHealthChanged(int oldHealth, int newHealth)
+    {
+        Debug.Log($"[Sync] Boss HP: {newHealth}/{maxHealth}");
+    }
+
     [Server]
     void MeleeAttack()
     {
         lastAttackTime = Time.time;
+        isAttacking = true;
+
         animator.SetTrigger("Claw");
 
-        if (target != null)
+        if (target != null && target.TryGetComponent<PlayerStats>(out var stats))
         {
-            target.GetComponent<PlayerStats>()?.TakeDamage(20);
+            stats.TakeDamage(20);
         }
+
         Invoke(nameof(StopAttacking), 0.5f);
     }
 
     [Server]
     void RangedAttack()
-{
-    lastAttackTime = Time.time;
-    isAttacking = true;
-
-    animator.SetTrigger("Cast");
-
-    if (magicProjectilePrefab && firePoint)
     {
-        GameObject proj = Instantiate(magicProjectilePrefab, firePoint.position, Quaternion.identity);
-        Vector2 direction = (target.position - firePoint.position).normalized;
-        proj.GetComponent<Rigidbody2D>().linearVelocity = direction * 5f;
+        lastAttackTime = Time.time;
+        isAttacking = true;
 
-        NetworkServer.Spawn(proj);
+        animator.SetTrigger("Cast");
+
+        if (magicProjectilePrefab && firePoint && target != null)
+        {
+            GameObject proj = Instantiate(magicProjectilePrefab, firePoint.position, Quaternion.identity);
+            Vector2 direction = (target.position - firePoint.position).normalized;
+            proj.GetComponent<Rigidbody2D>().linearVelocity = direction * 5f;
+
+            NetworkServer.Spawn(proj);
+        }
+
+        Invoke(nameof(StopAttacking), 0.5f);
     }
 
-    Invoke(nameof(StopAttacking), 0.5f);
-}
-
-[Server]
-void StopAttacking()
-{
-    isAttacking = false;
-}
-    // public override void OnStartServer()
-    // {
-    //     base.OnStartServer();
-    //     currentHealth = maxHealth;
-    // }
-
-    // public override void OnStopServer()
-    // {
-    //     base.OnStopServer();
-    //     Destroy(gameObject);
-    // }
+    [Server]
+    void StopAttacking()
+    {
+        isAttacking = false;
+    }
 }

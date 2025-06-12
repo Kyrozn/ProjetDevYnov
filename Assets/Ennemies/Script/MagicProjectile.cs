@@ -38,13 +38,4 @@ public class MagicProjectile : NetworkBehaviour
         }
     }
 
-    // void SpawnImpact()
-    // {
-    //     if (impactEffect != null)
-    //     {
-    //         GameObject impact = Instantiate(impactEffect, transform.position, Quaternion.identity);
-    //         NetworkServer.Spawn(impact);
-    //         Destroy(impact, 2f);
-    //     }
-    // }
 }
