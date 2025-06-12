@@ -8,7 +8,7 @@ public class BossController : NetworkBehaviour
     public int maxHealth = 500;
 
     [SyncVar(hook = nameof(OnHealthChanged))]
-    public int currentHealth;
+    public int currentHealth = 500;
 
     private Animator animator;
 

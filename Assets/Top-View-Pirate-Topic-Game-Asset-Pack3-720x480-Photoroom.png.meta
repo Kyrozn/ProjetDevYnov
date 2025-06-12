@@ -1,0 +1,1359 @@
+fileFormatVersion: 2
+guid: a891f8b7baed8a640923d001dcdca904
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3689365181624910641
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_0
+  - first:
+      213: 8301695993202915862
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_1
+  - first:
+      213: -4728111172136106445
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_2
+  - first:
+      213: -4448143753377839556
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_3
+  - first:
+      213: -9031672473362745289
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_4
+  - first:
+      213: 7244065856487490394
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_5
+  - first:
+      213: -2873164176434342324
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_6
+  - first:
+      213: 3239522353051929502
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_7
+  - first:
+      213: 3826482383810605393
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_8
+  - first:
+      213: -5182901208905757506
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_9
+  - first:
+      213: 787638451293008565
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_10
+  - first:
+      213: -2815024541593261739
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_11
+  - first:
+      213: 5425422618587617157
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_12
+  - first:
+      213: -3301089560291352723
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_13
+  - first:
+      213: 408363140339201216
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_14
+  - first:
+      213: -4636396184445861831
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_15
+  - first:
+      213: -8558738739022769424
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_16
+  - first:
+      213: 1428881317073806866
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_17
+  - first:
+      213: -3415133025091377219
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_18
+  - first:
+      213: -4151888130364724698
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_19
+  - first:
+      213: 1546037965536097727
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_20
+  - first:
+      213: 6730092609674866348
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_21
+  - first:
+      213: -7496874620630748597
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_22
+  - first:
+      213: 3870355130484131967
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_23
+  - first:
+      213: -3703999931409667187
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_24
+  - first:
+      213: -2757372235642768887
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_25
+  - first:
+      213: 401206386930999001
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_26
+  - first:
+      213: 1315546123143474289
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_27
+  - first:
+      213: -231926323931981091
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_28
+  - first:
+      213: -3169464851105239994
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_29
+  - first:
+      213: -2526638151547852121
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_30
+  - first:
+      213: 7970782624136023
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_31
+  - first:
+      213: 4294789204938062607
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_32
+  - first:
+      213: 8531978669734747685
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_33
+  - first:
+      213: 1035085665281520942
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_34
+  - first:
+      213: 5041498527020257435
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_35
+  - first:
+      213: 4743049527512815553
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_36
+  - first:
+      213: -8119801810692360475
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_37
+  - first:
+      213: -8932594072936185716
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_38
+  - first:
+      213: 5693875790960715200
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_39
+  - first:
+      213: -3203237285690404641
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_40
+  - first:
+      213: 5947013556622462236
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_41
+  - first:
+      213: -5698363478600114784
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_42
+  - first:
+      213: 7669241905080333896
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_43
+  - first:
+      213: 2894683363958635399
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_44
+  - first:
+      213: -951162945253069414
+    second: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 380
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1338279e512433330800000000000000
+      internalID: 3689365181624910641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 380
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab424858c853370800000000000000
+      internalID: 8301695993202915862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 380
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336854680ff526eb0800000000000000
+      internalID: -4728111172136106445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 380
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c368a06d2d40542c0800000000000000
+      internalID: -4448143753377839556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 379
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7383a81ccbd09a280800000000000000
+      internalID: -9031672473362745289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5309790487188460800000000000000
+      internalID: 7244065856487490394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 288
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46d04a77687028d0800000000000000
+      internalID: -2873164176434342324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 296
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b09979a6815fc20800000000000000
+      internalID: 3239522353051929502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 286
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151325a54756a1530800000000000000
+      internalID: 3826482383810605393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 303
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcca398fc2a218b0800000000000000
+      internalID: -5182901208905757506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 289
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b232c49ff04eea00800000000000000
+      internalID: 787638451293008565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 290
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a35418160fe8d0800000000000000
+      internalID: -2815024541593261739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 194
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587d8416029fa4b40800000000000000
+      internalID: 5425422618587617157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 193
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f551be88c2032d0800000000000000
+      internalID: -3301089560291352723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 188
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4f74fcc1ccaa500800000000000000
+      internalID: 408363140339201216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 191
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930c0242c3638afb0800000000000000
+      internalID: -4636396184445861831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 190
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25c278670493980800000000000000
+      internalID: -8558738739022769424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 192
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2166062ccf764d310800000000000000
+      internalID: 1428881317073806866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db729ba9b920b90d0800000000000000
+      internalID: -3415133025091377219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 138
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a237a3eb78166c0800000000000000
+      internalID: -4151888130364724698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 136
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5fb01a651a47510800000000000000
+      internalID: 1546037965536097727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 136
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caee6292297166d50800000000000000
+      internalID: 6730092609674866348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 136
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42b9afa040c5f790800000000000000
+      internalID: -7496874620630748597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 143
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f780e133c7346b530800000000000000
+      internalID: 3870355130484131967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 142
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6140efafb89cc0800000000000000
+      internalID: -3703999931409667187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 142
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902fcf49f88dbb9d0800000000000000
+      internalID: -2757372235642768887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 142
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ded3ae451f519500800000000000000
+      internalID: 401206386930999001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 142
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ceb9b9a32c14210800000000000000
+      internalID: 1315546123143474289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 141
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddad8f7bc3808ccf0800000000000000
+      internalID: -231926323931981091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 138
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c29cda28cc304d0800000000000000
+      internalID: -3169464851105239994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 55
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa6a05ecf39fecd0800000000000000
+      internalID: -2526638151547852121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 57
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bb4e272615c1000800000000000000
+      internalID: 7970782624136023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 75
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf381f6082a9b30800000000000000
+      internalID: 4294789204938062607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 77
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52edfb0556da76670800000000000000
+      internalID: 8531978669734747685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 57
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25343fadec5d5e00800000000000000
+      internalID: 1035085665281520942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 86
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9092b6033007f540800000000000000
+      internalID: 5041498527020257435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 80
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c75c7f5a62b2d140800000000000000
+      internalID: 4743049527512815553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 41
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6bb13164ba05f80800000000000000
+      internalID: -8119801810692360475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 49
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8001ef740d090480800000000000000
+      internalID: -8932594072936185716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 77
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5e86b4dd5b40f40800000000000000
+      internalID: 5693875790960715200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 28
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0132ff8a0db83d0800000000000000
+      internalID: -3203237285690404641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0ae43259088250800000000000000
+      internalID: 5947013556622462236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad1bf08b985be0b0800000000000000
+      internalID: -5698363478600114784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 52
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8467ad811ee9e6a60800000000000000
+      internalID: 7669241905080333896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 62
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bbcfdce2bfb2820800000000000000
+      internalID: 2894683363958635399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 62
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d2dac375accc2f0800000000000000
+      internalID: -951162945253069414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 296
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d33e53799271ab49a2ef6b5023815d1
+      internalID: -589441140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 279
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d60548ea40a347a73a94409d8b93f
+      internalID: -44585217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7bb04e7ae0674fa44bb2daff099fe368
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_0: 3689365181624910641
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_1: 8301695993202915862
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_10: 787638451293008565
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_11: -2815024541593261739
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_12: 5425422618587617157
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_13: -3301089560291352723
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_14: 408363140339201216
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_15: -4636396184445861831
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_16: -8558738739022769424
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_17: 1428881317073806866
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_18: -3415133025091377219
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_19: -4151888130364724698
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_2: -4728111172136106445
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_20: 1546037965536097727
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_21: 6730092609674866348
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_22: -7496874620630748597
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_23: 3870355130484131967
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_24: -3703999931409667187
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_25: -2757372235642768887
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_26: 401206386930999001
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_27: 1315546123143474289
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_28: -231926323931981091
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_29: -3169464851105239994
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_3: -4448143753377839556
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_30: -2526638151547852121
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_31: 7970782624136023
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_32: 4294789204938062607
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_33: 8531978669734747685
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_34: 1035085665281520942
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_35: 5041498527020257435
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_36: 4743049527512815553
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_37: -8119801810692360475
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_38: -8932594072936185716
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_39: 5693875790960715200
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_4: -9031672473362745289
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_40: -3203237285690404641
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_41: 5947013556622462236
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_42: -5698363478600114784
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_43: 7669241905080333896
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_44: 2894683363958635399
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_45: -951162945253069414
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_46: -589441140
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_47: -44585217
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_5: 7244065856487490394
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_6: -2873164176434342324
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_7: 3239522353051929502
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_8: 3826482383810605393
+      Top-View-Pirate-Topic-Game-Asset-Pack3-720x480-Photoroom_9: -5182901208905757506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
