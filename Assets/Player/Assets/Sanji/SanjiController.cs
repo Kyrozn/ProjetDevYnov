@@ -1,9 +1,16 @@
 using Mirror;
 using UnityEngine;
+using System.Collections;
 
 public class SanjiController : PlayerController
 {
+    [Header("Kick Settings")]
+    public float kickDistance = 1f;
+    public Vector2 kickBoxSize = new Vector2(0.5f, 0.5f);
+    public int kickDamage = 10;
+
     private Transform caster;
+
     private void Awake()
     {
         if (caster == null)
@@ -12,26 +19,26 @@ public class SanjiController : PlayerController
 
     protected override void Update()
     {
-        base.Update(); // Appelle l'Update du parent
+        base.Update();
     }
-    public void CastGatling(float attackDistance, Vector2 boxSize, int damage)
+
+    public void CastKick(float distance, Vector2 boxSize, int damage)
     {
         if (!isLocalPlayer) return;
-        CmdCastGatling(attackDistance, boxSize, damage);
+        CmdCastKick(distance, boxSize, damage);
     }
 
     [Command]
-    void CmdCastGatling(float attackDistance, Vector2 boxSize, int damage)
+    void CmdCastKick(float distance, Vector2 boxSize, int damage)
     {
-        RpcPlayGatling();
-        Vector3 attackCenter = caster.position + caster.right * attackDistance;
+        RpcPlayKickAnimation();
 
+        Vector3 attackCenter = caster.position + caster.right * distance;
         Collider2D[] hits = Physics2D.OverlapBoxAll(attackCenter, boxSize, 0f, enemyLayer);
 
         foreach (Collider2D hit in hits)
         {
-            Debug.Log("Cible touchée : " + hit.name);
-            // applique dégâts si boss
+            Debug.Log("Sanji a touché : " + hit.name);
             if (hit.TryGetComponent<BossController>(out var boss))
             {
                 boss.TakeDamage(damage);
@@ -40,24 +47,28 @@ public class SanjiController : PlayerController
     }
 
     [ClientRpc]
-    void RpcPlayGatling()
+    void RpcPlayKickAnimation()
     {
-        StartCoroutine(ResetGatlingBool());
+        StartCoroutine(PlayKickAnimation());
     }
 
-    protected virtual System.Collections.IEnumerator ResetGatlingBool()
+    private IEnumerator PlayKickAnimation()
     {
         animator.SetBool("SimpleAttack", true);
         animator.SetFloat("Horizontal", h);
         animator.SetFloat("Vertical", v);
+
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
+
         animator.SetBool("SimpleAttack", false);
     }
+
+    // // Pour débogage
     // private void OnDrawGizmosSelected()
     // {
     //     if (caster == null) caster = transform;
-    //     Vector3 attackCenter = caster.position + caster.right * attackDistance;
-    //     Gizmos.color = Color.red;
-    //     Gizmos.DrawWireCube(attackCenter, boxSize);
+    //     Vector3 attackCenter = caster.position + caster.right * kickDistance;
+    //     Gizmos.color = Color.yellow;
+    //     Gizmos.DrawWireCube(attackCenter, kickBoxSize);
     // }
 }

@@ -14,44 +14,53 @@ public class ZoroController : PlayerController
 
     protected override void Update()
     {
+        if (!isLocalPlayer) return;
+
         if (isDashing)
         {
             DashMovement();
             return;
         }
+
         base.Update();
     }
 
     public void TryDash()
     {
-        if (!isLocalPlayer) return;
         if (!isDashing)
-            CmdDash(h, v);
+        {
+            Vector3 dir = new Vector3(h, v, 0f);
+            if (dir == Vector3.zero)
+                dir = Vector3.right;
+
+            StartDash(dir.normalized, dashDistance, dashDuration);
+            CmdPlayDashAnimation(); // uniquement animation sur tous
+        }
     }
 
     [Command]
-    void CmdDash(float inputH, float inputV)
+    void CmdPlayDashAnimation()
     {
-        RpcPlayDash(inputH, inputV); 
+        RpcPlayDashAnimation();
     }
 
     [ClientRpc]
-    void RpcPlayDash(float inputH, float inputV)
+    void RpcPlayDashAnimation()
     {
-        StartDash(inputH, inputV, dashDistance, dashDuration);
+        if (animator != null)
+        {
+            animator.SetTrigger("Dash");
+        }
     }
 
-    public void StartDash(float inputH, float inputV, float distance, float duration)
+    void StartDash(Vector3 direction, float distance, float duration)
     {
-        dashDirection = new Vector3(inputH, inputV, 0f).normalized;
-        if (dashDirection == Vector3.zero)
-            dashDirection = Vector3.right;
-
+        dashDirection = direction;
         dashSpeed = distance / duration;
         dashTimer = duration;
         isDashing = true;
 
-        if (animator != null)
+        if (animator != null && isLocalPlayer)
         {
             animator.SetTrigger("Dash");
         }

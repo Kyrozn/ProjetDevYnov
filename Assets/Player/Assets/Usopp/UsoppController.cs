@@ -1,9 +1,16 @@
 using Mirror;
 using UnityEngine;
+using System.Collections;
 
 public class UsoppController : PlayerController
 {
+    [Header("Projectile Settings")]
+    public GameObject bulletPrefab;
+    public float bulletSpeed = 10f;
+    public int bulletDamage = 8;
+
     private Transform caster;
+
     private void Awake()
     {
         if (caster == null)
@@ -12,52 +19,43 @@ public class UsoppController : PlayerController
 
     protected override void Update()
     {
-        base.Update(); // Appelle l'Update du parent
+        base.Update();
     }
-    public void CastGatling(float attackDistance, Vector2 boxSize, int damage)
+
+    public void CastShoot()
     {
         if (!isLocalPlayer) return;
-        CmdCastGatling(attackDistance, boxSize, damage);
+        CmdShoot(caster.right); // direction par défaut : vers la droite du joueur
     }
 
     [Command]
-    void CmdCastGatling(float attackDistance, Vector2 boxSize, int damage)
+    void CmdShoot(Vector2 direction)
     {
-        RpcPlayGatling();
-        Vector3 attackCenter = caster.position + caster.right * attackDistance;
+        RpcPlayShootAnimation();
 
-        Collider2D[] hits = Physics2D.OverlapBoxAll(attackCenter, boxSize, 0f, enemyLayer);
-
-        foreach (Collider2D hit in hits)
+        GameObject bullet = Instantiate(bulletPrefab, caster.position, Quaternion.identity);
+        if (bullet.TryGetComponent(out UsoppBullet bulletScript))
         {
-            Debug.Log("Cible touchée : " + hit.name);
-            // applique dégâts si boss
-            if (hit.TryGetComponent<BossController>(out var boss))
-            {
-                boss.TakeDamage(damage);
-            }
+            bulletScript.Initialize(direction, bulletSpeed, bulletDamage, gameObject);
         }
+
+        NetworkServer.Spawn(bullet);
     }
 
     [ClientRpc]
-    void RpcPlayGatling()
+    void RpcPlayShootAnimation()
     {
-        StartCoroutine(ResetGatlingBool());
+        StartCoroutine(PlayShootAnimation());
     }
 
-    protected virtual System.Collections.IEnumerator ResetGatlingBool()
+    private IEnumerator PlayShootAnimation()
     {
         animator.SetBool("SimpleAttack", true);
         animator.SetFloat("Horizontal", h);
         animator.SetFloat("Vertical", v);
+
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
+
         animator.SetBool("SimpleAttack", false);
     }
-    // private void OnDrawGizmosSelected()
-    // {
-    //     if (caster == null) caster = transform;
-    //     Vector3 attackCenter = caster.position + caster.right * attackDistance;
-    //     Gizmos.color = Color.red;
-    //     Gizmos.DrawWireCube(attackCenter, boxSize);
-    // }
 }
