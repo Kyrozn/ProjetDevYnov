@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 6694280141662908254}
   - component: {fileID: 6982420890912111813}
   - component: {fileID: 2448689058752022727}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Usopp
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneId: 0
-  _assetId: 600280188
+  _assetId: 3577763650
   serverOnly: 0
   visibility: 0
   hasSpawned: 0
@@ -175,8 +175,11 @@ MonoBehaviour:
   syncInterval: 0
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   speed: 5
+  bulletPrefab: {fileID: 0}
+  bulletSpeed: 10
+  bulletDamage: 8
 --- !u!114 &2448689058752022727
 MonoBehaviour:
   m_ObjectHideFlags: 0

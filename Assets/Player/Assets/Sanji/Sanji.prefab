@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 5879734491714101593}
   - component: {fileID: 2760369737192703497}
   - component: {fileID: 4289224440909573415}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Sanji
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -175,7 +175,7 @@ MonoBehaviour:
   syncInterval: 0
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   speed: 5
   kickDistance: 1
   kickBoxSize: {x: 0.5, y: 0.5}

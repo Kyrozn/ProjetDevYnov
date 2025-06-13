@@ -17,9 +17,9 @@ GameObject:
   - component: {fileID: -2717444600741511715}
   - component: {fileID: -7592217967656082177}
   - component: {fileID: -5811041163828593237}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Luffy
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -235,7 +235,7 @@ MonoBehaviour:
   syncInterval: 0
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   speed: 5
 --- !u!114 &-5811041163828593237
 MonoBehaviour:
