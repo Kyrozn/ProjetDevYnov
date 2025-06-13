@@ -1,4 +1,4 @@
-/*using UnityEditor;
+using UnityEditor;
 using UnityEngine;
 
 public class PlayerPrefsTools
@@ -10,4 +10,4 @@ public class PlayerPrefsTools
         PlayerPrefs.Save();
         Debug.Log("🧹 PlayerPrefs supprimés !");
     }
-}*/
+}

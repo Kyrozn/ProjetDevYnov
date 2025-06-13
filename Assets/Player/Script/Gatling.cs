@@ -1,4 +1,3 @@
-using UnityEditor;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Gatling", menuName = "Spells/Gatling")]

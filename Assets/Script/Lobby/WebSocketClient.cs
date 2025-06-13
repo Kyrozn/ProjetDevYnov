@@ -4,13 +4,9 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using UnityEngine;
-using Mirror;
 using UnityEngine.UI;
-using Mirror.Examples.BilliardsPredicted;
-using Mirror.Examples.Basic;
 using System.Collections;
 using System.Linq;
-using UnityEngine.Video;
 
 
 public class WebSocketClient : MonoBehaviour
@@ -19,7 +15,8 @@ public class WebSocketClient : MonoBehaviour
     private readonly Uri serverUri = new("ws://localhost:8090");
     public LobbyUI uiInteract;
     public Loader loader;
-    private async void Start()
+
+    private async void Awake()
     {
 
         if (!PlayerPrefs.HasKey("id"))
@@ -86,6 +83,7 @@ public class WebSocketClient : MonoBehaviour
                 string[] parts = message.Split(' ');
                 if (parts.Length >= 4)
                 {
+                    Debug.LogWarning("test");
                     string token = parts[1];
                     string username = parts[2];
                     string difficulties = parts[3];
@@ -100,7 +98,7 @@ public class WebSocketClient : MonoBehaviour
             {
                 UnityEngine.SceneManagement.SceneManager.LoadScene("MatchmakingLoading");
             }
-            else if (message.StartsWith("Error"))
+            else if (message.StartsWith("Erreur"))
             {
                 uiInteract.ErrorDisplayer.SetActive(true);
                 string[] words = message.Split(' ');
@@ -126,6 +124,8 @@ public class WebSocketClient : MonoBehaviour
     public async void SendStartGame() => await SendMessage("StartGame");
     public async void SendChangeCharacter(string characterChoiced) => await SendMessage("ChangeCharacter " + characterChoiced);
     public async void SendLeftMatchmaking() => await SendMessage("LeftMatchmaking");
+    public async void SendDestroyContainer() => await SendMessage("DestroyContainer");
+
     private new async Task SendMessage(string msg)
     {
         if (ws.State != WebSocketState.Open)

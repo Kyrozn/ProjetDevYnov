@@ -1,8 +1,8 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
-using Edgegap;
 using Mirror;
+using Mirror.SimpleWeb;
 
 public class LobbyUI : MonoBehaviour
 {
@@ -40,10 +40,11 @@ public class LobbyUI : MonoBehaviour
         WebSocketClient webSocketClient = GameObject.Find("WebSocketManager").GetComponent<WebSocketClient>();
         joinLobbyButton.GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendJoinLobby());
         createLobbyButton.GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendCreateLobby());
-        startGameButton.onClick.AddListener(() => webSocketClient.SendStartGame());
         EnterMatchmaking.onClick.AddListener(() => webSocketClient.SendEnterMatchmaking());
+        
     }
-
+    
+    
     void OnStartGameClicked()
     {
         CustomNetworkManager.singleton.StartGame();

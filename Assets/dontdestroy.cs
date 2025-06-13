@@ -1,7 +1,6 @@
-using UnityEditor.UI;
 using UnityEngine;
 
-public class dontdestroy : MonoBehaviour
+public class Dontdestroy : MonoBehaviour
 {
     void Awake()
     {

@@ -1,6 +1,6 @@
+using System.Collections;
 using kcp2k;
 using Mirror;
-using Mirror.SimpleWeb;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -11,7 +11,8 @@ public enum GameState
     Loading,
     Lobby,
     Game,
-    End,
+    Defeat,
+    Victory,
     Matchmaking,
     IDK
 }
@@ -45,7 +46,7 @@ public class PersistentObject : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        
+
         switch (scene.name)
         {
             case "LoadingScreen":
@@ -64,14 +65,13 @@ public class PersistentObject : MonoBehaviour
                 GameObject.Find("SanjiChoice").GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendChangeCharacter("Sanji"));
                 GameObject.Find("UssopChoice").GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendChangeCharacter("Ussop"));
                 GameObject.Find("Video Player").GetComponent<VideoPlayer>().targetCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
+                GameObject.Find("NetworkManager").GetComponent<KcpTransport>().Port = (ushort)PlayerPrefs.GetInt("port");
                 break;
             case "Game":
                 currentState = GameState.Game;
                 webSocketClient.loader = null;
                 webSocketClient.uiInteract = null;
-                GameObject.Find("Video Player").GetComponent<VideoPlayer>().targetCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
-                GameObject.Find("NetworkManager").GetComponent<KcpTransport>().Port = (ushort)PlayerPrefs.GetInt("port");
-                GameObject.Find("NetworkManager").GetComponent<NetworkManager>().StartHost();
+                GameObject.Find("Main Camera").SetActive(false);
                 break;
             case "MatchmakingLoading":
                 currentState = GameState.Matchmaking;
@@ -79,8 +79,15 @@ public class PersistentObject : MonoBehaviour
                 webSocketClient.uiInteract = null;
                 GameObject.Find("LeftMatchmakingButton").GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendLeftMatchmaking());
                 break;
-            case "End":
-                currentState = GameState.End;
+            case "Defeat":
+                currentState = GameState.Defeat;
+                GameObject.Find("Video Player").GetComponent<VideoPlayer>().targetCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
+                StartCoroutine(DelayedDestroyContainer());
+                break;
+            case "Victory":
+                currentState = GameState.Victory;
+                GameObject.Find("Video Player").GetComponent<VideoPlayer>().targetCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
+                StartCoroutine(DelayedDestroyContainer());
                 break;
             default:
                 currentState = GameState.IDK;
@@ -88,5 +95,12 @@ public class PersistentObject : MonoBehaviour
         }
 
         Debug.Log($"Nouvelle scène : {scene.name} / Nouvel état : {currentState}");
+
+    }
+
+    private IEnumerator DelayedDestroyContainer()
+    {
+        yield return new WaitForSeconds(3);
+        webSocketClient.SendDestroyContainer();
     }
 }

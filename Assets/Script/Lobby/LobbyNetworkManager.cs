@@ -1,7 +1,8 @@
 using Mirror;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
+using kcp2k;
 
 
 
@@ -41,12 +42,24 @@ public class CustomNetworkManager : NetworkManager
         {
             index = selectedIndex;
         }
-
-        GameObject player = Instantiate(playerPrefabs[index], GetStartPosition().position, Quaternion.identity);
+        Transform startPos = GetStartPosition();
+        if (startPos == null)
+        {
+            Debug.LogError("Aucun NetworkStartPosition disponible !");
+            return;
+        }
+        GameObject player = Instantiate(playerPrefabs[index], startPos.position, Quaternion.identity);
         NetworkServer.AddPlayerForConnection(conn, player);
 
         LobbyPlayer lobbyPlayer = player.GetComponent<LobbyPlayer>();
-        lobbyPlayers.Add(lobbyPlayer);
+        if (lobbyPlayer != null)
+        {
+            lobbyPlayers.Add(lobbyPlayer);
+        }
+        else
+        {
+            Debug.LogWarning($"Le prefab {playerPrefabs[index].name} n’a pas de composant LobbyPlayer !");
+        }
     }
 
     public override void OnServerDisconnect(NetworkConnectionToClient conn)
@@ -63,7 +76,7 @@ public class CustomNetworkManager : NetworkManager
     {
         if (PlayerPrefs.HasKey("port"))
         {
-            ServerChangeScene("Game");
+            SceneManager.LoadScene("Game");
         }
     }
 }
