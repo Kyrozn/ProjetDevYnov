@@ -19,10 +19,12 @@ public class BossController : NetworkBehaviour
     public GameObject magicProjectilePrefab;
     public Transform firePoint;
 
+    [Header("Targeting")]
+    public LayerMask playerLayer;
+
     private Transform target;
     private float lastAttackTime;
     [SyncVar] public bool isAttacking = false;
-
 
     void Start()
     {
@@ -37,18 +39,22 @@ public class BossController : NetworkBehaviour
 
     void Update()
     {
-        if (!isServer || target == null || currentHealth <= 0) return;
-
-        float distance = Vector2.Distance(transform.position, target.position);
+        if (!isServer || currentHealth <= 0) return;
 
         if (Time.time - lastAttackTime >= attackCooldown)
         {
+            Transform nearestTarget = GetNearestPlayer();
+            if (nearestTarget == null) return;
+
+            float distance = Vector2.Distance(transform.position, nearestTarget.position);
+
             if (distance <= meleeRange)
             {
                 MeleeAttack();
             }
             else if (distance <= rangedRange)
             {
+                target = nearestTarget;
                 RangedAttack();
             }
         }
@@ -92,47 +98,72 @@ public class BossController : NetworkBehaviour
         lastAttackTime = Time.time;
         animator.SetTrigger("Claw");
 
-        if (target != null)
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, meleeRange, playerLayer);
+
+        foreach (var hit in hits)
         {
-            target.GetComponent<PlayerStats>()?.TakeDamage(20);
+            if (hit.TryGetComponent<PlayerStats>(out var player))
+            {
+                player.TakeDamage(20);
+            }
         }
+
         Invoke(nameof(StopAttacking), 0.5f);
     }
 
     [Server]
     void RangedAttack()
-{
-    lastAttackTime = Time.time;
-    isAttacking = true;
-
-    animator.SetTrigger("Cast");
-
-    if (magicProjectilePrefab && firePoint)
     {
-        GameObject proj = Instantiate(magicProjectilePrefab, firePoint.position, Quaternion.identity);
-        Vector2 direction = (target.position - firePoint.position).normalized;
-        proj.GetComponent<Rigidbody2D>().linearVelocity = direction * 5f;
+        lastAttackTime = Time.time;
+        isAttacking = true;
 
-        NetworkServer.Spawn(proj);
+        animator.SetTrigger("Cast");
+
+        if (magicProjectilePrefab && firePoint && target != null)
+        {
+            GameObject proj = Instantiate(magicProjectilePrefab, firePoint.position, Quaternion.identity);
+            Vector2 direction = (target.position - firePoint.position).normalized;
+            proj.GetComponent<Rigidbody2D>().linearVelocity = direction * 5f;
+
+            NetworkServer.Spawn(proj);
+        }
+
+        Invoke(nameof(StopAttacking), 0.5f);
     }
 
-    Invoke(nameof(StopAttacking), 0.5f);
-}
+    [Server]
+    void StopAttacking()
+    {
+        isAttacking = false;
+    }
 
-[Server]
-void StopAttacking()
-{
-    isAttacking = false;
-}
-    // public override void OnStartServer()
-    // {
-    //     base.OnStartServer();
-    //     currentHealth = maxHealth;
-    // }
+    [Server]
+    Transform GetNearestPlayer()
+    {
+        Collider2D[] players = Physics2D.OverlapCircleAll(transform.position, rangedRange, playerLayer);
 
-    // public override void OnStopServer()
-    // {
-    //     base.OnStopServer();
-    //     Destroy(gameObject);
-    // }
+        Transform nearest = null;
+        float minDist = Mathf.Infinity;
+
+        foreach (var col in players)
+        {
+            float dist = Vector2.Distance(transform.position, col.transform.position);
+            if (dist < minDist)
+            {
+                minDist = dist;
+                nearest = col.transform;
+            }
+        }
+
+        return nearest;
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, meleeRange);
+
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawWireSphere(transform.position, rangedRange);
+    }
 }
