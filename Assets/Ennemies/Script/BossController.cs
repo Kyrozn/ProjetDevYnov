@@ -21,6 +21,9 @@ public class BossController : NetworkBehaviour
     public GameObject magicProjectilePrefab;
     public Transform firePoint;
 
+    [Header("Targeting")]
+    public LayerMask playerLayer;
+
     private Transform target;
     private float lastAttackTime;
 
@@ -29,8 +32,7 @@ public class BossController : NetworkBehaviour
     [Header("Movement Settings")]
     public float moveSpeed = 2f;
 
-
-    void Awake()
+    void Start()
     {
         animator = GetComponent<Animator>();
     }
@@ -82,21 +84,25 @@ public class BossController : NetworkBehaviour
     [Server]
     void FindClosestPlayer()
     {
-        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
-        float minDistance = Mathf.Infinity;
-        Transform closest = null;
+        if (!isServer || currentHealth <= 0) return;
 
-        foreach (GameObject p in players)
+        if (Time.time - lastAttackTime >= attackCooldown)
         {
-            float dist = Vector2.Distance(transform.position, p.transform.position);
-            if (dist < minDistance)
+            Transform nearestTarget = GetNearestPlayer();
+            if (nearestTarget == null) return;
+
+            float distance = Vector2.Distance(transform.position, nearestTarget.position);
+
+            if (distance <= meleeRange)
             {
-                minDistance = dist;
-                closest = p.transform;
+                MeleeAttack();
+            }
+            else if (distance <= rangedRange)
+            {
+                target = nearestTarget;
+                RangedAttack();
             }
         }
-
-        target = closest;
     }
 
     [Server]
@@ -151,9 +157,14 @@ public class BossController : NetworkBehaviour
 
         animator.SetTrigger("Claw");
 
-        if (target != null && target.TryGetComponent<PlayerStats>(out var stats))
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, meleeRange, playerLayer);
+
+        foreach (var hit in hits)
         {
-            stats.TakeDamage(20);
+            if (hit.TryGetComponent<PlayerStats>(out var player))
+            {
+                player.TakeDamage(20);
+            }
         }
 
         Invoke(nameof(StopAttacking), 0.5f);
@@ -183,5 +194,35 @@ public class BossController : NetworkBehaviour
     void StopAttacking()
     {
         isAttacking = false;
+    }
+
+    [Server]
+    Transform GetNearestPlayer()
+    {
+        Collider2D[] players = Physics2D.OverlapCircleAll(transform.position, rangedRange, playerLayer);
+
+        Transform nearest = null;
+        float minDist = Mathf.Infinity;
+
+        foreach (var col in players)
+        {
+            float dist = Vector2.Distance(transform.position, col.transform.position);
+            if (dist < minDist)
+            {
+                minDist = dist;
+                nearest = col.transform;
+            }
+        }
+
+        return nearest;
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, meleeRange);
+
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawWireSphere(transform.position, rangedRange);
     }
 }

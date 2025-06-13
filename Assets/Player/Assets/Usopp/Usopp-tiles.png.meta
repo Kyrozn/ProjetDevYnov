@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 08f9a066a4328634db62882af178d585
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5943934732982410651
+    second: Usopp-tiles_0
+  - first:
+      213: 955044434642716906
+    second: Usopp-tiles_1
+  - first:
+      213: -1428119645906763715
+    second: Usopp-tiles_2
+  - first:
+      213: -7766746465281607938
+    second: Usopp-tiles_3
+  - first:
+      213: -74243858443700044
+    second: Usopp-tiles_4
+  - first:
+      213: -2195331797409221392
+    second: Usopp-tiles_5
+  - first:
+      213: 8604126673319230753
+    second: Usopp-tiles_6
+  - first:
+      213: -1491030796224600639
+    second: Usopp-tiles_7
+  - first:
+      213: -935383457244246843
+    second: Usopp-tiles_8
+  - first:
+      213: 1634603188374087283
+    second: Usopp-tiles_9
+  - first:
+      213: 831153634630232680
+    second: Usopp-tiles_10
+  - first:
+      213: 877391336159798638
+    second: Usopp-tiles_11
+  - first:
+      213: 695097387398147351
+    second: Usopp-tiles_12
+  - first:
+      213: -2841417591280580289
+    second: Usopp-tiles_13
+  - first:
+      213: -4212907954224847753
+    second: Usopp-tiles_14
+  - first:
+      213: -2217929626137924300
+    second: Usopp-tiles_15
+  - first:
+      213: 5222247955437213142
+    second: Usopp-tiles_16
+  - first:
+      213: 5427580067785824539
+    second: Usopp-tiles_17
+  - first:
+      213: 39403064374938387
+    second: Usopp-tiles_18
+  - first:
+      213: -4060315660205333600
+    second: Usopp-tiles_19
+  - first:
+      213: 5896646846249354662
+    second: Usopp-tiles_20
+  - first:
+      213: -7205960939567813206
+    second: Usopp-tiles_21
+  - first:
+      213: 907416050346258682
+    second: Usopp-tiles_22
+  - first:
+      213: 4724011328529274610
+    second: Usopp-tiles_23
+  - first:
+      213: -6351538212212367020
+    second: Usopp-tiles_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Usopp-tiles_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 421
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622a784ad6e28da0800000000000000
+      internalID: -5943934732982410651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 420
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c79f6adff04d00800000000000000
+      internalID: 955044434642716906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 419
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3088f0afbc4e2ce0800000000000000
+      internalID: -1428119645906763715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 419
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef67e546d39f63490800000000000000
+      internalID: -7766746465281607938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 421
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b875b6aa9b38fef0800000000000000
+      internalID: -74243858443700044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 388
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4bd439c5d9881e0800000000000000
+      internalID: -2195331797409221392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 293
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12df7ad6f9ff76770800000000000000
+      internalID: 8604126673319230753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 324
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c56dd1046bce4be0800000000000000
+      internalID: -1491030796224600639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0e2693b9d403f0800000000000000
+      internalID: -935383457244246843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 259
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37622c770f64fa610800000000000000
+      internalID: 1634603188374087283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 224
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ae8e9b3d9d88b00800000000000000
+      internalID: 831153634630232680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 228
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e656fc885ce1d2c00800000000000000
+      internalID: 877391336159798638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 218
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d2b2c146b75a900800000000000000
+      internalID: 695097387398147351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 230
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39cc2551c14198d0800000000000000
+      internalID: -2841417591280580289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 220
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a20d598eb885c0800000000000000
+      internalID: -4212907954224847753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 221
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43deb3191c45831e0800000000000000
+      internalID: -2217929626137924300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 195
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d558d8c8d6297840800000000000000
+      internalID: 5222247955437213142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 222
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195d5aa053a25b40800000000000000
+      internalID: 5427580067785824539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 194
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4127d0ecfb8000800000000000000
+      internalID: 39403064374938387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 178
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a361856b6cd6a7c0800000000000000
+      internalID: -4060315660205333600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 167
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5ce9c901915d150800000000000000
+      internalID: 5896646846249354662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 147
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad68bb44b84ffb90800000000000000
+      internalID: -7205960939567813206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 147
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af07060171ac79c00800000000000000
+      internalID: 907416050346258682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f698ef364f0f8140800000000000000
+      internalID: 4724011328529274610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 179
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45123cbd5adcad7a0800000000000000
+      internalID: -6351538212212367020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa541ef8ec6b4b24898689a70c7c6b5d
+      internalID: -604764844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 357
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abaf106c05b3a74a9106fa0d27ba3b4
+      internalID: 754837500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da012efb783c0441882f7506c31b7b9
+      internalID: 869849253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 293
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0f928f054e40498442663f0cff47c
+      internalID: 1041979469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 261
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53904714a8b51fb4e84e3cc1d57bafdf
+      internalID: -511102112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 229
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26c6bdf41d4df9458d3539831de938c
+      internalID: 1218938476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a9929d29a66b4aa74dc2c0f441509
+      internalID: 444629575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 165
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70a613265a1a7d4c8492f3b4975af70
+      internalID: 1666783698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65ca1564781d24b863e027c71a401c
+      internalID: -1100868947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 101
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef80fb697a55714ebe087fcba851789
+      internalID: 1767331694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32977f62a901a2647b4b3b0ef7d25440
+      internalID: -1171595319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 388
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fc1aa052d356c499cd90b67fec10c3
+      internalID: -2012992537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 356
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054dc983b4b1be84090bbebe57ac786e
+      internalID: 1032029110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 324
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ded8f851b0ac9438be402c6a8d16a4
+      internalID: 530168753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 356
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3c37c15f80f324e9a138ffcfca2e66
+      internalID: -1693344998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 292
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef560657750ab3e44af951d0c90ccf0b
+      internalID: 1950162713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 387
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a0b1d4af705a4db47bedf3ddbbaf8
+      internalID: -151545046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 355
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0321ccf5a9154d04d875da82c2177ef6
+      internalID: 41756943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 323
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250b1d7cd319be045bc19847bf325a1a
+      internalID: -450913155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 291
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3302111c54095fa4f845eae8101e0736
+      internalID: -332591904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 259
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153119ddcd7776d469faec5fc5b5bd54
+      internalID: 2061580867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 389
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26032436c1c1214488c80efef06902c5
+      internalID: -1434473503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 357
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e435cee58b9a41943a068cd571d456fe
+      internalID: 958479558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 325
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a594321d69ac4f86cb3eed1ab1e91
+      internalID: -2091097833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 293
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b8b058f0d9e294aa378599519fa443
+      internalID: 1748110067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usopp-tiles_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 261
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf57e17ff7f1d14ba5a79509847aee6
+      internalID: 1932850122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 970f69ef6ee4dc544a20b8c80c940191
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Usopp-tiles_0: -5943934732982410651
+      Usopp-tiles_1: 955044434642716906
+      Usopp-tiles_10: 831153634630232680
+      Usopp-tiles_11: 877391336159798638
+      Usopp-tiles_12: 695097387398147351
+      Usopp-tiles_13: -2841417591280580289
+      Usopp-tiles_14: -4212907954224847753
+      Usopp-tiles_15: -2217929626137924300
+      Usopp-tiles_16: 5222247955437213142
+      Usopp-tiles_17: 5427580067785824539
+      Usopp-tiles_18: 39403064374938387
+      Usopp-tiles_19: -4060315660205333600
+      Usopp-tiles_2: -1428119645906763715
+      Usopp-tiles_20: 5896646846249354662
+      Usopp-tiles_21: -7205960939567813206
+      Usopp-tiles_22: 907416050346258682
+      Usopp-tiles_23: 4724011328529274610
+      Usopp-tiles_24: -6351538212212367020
+      Usopp-tiles_25: -604764844
+      Usopp-tiles_26: 754837500
+      Usopp-tiles_27: 869849253
+      Usopp-tiles_28: 1041979469
+      Usopp-tiles_29: -511102112
+      Usopp-tiles_3: -7766746465281607938
+      Usopp-tiles_30: 1218938476
+      Usopp-tiles_31: 444629575
+      Usopp-tiles_32: 1666783698
+      Usopp-tiles_33: -1100868947
+      Usopp-tiles_34: 1767331694
+      Usopp-tiles_35: -1171595319
+      Usopp-tiles_36: -2012992537
+      Usopp-tiles_37: 1032029110
+      Usopp-tiles_38: 530168753
+      Usopp-tiles_39: -1693344998
+      Usopp-tiles_4: -74243858443700044
+      Usopp-tiles_40: 1950162713
+      Usopp-tiles_41: -151545046
+      Usopp-tiles_42: 41756943
+      Usopp-tiles_43: -450913155
+      Usopp-tiles_44: -332591904
+      Usopp-tiles_45: 2061580867
+      Usopp-tiles_46: -1434473503
+      Usopp-tiles_47: 958479558
+      Usopp-tiles_48: -2091097833
+      Usopp-tiles_49: 1748110067
+      Usopp-tiles_5: -2195331797409221392
+      Usopp-tiles_50: 1932850122
+      Usopp-tiles_6: 8604126673319230753
+      Usopp-tiles_7: -1491030796224600639
+      Usopp-tiles_8: -935383457244246843
+      Usopp-tiles_9: 1634603188374087283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
