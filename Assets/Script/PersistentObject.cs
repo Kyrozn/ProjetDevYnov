@@ -80,11 +80,13 @@ public class PersistentObject : MonoBehaviour
                 GameObject.Find("LeftMatchmakingButton").GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendLeftMatchmaking());
                 break;
             case "Defeat":
+                GameObject.Find("Main Camera").SetActive(true);
                 currentState = GameState.Defeat;
                 GameObject.Find("Video Player").GetComponent<VideoPlayer>().targetCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
                 StartCoroutine(DelayedDestroyContainer());
                 break;
             case "Victory":
+                GameObject.Find("Main Camera").SetActive(true);
                 currentState = GameState.Victory;
                 GameObject.Find("Video Player").GetComponent<VideoPlayer>().targetCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
                 StartCoroutine(DelayedDestroyContainer());
