@@ -6,13 +6,10 @@ public class PlayerSpellManager : NetworkBehaviour
 {
     [Header("Spells")]
     public Spell[] equippedSpells = new Spell[3];
-
-    private Animator animator;
     private double[] lastCastTimes;
 
     void Start()
     {
-        animator = GetComponent<Animator>();
         InitCooldowns();
     }
 
@@ -30,42 +27,11 @@ public class PlayerSpellManager : NetworkBehaviour
         if (!isLocalPlayer) return;
 
         // Gestion des entrées (à adapter selon ton mapping)
-        if (Input.GetButtonDown("Fire1")) TryRequestCast(0);
-        if (Input.GetButtonDown("Fire2")) TryRequestCast(1);
-        if (Input.GetButtonDown("Fire3")) TryRequestCast(2);
+        if (Input.GetButtonDown("Fire1")) equippedSpells[0].Cast(gameObject);
+        if (Input.GetButtonDown("Fire2")) equippedSpells[1].Cast(gameObject);
+        if (Input.GetButtonDown("Fire3")) equippedSpells[2].Cast(gameObject);
     }
 
-    void TryRequestCast(int index)
-    {
-        if (index < 0 || index >= equippedSpells.Length)
-        {
-            Debug.LogWarning($"Tentative de cast sur un index invalide : {index}");
-            return;
-        }
-
-        CmdCastSpell(index);
-    }
-
-    [Command]
-    void CmdCastSpell(int index)
-    {
-        if (!IsValidSpell(index, out Spell spell)) return;
-
-        double now = NetworkTime.time;
-        if (now < lastCastTimes[index] + spell.cooldown)
-        {
-            Debug.Log($"[Server] Sort {index} encore en cooldown pour {gameObject.name}");
-            return;
-        }
-
-        lastCastTimes[index] = now;
-
-        // Logique principale de cast
-        spell.Cast(gameObject);
-
-        // Animation pour les clients
-        RpcPlaySpellAnimation(index);
-    }
 
     bool IsValidSpell(int index, out Spell spell)
     {
@@ -85,22 +51,5 @@ public class PlayerSpellManager : NetworkBehaviour
         }
 
         return true;
-    }
-
-    [ClientRpc]
-    void RpcPlaySpellAnimation(int index)
-    {
-        if (animator == null)
-        {
-            animator = GetComponent<Animator>();
-            if (animator == null)
-            {
-                Debug.LogWarning($"Animator manquant sur {gameObject.name}");
-                return;
-            }
-        }
-
-        string animTrigger = $"Spell{index + 1}";
-        animator.SetTrigger(animTrigger);
     }
 }

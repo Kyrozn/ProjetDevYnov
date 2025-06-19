@@ -13,6 +13,7 @@ public class LuffyController : PlayerController
     protected override void Update()
     {
         base.Update(); // Appelle l'Update du parent
+
     }
     public void CastGatling(float attackDistance, Vector2 boxSize, int damage)
     {
@@ -47,11 +48,11 @@ public class LuffyController : PlayerController
 
     protected virtual System.Collections.IEnumerator ResetGatlingBool()
     {
-        animator.SetBool("SimpleAttack", true);
+        animator.SetBool("Spell1", true);
         animator.SetFloat("Horizontal", h);
         animator.SetFloat("Vertical", v);
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
-        animator.SetBool("SimpleAttack", false);
+        animator.SetBool("Spell1", false);
     }
     // private void OnDrawGizmosSelected()
     // {

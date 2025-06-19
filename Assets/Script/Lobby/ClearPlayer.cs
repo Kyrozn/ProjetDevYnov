@@ -1,13 +1,13 @@
-using UnityEditor;
-using UnityEngine;
+// using UnityEditor;
+// using UnityEngine;
 
-public class PlayerPrefsTools
-{
-    [MenuItem("Tools/Clear PlayerPrefs")] // Ctrl+Shift+D (Windows) / Cmd+Shift+D (Mac)
-    public static void ClearPlayerPrefs()
-    {
-        PlayerPrefs.DeleteAll();
-        PlayerPrefs.Save();
-        Debug.Log("🧹 PlayerPrefs supprimés !");
-    }
-}
+// public class PlayerPrefsTools
+// {
+//     [MenuItem("Tools/Clear PlayerPrefs")] // Ctrl+Shift+D (Windows) / Cmd+Shift+D (Mac)
+//     public static void ClearPlayerPrefs()
+//     {
+//         PlayerPrefs.DeleteAll();
+//         PlayerPrefs.Save();
+//         Debug.Log("🧹 PlayerPrefs supprimés !");
+//     }
+// } 

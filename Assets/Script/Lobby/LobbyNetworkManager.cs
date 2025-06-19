@@ -3,6 +3,7 @@ using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using kcp2k;
+using System;
 
 
 
@@ -21,6 +22,7 @@ public class CustomNetworkManager : NetworkManager
     public List<LobbyPlayer> lobbyPlayers = new();
     public List<GameObject> playerPrefabs; // Liste des prefabs de personnages
     private readonly Dictionary<NetworkConnectionToClient, int> selectedCharacters = new();
+    public GameObject bossPrefab;
 
     public override void Awake()
     {
@@ -36,6 +38,7 @@ public class CustomNetworkManager : NetworkManager
 
     public override void OnServerAddPlayer(NetworkConnectionToClient conn)
     {
+        Console.WriteLine("a player join");
         SetPlayerCharacter(conn);
         int index = 0;
         if (selectedCharacters.TryGetValue(conn, out int selectedIndex))
@@ -77,6 +80,7 @@ public class CustomNetworkManager : NetworkManager
         if (PlayerPrefs.HasKey("port"))
         {
             SceneManager.LoadScene("Game");
+            Instantiate(bossPrefab, GetStartPosition().position, Quaternion.identity);
         }
     }
 }

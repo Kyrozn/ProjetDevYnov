@@ -32,7 +32,7 @@ public class BossController : NetworkBehaviour
     [Header("Movement Settings")]
     public float moveSpeed = 2f;
 
-    void Start()
+    void Awake()
     {
         animator = GetComponent<Animator>();
     }

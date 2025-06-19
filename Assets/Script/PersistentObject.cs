@@ -90,6 +90,7 @@ public class PersistentObject : MonoBehaviour
                 currentState = GameState.Victory;
                 GameObject.Find("Video Player").GetComponent<VideoPlayer>().targetCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
                 StartCoroutine(DelayedDestroyContainer());
+                
                 break;
             default:
                 currentState = GameState.IDK;

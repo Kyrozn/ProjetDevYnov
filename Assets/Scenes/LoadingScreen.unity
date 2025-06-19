@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 132177772}
   - component: {fileID: 132177770}
   - component: {fileID: 132177773}
+  - component: {fileID: 132177774}
   m_Layer: 0
   m_Name: NetworkManager
   m_TagString: Untagged
@@ -163,7 +164,7 @@ MonoBehaviour:
   MaximizeSocketBuffers: 1
   ReliableMaxMessageSize: 297433
   UnreliableMaxMessageSize: 1194
-  debugLog: 0
+  debugLog: 1
   statisticsGUI: 0
   statisticsLog: 0
 --- !u!4 &132177772
@@ -195,7 +196,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dontDestroyOnLoad: 1
   runInBackground: 1
-  headlessStartMode: 1
+  headlessStartMode: 2
   editorAutoStart: 0
   sendRate: 60
   offlineScene: 
@@ -230,6 +231,20 @@ MonoBehaviour:
   playerPrefabs:
   - {fileID: 5932135543104303592, guid: b8056fa765d86044ca209ff694bc3f9e, type: 3}
   - {fileID: 5770145814465341269, guid: 51205839ec3482f49915bd432ffdfe48, type: 3}
+--- !u!114 &132177774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 132177768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6442dc8070ceb41f094e44de0bf87274, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offsetX: 0
+  offsetY: 0
 --- !u!1 &206751434
 GameObject:
   m_ObjectHideFlags: 0

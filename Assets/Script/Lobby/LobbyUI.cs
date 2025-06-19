@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using System.Collections.Generic;
 using Mirror;
 using Mirror.SimpleWeb;
+using Mirror.Examples.Basic;
 
 public class LobbyUI : MonoBehaviour
 {
@@ -41,7 +42,7 @@ public class LobbyUI : MonoBehaviour
         joinLobbyButton.GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendJoinLobby());
         createLobbyButton.GetComponent<Button>().onClick.AddListener(() => webSocketClient.SendCreateLobby());
         EnterMatchmaking.onClick.AddListener(() => webSocketClient.SendEnterMatchmaking());
-        
+        playerItemPrefab.GetComponentInChildren<Text>().text = PlayerPrefs.GetString("username");
     }
     
     

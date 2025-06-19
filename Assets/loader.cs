@@ -28,7 +28,7 @@ public class Loader : MonoBehaviour
     {
         if (rt.sizeDelta.x <= 79f)
         {
-            float randomWidth = UnityEngine.Random.Range(1f, 20f);
+            float randomWidth = Random.Range(1f, 20f);
             rt.sizeDelta = new Vector2(rt.sizeDelta.x + randomWidth, rt.sizeDelta.y);
         }
         else if (Isconnected == true)

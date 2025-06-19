@@ -16,9 +16,8 @@ public class WebSocketClient : MonoBehaviour
     public LobbyUI uiInteract;
     public Loader loader;
 
-    private async void Awake()
+    private async void Start()
     {
-
         if (!PlayerPrefs.HasKey("id"))
         {
             await ws.ConnectAsync(serverUri, CancellationToken.None);
@@ -86,10 +85,10 @@ public class WebSocketClient : MonoBehaviour
                     Debug.LogWarning("test");
                     string token = parts[1];
                     string username = parts[2];
-                    string difficulties = parts[3];
+                    string Elo = parts[3];
                     PlayerPrefs.SetString("id", token);
                     PlayerPrefs.SetString("username", username);
-                    PlayerPrefs.SetString("difficulties", difficulties);
+                    PlayerPrefs.SetString("difficulties", Elo);
                     PlayerPrefs.Save();
                     UnityEngine.SceneManagement.SceneManager.LoadScene("Lobby");
                 }

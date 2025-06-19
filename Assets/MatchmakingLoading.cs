@@ -14,6 +14,6 @@ public class MatchmakingLoading : MonoBehaviour
     }
     public void LeftMatchmaking()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("Lobby");
     }
 }

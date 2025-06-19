@@ -412,7 +412,31 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 304532032}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1314372497}
+        m_TargetAssemblyTypeName: LobbyUI, Assembly-CSharp
+        m_MethodName: ChangeCharacter
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: -3129647116685351939, guid: 8b2ec14379c37c2428c61543485cc5a5, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1314372497}
+        m_TargetAssemblyTypeName: LobbyUI, Assembly-CSharp
+        m_MethodName: ChangeCharacterStock
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &304532032
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1180,7 +1204,31 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 750548392}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1314372497}
+        m_TargetAssemblyTypeName: LobbyUI, Assembly-CSharp
+        m_MethodName: ChangeCharacter
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: -5943934732982410651, guid: 08f9a066a4328634db62882af178d585, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1314372497}
+        m_TargetAssemblyTypeName: LobbyUI, Assembly-CSharp
+        m_MethodName: ChangeCharacterStock
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &750548392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2025,7 +2073,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa0b648de8cdc54449482175c01b6d43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerListRoot: {fileID: 0}
+  playerListRoot: {fileID: 1454057030}
   playerItemPrefab: {fileID: 1240620242}
   startGameButton: {fileID: 1936830288}
   EnterMatchmaking: {fileID: 589651024}
